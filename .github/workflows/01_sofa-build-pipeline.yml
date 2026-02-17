@@ -25,6 +25,10 @@ on:
 
     # On every day every 6 hours
     - cron: '30 */6 * * *'
+
+permissions:
+  contents: write
+
 env:
   PYTHON_VERSION: '3.13'
 
