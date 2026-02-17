@@ -4,7 +4,7 @@
       <p class="eyebrow">Live Release Pulse</p>
       <h1 id="beta-spotlight-title">Latest Betas, Front And Center</h1>
       <p class="subtext">
-        Current developer/public beta signals across Apple platforms, updated from the SOFA data feed.
+        Current developer/public beta signals across Apple platforms, updated from the Mevolit data feed.
       </p>
       <div class="meta-row">
         <span class="meta-pill">
