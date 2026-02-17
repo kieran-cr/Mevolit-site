@@ -1,0 +1,136 @@
+{
+  "update_hash": "sha256:1e96e4e203bdeb73ec270474ff86cd444147487e22770d643c7439ef84bc810c",
+  "total_products": 14,
+  "categories": {
+    "macOS": 14
+  },
+  "catalog_url": "https://swscan.apple.com/content/catalogs/others/index-14-13-12-10.16-10.15-10.14-10.13-10.12-10.11-10.10-10.9-mountainlion-lion-snowleopard-leopard.merged-1.sucatalog",
+  "products": [
+    {
+      "product_key": "047-60297",
+      "title": "macOS Tahoe",
+      "version": "26.3",
+      "build": "25D125",
+      "posting_date": "2026-02-11T18:43:26Z",
+      "size": 17519647851,
+      "download_url": "https://swcdn.apple.com/content/downloads/15/23/047-60297-A_CC7WE2S6AE/h1lvp87655fnwe4zityuew187qsnj7dzcd/InstallAssistant.pkg"
+    },
+    {
+      "product_key": "093-37361",
+      "title": "macOS Tahoe",
+      "version": "26.2",
+      "build": "25C56",
+      "posting_date": "2026-01-08T23:19:17Z",
+      "size": 17389952037,
+      "download_url": "https://swcdn.apple.com/content/downloads/11/14/093-37361-A_NX0SMZC0LI/9slwkknt5xciy7bhd9ux9utct03e07j6qp/InstallAssistant.pkg"
+    },
+    {
+      "product_key": "089-04325",
+      "title": "macOS Tahoe",
+      "version": "26.1",
+      "build": "25B78",
+      "posting_date": "2025-11-03T21:40:48Z",
+      "size": 17303018735,
+      "download_url": "https://swcdn.apple.com/content/downloads/60/34/089-04325-A_JAKF079NR4/fjimp3su7pvbg0o6sf3kus7k989finz274/InstallAssistant.pkg"
+    },
+    {
+      "product_key": "047-48630",
+      "title": "macOS Sequoia",
+      "version": "15.7.4",
+      "build": "24G517",
+      "posting_date": "2026-02-11T18:49:07Z",
+      "size": 15658477459,
+      "download_url": "https://swcdn.apple.com/content/downloads/37/51/047-48630-A_HTYZPEF7FA/valu87cxr2ebio819t58ccdui7l6fypxw7/InstallAssistant.pkg"
+    },
+    {
+      "product_key": "089-70987",
+      "title": "macOS Sequoia",
+      "version": "15.7.3",
+      "build": "24G419",
+      "posting_date": "2026-01-08T23:19:47Z",
+      "size": 15660424508,
+      "download_url": "https://swcdn.apple.com/content/downloads/47/16/089-70987-A_PWKNKEFQ1D/sjlq45liw0g5lor3a6i89vz7paml1xpq6w/InstallAssistant.pkg"
+    },
+    {
+      "product_key": "093-99065",
+      "title": "macOS Sequoia",
+      "version": "15.7.2",
+      "build": "24G325",
+      "posting_date": "2025-11-03T21:41:50Z",
+      "size": 15658844828,
+      "download_url": "https://swcdn.apple.com/content/downloads/23/34/093-99065-A_B4TEYIISAM/1a1ddvynvgdh82ev879kh13y2a3trwr18v/InstallAssistant.pkg"
+    },
+    {
+      "product_key": "047-48595",
+      "title": "macOS Sonoma",
+      "version": "14.8.4",
+      "build": "23J319",
+      "posting_date": "2026-02-11T18:50:49Z",
+      "size": 13673240788,
+      "download_url": "https://swcdn.apple.com/content/downloads/54/28/047-48595-A_R091M3YM05/clkilvw19hq1zy5j5jz2wnf4re6b3sksfd/InstallAssistant.pkg"
+    },
+    {
+      "product_key": "089-71265",
+      "title": "macOS Sonoma",
+      "version": "14.8.3",
+      "build": "23J220",
+      "posting_date": "2026-01-08T23:20:07Z",
+      "size": 13673494625,
+      "download_url": "https://swcdn.apple.com/content/downloads/32/47/089-71265-A_6O6NMLUUUS/7eoxdv3yggl8rmaz7jicf3wmys68ptjwho/InstallAssistant.pkg"
+    },
+    {
+      "product_key": "093-92756",
+      "title": "macOS Sonoma",
+      "version": "14.8.2",
+      "build": "23J126",
+      "posting_date": "2025-11-03T21:42:54Z",
+      "size": 13673286094,
+      "download_url": "https://swcdn.apple.com/content/downloads/43/05/093-92756-A_8KCV583EO6/rk4pkpm81lfh7ee76z8qupc8jtoo4nrde1/InstallAssistant.pkg"
+    },
+    {
+      "product_key": "093-22004",
+      "title": "macOS Ventura",
+      "version": "13.7.8",
+      "build": "22H730",
+      "posting_date": "2025-08-27T17:09:43Z",
+      "size": 12218010817,
+      "download_url": "https://swcdn.apple.com/content/downloads/09/46/093-22004-A_QNZEDC334I/phigx2zvoggml6sh79my4y51fnvgy8hix4/InstallAssistant.pkg"
+    },
+    {
+      "product_key": "062-40406",
+      "title": "macOS Monterey",
+      "version": "12.7.6",
+      "build": "21H1320",
+      "posting_date": "2026-02-09T18:30:00Z",
+      "size": 12415880752,
+      "download_url": "https://swcdn.apple.com/content/downloads/24/16/062-40406-A_LQ4WW26M04/j7bl9ygay5prezturwh72ai10fvseh2uhw/InstallAssistant.pkg"
+    },
+    {
+      "product_key": "052-60131",
+      "title": "macOS Monterey",
+      "version": "12.7.4",
+      "build": "21H1123",
+      "posting_date": "2024-03-18T17:11:48Z",
+      "size": 12415331849,
+      "download_url": "https://swcdn.apple.com/content/downloads/46/57/052-60131-A_KM2RH04C2D/9yzvba1uvpem2wuo95r459qno57qaizwf2/InstallAssistant.pkg"
+    },
+    {
+      "product_key": "047-32248",
+      "title": "macOS Big Sur",
+      "version": "11.7.11",
+      "build": "20G1443",
+      "posting_date": "2026-02-02T18:46:21Z",
+      "size": 12419969633,
+      "download_url": "https://swcdn.apple.com/content/downloads/10/18/047-32248-A_Y7S9K47C9M/rqg3zuwb6dkofsdilmz22awvxtq2sxwr15/InstallAssistant.pkg"
+    },
+    {
+      "product_key": "042-45246",
+      "title": "macOS Big Sur",
+      "version": "11.7.10",
+      "build": "20G1427",
+      "posting_date": "2023-09-11T17:15:11Z",
+      "size": 12422780869,
+      "download_url": "https://swcdn.apple.com/content/downloads/14/38/042-45246-A_NLFOFLCJFZ/jk992zbv98sdzz3rgc7mrccjl3l22ruk1c/InstallAssistant.pkg"
+    }
+  ]
+}
