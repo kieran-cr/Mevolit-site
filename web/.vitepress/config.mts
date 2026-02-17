@@ -116,9 +116,7 @@ export default defineConfig({
       }
     ],
 
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/macadmins/sofa' },
-    ],
+    socialLinks: [],
     footer: {
       message: 'Released under the Apache 2.0 License.',
       copyright: 'Copyright © 2025 Mevolit.',

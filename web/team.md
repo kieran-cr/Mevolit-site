@@ -93,9 +93,9 @@ const communityMembers = [
 </script>
 
 
-# MacAdmins Open Source + SOFA ❤️ community
+# MacAdmins Open Source + Mevolit ❤️ community
 
-This is a list of early contributors to SOFA. 
+This is a list of early contributors to Mevolit. 
 
 ## Core contributors
 <VPTeamMembers size="small" :members="coreMembers" />

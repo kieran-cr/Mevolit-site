@@ -47,7 +47,7 @@ import FeedInfo from './.vitepress/theme/components/FeedInfo.vue'
 - [Munki](https://www.munki.org) - Managed software installation
 - [AutoPkg](https://github.com/autopkg/autopkg) - Automated software packaging
 - [Nudge](https://github.com/macadmins/nudge) - User-focused update encouragement
-- [Mevolit](https://github.com/macadmins/sofa) - Hardware & Software Companion
+- [Mevolit](/) - Hardware & Software Companion
 - [MOFA](https://mofa.cocolabs.dev/) - Microsoft Office update tracking and management
 
 ### MDM Solutions

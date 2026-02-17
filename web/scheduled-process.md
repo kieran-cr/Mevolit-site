@@ -112,10 +112,10 @@ The pipeline runs automatically via GitHub Actions with a dual schedule:
 ### Mevolit CLI Binaries (Auto-Downloaded)
 | Binary | Purpose | Stage |
 |--------|---------|-------|
-| `sofa-gather` | Collect data from Apple APIs | Gather |
-| `sofa-fetch` | Scrape security pages and enrich data | Fetch |
-| `sofa-build` | Generate JSON feeds and bulletin data | Build |
-| `sofa-cve` | Process CVE data (optional) | CVE |
+| `mevolit-gather` | Collect data from Apple APIs | Gather |
+| `mevolit-fetch` | Scrape security pages and enrich data | Fetch |
+| `mevolit-build` | Generate JSON feeds and bulletin data | Build |
+| `mevolit-cve` | Process CVE data (optional) | CVE |
 
 ### Generated Files
 | Location | Key Files | Description | Update Frequency |

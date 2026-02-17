@@ -2,7 +2,7 @@
   <div class="how-it-works-container">
     <!-- Header -->
     <div class="header-section">
-      <h1 class="title">How SOFA Works</h1>
+      <h1 class="title">How Mevolit Works</h1>
       <p class="subtitle">Real-time pipeline status and data flow</p>
       
       <div class="status-row">

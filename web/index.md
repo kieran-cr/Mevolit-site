@@ -3,7 +3,7 @@ layout: home
 sidebar: false
 hero:
   name: Mevolit
-  text: Liquid-Glass Intelligence For Apple Update Operations
+  text: Hardware & Software Companion for Apple Hardware
   tagline: Fluid, sleek tracking of platform releases, security state, and deployment readiness.
   image:
     src: /mevolit_logo.png

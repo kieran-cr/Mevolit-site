@@ -5,7 +5,7 @@ layout: doc
 
 # Getting Started
 
-**S**imple **O**rganized **F**eed for **A**pple Software Updates
+**Mevolit** - Liquid-Glass Intelligence For Apple Update Operations
 
 ![Mevolit logo](/mevolit_logo.png "Mevolit logo")
 
@@ -101,7 +101,7 @@ Access the JSON feed directly for integration with automated tools or scripts. T
 - https://sofafeed.macadmins.io/v1/macos_data_feed.json
 - https://sofafeed.macadmins.io/v1/ios_data_feed.json
 
-For guidance on how to utilize and implement the feed in scripts, explore examples in the [Tools section](https://github.com/macadmins/sofa/tree/main/tool-scripts), and read [this blog post](https://grahamrpugh.com/2024/07/22/sofa-new-feed.html).
+For guidance on how to utilize and implement the feed in scripts, explore our documentation/tools.
 
 
 ## RSS Overview

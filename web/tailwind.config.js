@@ -27,18 +27,18 @@ export default {
           900: '#7C2D12',
           DEFAULT: 'hsl(24, 95%, 53%)'
         },    // Safari
-        'mevolit-orange': {
-          50: '#FFF7ED',
-          100: '#FFEDD5',
-          200: '#FED7AA',
-          300: '#FDBA74',
-          400: '#FB923C',
-          500: '#F97316', // Mevolit core orange
-          600: '#EA580C',
-          700: '#C2410C',
-          800: '#9A3412',
-          900: '#7C2D12',
-          DEFAULT: '#F97316'
+        'mevolit-blue': {
+          50: '#eff6ff',
+          100: '#dbeafe',
+          200: '#bfdbfe',
+          300: '#93c5fd',
+          400: '#60a5fa',
+          500: '#3b82f6', // Mevolit core blue
+          600: '#2563eb',
+          700: '#1d4ed8',
+          800: '#1e40af',
+          900: '#1e3a8a',
+          DEFAULT: '#3b82f6'
         },
         'apple-red': 'hsl(0, 84%, 60%)',        // Alerts/warnings
         'apple-gray': 'hsl(210, 11%, 71%)',     // Secondary text

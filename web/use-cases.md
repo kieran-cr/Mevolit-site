@@ -10,7 +10,7 @@ outline: deep
 
 To optimize hosting and caching for Mevolit, please implement a user-agent in your integrations, tools, and workflows. This enhances performance and user interactions with Mevolit.
 
-**Sofa Feed Usage**
+**Mevolit Feed Usage**
 
 Please ensure your scripts that are utilising the Mevolit macOS and iOS feeds to point to https://sofafeed.macadmins.io/v1/macos_data_feed.json and https://sofafeed.macadmins.io/v1/ios_data_feed.json respectively.
 
@@ -31,7 +31,7 @@ For more details, visit the [Nudge Wiki](https://github.com/macadmins/nudge/wiki
 
 ## Using Mevolit with Jamf Pro
 
-Integrate Mevolit with Jamf Pro to monitor macOS and XProtect updates. Mevolit provides up-to-date information on macOS versions and XProtect updates, allowing you to determine if systems are compliant. Use Jamf Pro Extension Attribute scripts ([macOSVersionCheck-EA.sh](https://github.com/macadmins/sofa/blob/main/tool-scripts/macOSVersionCheck-EA.sh) and [XProtectVersionCheck-EA.sh](https://github.com/macadmins/sofa/blob/main/tool-scripts/XProtectVersionCheck-EA.sh)) to check local system versions against the latest updates in the Mevolit JSON feed. Results can be used to scope non-compliant computers into Smart Groups, triggering MDM/DDM commands to ensure systems are updated.
+Integrate Mevolit with Jamf Pro to monitor macOS and XProtect updates. Mevolit provides up-to-date information on macOS versions and XProtect updates, allowing you to determine if systems are compliant. Use Jamf Pro Extension Attribute scripts (`macOSVersionCheck-EA.sh` and `XProtectVersionCheck-EA.sh`) to check local system versions against the latest updates in the Mevolit JSON feed. Results can be used to scope non-compliant computers into Smart Groups, triggering MDM/DDM commands to ensure systems are updated.
 
 For more details, visit the original blog posts here:
 - [Mevolit, and how to use it with Jamf Pro](https://grahamrpugh.com/2024/04/29/sofa-and-jamf-pro.html)
@@ -39,4 +39,4 @@ For more details, visit the original blog posts here:
 
 ## More use cases
 
-Check out further use case examples in our repo [here](https://github.com/macadmins/sofa/tree/main/tool-scripts).
+Check out further use case examples in our documentation.
