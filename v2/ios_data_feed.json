@@ -1,7 +1,7 @@
 {
   "Version": "2.0",
-  "UpdateHash": "527f5357ff0d23fd0704f7aa06c498c02f76993fb959536a873ad9fd8df5ee7d",
-  "LastCheck": "2026-02-17T19:27:20.745502041+00:00",
+  "UpdateHash": "5f5cf5b2a0bb20873eb471cbcb6af30448d65b33193aad168c0adb452539ebcb",
+  "LastCheck": "2026-02-17T19:42:52.969700604+00:00",
   "OSVersions": [
     {
       "OSVersion": "26",
@@ -1199,7 +1199,7 @@
           "ExpirationDate": "2026-05-18",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/125885",
-          "SecurityInfoContext": "iOS 18.7.3 was released on December 12, 2025. This release addressed 21 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
+          "SecurityInfoContext": "iOS 18.7.3 was released on December 12, 2025. This release addressed 22 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
           "SupportedDevices": [
             "iPad11,1",
             "iPad11,2",
@@ -1293,6 +1293,7 @@
             "CVE-2025-46279": {},
             "CVE-2025-46285": {},
             "CVE-2025-46287": {},
+            "CVE-2025-46290": {},
             "CVE-2025-46292": {},
             "CVE-2025-5918": {},
             "CVE-2025-9086": {}
@@ -1301,11 +1302,11 @@
             "CVE-2025-43529",
             "CVE-2025-14174"
           ],
-          "UniqueCVEsCount": 21,
+          "UniqueCVEsCount": 22,
           "DaysSincePreviousRelease": 37,
           "update_summary": {
             "priority": "high",
-            "summary": "Addresses 21 security issues",
+            "summary": "Addresses 22 security issues",
             "recommendation": "Update to stay secure - security fixes available",
             "stats": {
               "exploited": 0,
@@ -1314,7 +1315,7 @@
               "medium": 0,
               "low": 0,
               "remote": 0,
-              "total": 21
+              "total": 22
             }
           }
         },
