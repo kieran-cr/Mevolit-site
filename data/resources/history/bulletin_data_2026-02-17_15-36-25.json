@@ -1,7 +1,7 @@
 {
-  "content_hash": "e65a4bf8d492f9aa1f36df0d902b412ecf9411d779d6ca405fb91f3fe8b24107",
+  "content_hash": "6cb9309ce1f5dd335b8f2aa645d9ad04e65072bfc3ab297d29a726f3e2c7e621",
   "content_changed": true,
-  "generated_at": "2026-02-13T20:16:51.835622421Z",
+  "generated_at": "2026-02-17T15:36:25.043319455Z",
   "latest_releases": {
     "macos": {
       "version": "26.3",
@@ -303,19 +303,43 @@
     "kev_matches": 3,
     "latest_wave_date": "2026-02-11T00:00:00Z",
     "kev_cve_list": [
-      "CVE-2026-20700",
       "CVE-2025-14174",
-      "CVE-2025-43529"
+      "CVE-2025-43529",
+      "CVE-2026-20700"
     ]
   },
   "beta_releases": {
-    "latest_wave": "2026-02-03",
-    "macos": null,
-    "ios": null,
-    "ipados": null,
-    "tvos": null,
-    "watchos": null,
-    "visionos": null
+    "latest_wave": "2026-02-16",
+    "macos": {
+      "version": "26.4 beta",
+      "build": "25E5207k",
+      "released": "2026-02-16"
+    },
+    "ios": {
+      "version": "26.4 beta",
+      "build": "23E5207q",
+      "released": "2026-02-16"
+    },
+    "ipados": {
+      "version": "26.4 beta",
+      "build": "23E5207q",
+      "released": "2026-02-16"
+    },
+    "tvos": {
+      "version": "26.4 beta",
+      "build": "23L5208m",
+      "released": "2026-02-16"
+    },
+    "watchos": {
+      "version": "26.4 beta",
+      "build": "23T5209m",
+      "released": "2026-02-16"
+    },
+    "visionos": {
+      "version": "26.4 beta",
+      "build": "23O5209m",
+      "released": "2026-02-16"
+    }
   },
   "recent_releases": [
     {
