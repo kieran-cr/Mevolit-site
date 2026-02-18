@@ -1,7 +1,7 @@
 {
   "Version": "2.0",
-  "UpdateHash": "456829ea7255e3f1d173a845e3e5df74fcb272589627b4ec6f0549a4cc1db77c",
-  "LastCheck": "2026-02-18T17:50:15.638177112+00:00",
+  "UpdateHash": "fcf6d9f6cd268ed33f5b96588226e08771e3e7d489d125d00c70f1d58886ec11",
+  "LastCheck": "2026-02-18T18:43:38.771571667+00:00",
   "OSVersions": [
     {
       "OSVersion": "26",
@@ -530,7 +530,7 @@
           "ExpirationDate": "2026-05-12",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/125884",
-          "SecurityInfoContext": "iOS 26.2 was released on December 12, 2025. This release addressed 37 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
+          "SecurityInfoContext": "iOS 26.2 was released on December 12, 2025. This release addressed 29 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
           "SupportedDevices": [
             "iPad11,1",
             "iPad11,2",
@@ -647,7 +647,6 @@
             "CVE-2025-43533": {},
             "CVE-2025-43535": {},
             "CVE-2025-43536": {},
-            "CVE-2025-43537": {},
             "CVE-2025-43538": {},
             "CVE-2025-43539": {},
             "CVE-2025-43541": {},
@@ -659,16 +658,9 @@
             "CVE-2025-46286": {},
             "CVE-2025-46287": {},
             "CVE-2025-46288": {},
-            "CVE-2025-46290": {},
             "CVE-2025-46292": {},
             "CVE-2025-46298": {},
             "CVE-2025-46299": {},
-            "CVE-2025-46300": {},
-            "CVE-2025-46301": {},
-            "CVE-2025-46302": {},
-            "CVE-2025-46303": {},
-            "CVE-2025-46304": {},
-            "CVE-2025-46305": {},
             "CVE-2025-5918": {},
             "CVE-2025-9086": {}
           },
@@ -676,11 +668,11 @@
             "CVE-2025-43529",
             "CVE-2025-14174"
           ],
-          "UniqueCVEsCount": 37,
+          "UniqueCVEsCount": 29,
           "DaysSincePreviousRelease": 39,
           "update_summary": {
             "priority": "high",
-            "summary": "Addresses 37 security issues",
+            "summary": "Addresses 29 security issues",
             "recommendation": "Update to stay secure - security fixes available",
             "stats": {
               "exploited": 0,
@@ -689,7 +681,7 @@
               "medium": 0,
               "low": 0,
               "remote": 0,
-              "total": 37
+              "total": 29
             }
           }
         },
