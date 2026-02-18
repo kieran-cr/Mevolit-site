@@ -1,5 +1,5 @@
 {
-  "update_hash": "sha256:faa3ca0c7f960b0cd47938df9371a64ba767ee750c6f76429ae81426e1e4a907",
+  "update_hash": "sha256:bc260e9c502b2af567c56d9308928417edd0f2c775f16c852c116e76b3f5cf6f",
   "total_products": 14,
   "categories": {
     "macOS": 14
@@ -11,7 +11,7 @@
       "title": "macOS Tahoe",
       "version": "26.3",
       "build": "25D125",
-      "posting_date": "2026-02-11T18:43:26Z",
+      "posting_date": "2026-02-18T18:25:54Z",
       "size": 17519647851,
       "download_url": "https://swcdn.apple.com/content/downloads/15/23/047-60297-A_CC7WE2S6AE/h1lvp87655fnwe4zityuew187qsnj7dzcd/InstallAssistant.pkg"
     },
@@ -38,7 +38,7 @@
       "title": "macOS Sequoia",
       "version": "15.7.4",
       "build": "24G517",
-      "posting_date": "2026-02-11T18:49:07Z",
+      "posting_date": "2026-02-18T18:26:33Z",
       "size": 15658477459,
       "download_url": "https://swcdn.apple.com/content/downloads/37/51/047-48630-A_HTYZPEF7FA/valu87cxr2ebio819t58ccdui7l6fypxw7/InstallAssistant.pkg"
     },
@@ -65,7 +65,7 @@
       "title": "macOS Sonoma",
       "version": "14.8.4",
       "build": "23J319",
-      "posting_date": "2026-02-11T18:50:49Z",
+      "posting_date": "2026-02-18T18:27:12Z",
       "size": 13673240788,
       "download_url": "https://swcdn.apple.com/content/downloads/54/28/047-48595-A_R091M3YM05/clkilvw19hq1zy5j5jz2wnf4re6b3sksfd/InstallAssistant.pkg"
     },
