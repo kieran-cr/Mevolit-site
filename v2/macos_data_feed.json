@@ -1,7 +1,7 @@
 {
   "Version": "2.0",
-  "UpdateHash": "c4cdff269c3b7b78fdeebfe94ffc04cda3a2442f3f7bcaffe8e4ba067d1d838b",
-  "LastCheck": "2026-02-25T20:29:29.907199635+00:00",
+  "UpdateHash": "dfef7af5e83d8545329de61bf712f72e338a0361f29ed87dba204e12bc33b58f",
+  "LastCheck": "2026-02-26T03:15:49.022942650+00:00",
   "OSVersions": [
     {
       "OSVersion": "Tahoe 26",
@@ -14,7 +14,7 @@
           "25D125"
         ],
         "ReleaseDate": "2026-02-11T00:00:00Z",
-        "ExpirationDate": "2026-05-26",
+        "ExpirationDate": "2026-05-27",
         "ReleaseType": "OS",
         "SecurityInfo": "https://support.apple.com/en-us/126348",
         "SecurityInfoContext": "macOS has been updated to version 26.3, which was released on February 11, 2026. This update addresses 57 security issues and is the most recent approved version.",
@@ -182,7 +182,7 @@
             "25D125"
           ],
           "ReleaseDate": "2026-02-11T00:00:00Z",
-          "ExpirationDate": "2026-05-26",
+          "ExpirationDate": "2026-05-27",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/126348",
           "SecurityInfoContext": "macOS has been updated to version 26.3, which was released on February 11, 2026. This update addresses 57 security issues and is the most recent approved version.",
@@ -1071,7 +1071,7 @@
           "24G517"
         ],
         "ReleaseDate": "2026-02-11T00:00:00Z",
-        "ExpirationDate": "2026-05-26",
+        "ExpirationDate": "2026-05-27",
         "ReleaseType": "OS",
         "SecurityInfo": "https://support.apple.com/en-us/126349",
         "SecurityInfoContext": "macOS has been updated to version 15.7.4, which was released on February 11, 2026. This update addresses 35 security issues and is the most recent approved version.",
@@ -1209,7 +1209,7 @@
             "24G517"
           ],
           "ReleaseDate": "2026-02-11T00:00:00Z",
-          "ExpirationDate": "2026-05-26",
+          "ExpirationDate": "2026-05-27",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/126349",
           "SecurityInfoContext": "macOS has been updated to version 15.7.4, which was released on February 11, 2026. This update addresses 35 security issues and is the most recent approved version.",
@@ -3749,7 +3749,7 @@
           "23J319"
         ],
         "ReleaseDate": "2026-02-11T00:00:00Z",
-        "ExpirationDate": "2026-05-26",
+        "ExpirationDate": "2026-05-27",
         "ReleaseType": "OS",
         "SecurityInfo": "https://support.apple.com/en-us/126350",
         "SecurityInfoContext": "macOS has been updated to version 14.8.4, which was released on February 11, 2026. This update addresses 41 security issues and is the most recent approved version.",
@@ -3882,7 +3882,7 @@
             "23J319"
           ],
           "ReleaseDate": "2026-02-11T00:00:00Z",
-          "ExpirationDate": "2026-05-26",
+          "ExpirationDate": "2026-05-27",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/126350",
           "SecurityInfoContext": "macOS has been updated to version 14.8.4, which was released on February 11, 2026. This update addresses 41 security issues and is the most recent approved version.",
@@ -7420,7 +7420,7 @@
           "22H730"
         ],
         "ReleaseDate": "2025-08-20T00:00:00Z",
-        "ExpirationDate": "2026-05-26",
+        "ExpirationDate": "2026-05-27",
         "ReleaseType": "OS",
         "SecurityInfo": "https://support.apple.com/en-us/124929",
         "SecurityInfoContext": "macOS has been updated to version 13.7.8, which was released on August 20, 2025. This update addresses one security issue and is the most recent approved version.",
@@ -7519,7 +7519,7 @@
             "22H730"
           ],
           "ReleaseDate": "2025-08-20T00:00:00Z",
-          "ExpirationDate": "2026-05-26",
+          "ExpirationDate": "2026-05-27",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/124929",
           "SecurityInfoContext": "macOS has been updated to version 13.7.8, which was released on August 20, 2025. This update addresses one security issue and is the most recent approved version.",
@@ -11492,7 +11492,7 @@
           "21H1320"
         ],
         "ReleaseDate": "2024-07-29T00:00:00Z",
-        "ExpirationDate": "2026-05-26",
+        "ExpirationDate": "2026-05-27",
         "ReleaseType": "OS",
         "SecurityInfo": "https://support.apple.com/en-us/120910",
         "SecurityInfoContext": "macOS has been updated to version 12.7.6, which was released on July 29, 2024. This update addresses 42 security issues and is the most recent approved version.",
@@ -11635,7 +11635,7 @@
             "21H1320"
           ],
           "ReleaseDate": "2024-07-29T00:00:00Z",
-          "ExpirationDate": "2026-05-26",
+          "ExpirationDate": "2026-05-27",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/120910",
           "SecurityInfoContext": "macOS has been updated to version 12.7.6, which was released on July 29, 2024. This update addresses 42 security issues and is the most recent approved version.",
@@ -14860,7 +14860,7 @@
           "AllBuilds": [],
           "ReleaseDate": "2021-09-20T00:00:00Z",
           "ReleaseType": "OS",
-          "SecurityInfo": "https://support.apple.com/en-us/125330",
+          "SecurityInfo": "https://support.apple.com/en-us/103236",
           "SecurityInfoContext": "macOS 12.0 was released on . This update has no published CVE entries. Newer updates are now available, so please check to see if they apply to your devices.",
           "SupportedDevices": [
             "J132AP",
@@ -16213,8 +16213,8 @@
   },
   "XProtectPayloads": {
     "com.apple.XProtectFramework.XProtect": "157",
-    "ReleaseDate": "2026-02-24T21:19:56Z",
-    "com.apple.XprotectFramework.PluginService": "74"
+    "com.apple.XprotectFramework.PluginService": "74",
+    "ReleaseDate": "2026-02-24T21:19:56Z"
   },
   "BackgroundSecurityImprovements": {},
   "InstallationApps": {
