@@ -1,8 +1,8 @@
 {
-  "update_hash": "sha256:8e6e5f896bee2d1565e44569cbff12080f77a6cb33b9e3507e17fbbd9586cf60",
-  "total_products": 17,
+  "update_hash": "sha256:95cd73240db512ab1a7c6e57b0bdd15e5fe150680e3c3a0e4efa58c65fc5dac9",
+  "total_products": 16,
   "categories": {
-    "macOS": 17
+    "macOS": 16
   },
   "catalog_url": "https://swscan.apple.com/content/catalogs/others/index-14-13-12-10.16-10.15-10.14-10.13-10.12-10.11-10.10-10.9-mountainlion-lion-snowleopard-leopard.merged-1.sucatalog",
   "products": [
@@ -44,15 +44,6 @@
     },
     {
       "product_key": "047-88343",
-      "title": "macOS Sequoia",
-      "version": "15.7.5",
-      "build": "24G617",
-      "posting_date": "2026-03-04T19:02:20Z",
-      "size": 15662608028,
-      "download_url": "https://swcdn.apple.com/content/downloads/54/48/047-88343-A_U8QBR62XSL/xzrz3906c77wp9qi06z800ryrmwzv4itk4/InstallAssistant.pkg"
-    },
-    {
-      "product_key": "047-88343::1",
       "title": "macOS Sequoia",
       "version": "15.7.5",
       "build": "24G617",
