@@ -1,5 +1,5 @@
 {
-  "update_hash": "sha256:659a297501eec5c0ef9629ad75b6f50620100c347c9eb869f75a6f7b78160be9",
+  "update_hash": "sha256:785793054c921d45cfaf4037ab9bd6c4398169ee26504a129d36c260d8e73992",
   "devices": [
     {
       "name": "iPhone 2G",
@@ -1857,7 +1857,7 @@
       "bdid": 66
     },
     {
-      "name": "iPad Air 11-inch (M4)",
+      "name": "iPad Air 11-inch (M4, Cellular)",
       "identifier": "iPad16,9",
       "platform": "t8132",
       "cpid": 33074,
@@ -1871,21 +1871,21 @@
       "bdid": 22
     },
     {
-      "name": "iPad Air 13-inch (M4)",
+      "name": "iPad Air 13-inch (M4, Cellular)",
       "identifier": "iPad16,11",
       "platform": "t8132",
       "cpid": 33074,
       "bdid": 22
     },
     {
-      "name": "iPad Air 11-inch (M4)",
+      "name": "iPad Air 11-inch (M4, WiFi)",
       "identifier": "iPad16,8",
       "platform": "t8132",
       "cpid": 33074,
       "bdid": 16
     },
     {
-      "name": "iPad Air 13-inch (M4)",
+      "name": "iPad Air 13-inch (M4, WiFi)",
       "identifier": "iPad16,10",
       "platform": "t8132",
       "cpid": 33074,
@@ -4133,7 +4133,7 @@
     "build": "25D2128",
     "url": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
     "apple_slug": "047-88313",
-    "fetch_timestamp": "2026-03-05T03:12:38.749903685Z"
+    "fetch_timestamp": "2026-03-06T07:11:21.660147427Z"
   },
   "total_devices": 277,
   "total_firmwares": 241
