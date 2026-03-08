@@ -1,5 +1,5 @@
 {
-  "etag": "1a96c8ab2fd688fb759df2f8140bfcc738e0f231f823c4e3f8f2d94f544ed1fb",
+  "etag": "c546947ee49d78f351c9f7ec5ace04c0ca1eb26d0022be470addda5036adaaad",
   "data": {
     "PublicAssetSets": {
       "iOS": [
@@ -940,6 +940,28 @@
           ]
         }
       ],
+      "visionOS": [
+        {
+          "ProductVersion": "26.3.1",
+          "Build": "23N630",
+          "PostingDate": "2026-03-02",
+          "ExpirationDate": "2026-06-06",
+          "SupportedDevices": [
+            "RealityDevice14,1",
+            "RealityDevice17,1"
+          ]
+        },
+        {
+          "ProductVersion": "26.3.1",
+          "Build": "23N6630",
+          "PostingDate": "2026-03-02",
+          "ExpirationDate": "2026-06-06",
+          "SupportedDevices": [
+            "RealityDevice14,1",
+            "RealityDevice17,1"
+          ]
+        }
+      ],
       "macOS": [
         {
           "ProductVersion": "14.8.4",
@@ -1374,28 +1396,6 @@
             "Mac-EE2EBD4B90B839A8",
             "VMA2MACOSAP",
             "VMM-x86_64"
-          ]
-        }
-      ],
-      "visionOS": [
-        {
-          "ProductVersion": "26.3.1",
-          "Build": "23N630",
-          "PostingDate": "2026-03-02",
-          "ExpirationDate": "2026-06-06",
-          "SupportedDevices": [
-            "RealityDevice14,1",
-            "RealityDevice17,1"
-          ]
-        },
-        {
-          "ProductVersion": "26.3.1",
-          "Build": "23N6630",
-          "PostingDate": "2026-03-02",
-          "ExpirationDate": "2026-06-06",
-          "SupportedDevices": [
-            "RealityDevice14,1",
-            "RealityDevice17,1"
           ]
         }
       ]
