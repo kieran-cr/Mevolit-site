@@ -1,5 +1,5 @@
 {
-  "UpdateHash": "d53faf6166055e03452d45d7958d71cadeb34fe7ce29026766e3a99aca92bed2",
+  "UpdateHash": "4674475e73237fbc32b20abb4b7b5b3f43762dca8f316fb47b0a77f877bcc32f",
   "OSVersions": [
     {
       "OSVersion": "Tahoe 26",
@@ -7,7 +7,7 @@
         "ProductVersion": "26.3.2",
         "Build": "25D2140",
         "ReleaseDate": "2026-03-10T00:00:00Z",
-        "ExpirationDate": "2026-06-09T00:00:00Z",
+        "ExpirationDate": "2026-06-10T00:00:00Z",
         "SupportedDevices": [
           "J152FAP",
           "J160AP",
@@ -1030,7 +1030,7 @@
         "ProductVersion": "15.7.4",
         "Build": "24G517",
         "ReleaseDate": "2026-02-11T00:00:00Z",
-        "ExpirationDate": "2026-06-09T00:00:00Z",
+        "ExpirationDate": "2026-06-10T00:00:00Z",
         "SupportedDevices": [
           "J132AP",
           "J137AP",
@@ -3557,7 +3557,7 @@
         "ProductVersion": "14.8.4",
         "Build": "23J319",
         "ReleaseDate": "2026-02-11T00:00:00Z",
-        "ExpirationDate": "2026-06-09T00:00:00Z",
+        "ExpirationDate": "2026-06-10T00:00:00Z",
         "SupportedDevices": [
           "J132AP",
           "J137AP",
@@ -6126,11 +6126,12 @@
             "CVE-2023-42950": false,
             "CVE-2023-42956": false,
             "CVE-2023-42974": false,
+            "CVE-2023-43010": false,
             "CVE-2023-45866": false,
             "CVE-2023-5344": false
           },
           "ActivelyExploitedCVEs": [],
-          "UniqueCVEsCount": 59,
+          "UniqueCVEsCount": 60,
           "DaysSincePreviousRelease": 11
         },
         {
@@ -6699,7 +6700,7 @@
         "ProductVersion": "13.7.8",
         "Build": "22H730",
         "ReleaseDate": "2025-08-20T00:00:00Z",
-        "ExpirationDate": "2026-06-09T00:00:00Z",
+        "ExpirationDate": "2026-06-10T00:00:00Z",
         "SupportedDevices": [
           "J132AP",
           "J137AP",
@@ -10100,7 +10101,7 @@
         "ProductVersion": "12.7.6",
         "Build": "21H1320",
         "ReleaseDate": "2024-07-29T00:00:00Z",
-        "ExpirationDate": "2026-06-09T00:00:00Z",
+        "ExpirationDate": "2026-06-10T00:00:00Z",
         "SupportedDevices": [
           "J132AP",
           "J137AP",
@@ -14255,7 +14256,7 @@
       "build": "25D2140",
       "apple_slug": "047-94768",
       "url": "https://swcdn.apple.com/content/downloads/24/35/047-94768-A_ZZXLGKDRHB/e4ehfk9oftcepxzqwc5k8so03dj7c0i8vf/InstallAssistant.pkg",
-      "posting_date": "2026-03-10T17:58:45Z",
+      "posting_date": "2026-03-11T21:38:31Z",
       "size": 17941699481
     },
     "AllPreviousUMA": [
