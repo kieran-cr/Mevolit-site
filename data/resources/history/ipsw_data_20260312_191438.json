@@ -1,5 +1,5 @@
 {
-  "update_hash": "sha256:a0556b9a5af9ca9b78f6d2dedc7d2f3a05898b76d51a9a3bef35647d013e428e",
+  "update_hash": "sha256:40ceeba512e22194d0024985e20a63f50ade70cf6c460988475a6fbfcba4fd09",
   "devices": [
     {
       "name": "iPhone 2G",
@@ -2460,7 +2460,7 @@
       {
         "version": "26.3",
         "buildid": "23D127",
-        "signed": true,
+        "signed": false,
         "signing_started": null,
         "signing_stopped": null,
         "url": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/089-87299/3710B1E2-956F-4FAF-9DA3-A9AF11C935BD/iPad_Spring_2022_26.3_23D127_Restore.ipsw",
@@ -2975,7 +2975,7 @@
       {
         "version": "26.3",
         "buildid": "23D127",
-        "signed": true,
+        "signed": false,
         "signing_started": null,
         "signing_stopped": null,
         "url": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-57614/CC4A9A06-E328-4B53-B3F0-761ED5859266/iPhone14,2_26.3_23D127_Restore.ipsw",
@@ -3616,7 +3616,7 @@
       {
         "version": "26.3",
         "buildid": "23D127",
-        "signed": true,
+        "signed": false,
         "signing_started": null,
         "signing_stopped": null,
         "url": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-43948/E203C888-9709-4D68-A1FF-99D04E44B654/iPhone15,2_26.3_23D127_Restore.ipsw",
@@ -4133,7 +4133,7 @@
     "build": "25D2128",
     "url": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
     "apple_slug": "047-88313",
-    "fetch_timestamp": "2026-03-11T13:42:02.645458254Z"
+    "fetch_timestamp": "2026-03-12T19:14:38.556115051Z"
   },
   "total_devices": 277,
   "total_firmwares": 241
