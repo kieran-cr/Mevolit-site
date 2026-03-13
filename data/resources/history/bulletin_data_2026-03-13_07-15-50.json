@@ -1,7 +1,7 @@
 {
-  "content_hash": "0e7e2c8824fca57e0e8be5724403b717ef5b3f059397e62f4a0b4c8e0716f172",
+  "content_hash": "7da1b13ac0fc867cf65b91e3a68808494f03e3fcb1b242c89e8dbac43a56996f",
   "content_changed": true,
-  "generated_at": "2026-03-11T19:38:24.940900759Z",
+  "generated_at": "2026-03-13T07:15:50.940379742Z",
   "latest_releases": {
     "macos": {
       "version": "26.3.2",
@@ -171,6 +171,22 @@
   },
   "recent_releases": [
     {
+      "release_date": "2026-03-11",
+      "name": "iOS 15.8.7 and iPadOS 15.8.7",
+      "platform": "ios",
+      "version": "15.8.7",
+      "url": "https://support.apple.com/en-us/126632"
+    },
+    {
+      "release_date": "2026-03-11",
+      "name": "iOS 16.7.15 and iPadOS 16.7.15",
+      "platform": "ios",
+      "version": "16.7.15",
+      "url": "https://support.apple.com/en-us/126646",
+      "enterprise_link": "https://support.apple.com/en-ca/101584",
+      "updates_link": "https://support.apple.com/en-ca/101566"
+    },
+    {
       "release_date": "2026-03-10",
       "name": "macOS Tahoe 26.3.2",
       "platform": "macos",
@@ -229,24 +245,6 @@
       "platform": "ios",
       "version": "26.3",
       "url": "https://support.apple.com/en-us/126346"
-    },
-    {
-      "release_date": "2026-02-11",
-      "name": "macOS Sequoia 15.7.4",
-      "platform": "macos",
-      "version": "15.7.4",
-      "url": "https://support.apple.com/en-us/126349",
-      "enterprise_link": "https://support.apple.com/en-ca/121011",
-      "updates_link": "https://support.apple.com/en-ca/120283"
-    },
-    {
-      "release_date": "2026-02-11",
-      "name": "macOS Sonoma 14.8.4",
-      "platform": "macos",
-      "version": "14.8.4",
-      "url": "https://support.apple.com/en-us/126350",
-      "enterprise_link": "https://support.apple.com/en-ca/109030",
-      "updates_link": "https://support.apple.com/en-ca/109035"
     }
   ]
 }
