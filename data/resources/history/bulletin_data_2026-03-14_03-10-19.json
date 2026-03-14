@@ -1,7 +1,7 @@
 {
-  "content_hash": "6472463d2efb5d1314ee227adffd468a6ab2c38b58d11b738df1716c55e279f0",
+  "content_hash": "e00baa7070f4969efed4b1d186594b905bcf95ba7d2a5b7c647943823993a6ad",
   "content_changed": true,
-  "generated_at": "2026-03-13T20:27:09.134988848Z",
+  "generated_at": "2026-03-14T03:10:19.373843306Z",
   "latest_releases": {
     "macos": {
       "version": "26.3.2",
@@ -131,9 +131,9 @@
     "kev_matches": 3,
     "latest_wave_date": "2026-03-10T00:00:00Z",
     "kev_cve_list": [
-      "CVE-2026-20700",
       "CVE-2025-14174",
-      "CVE-2025-43529"
+      "CVE-2025-43529",
+      "CVE-2026-20700"
     ]
   },
   "beta_releases": {
