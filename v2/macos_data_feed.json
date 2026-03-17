@@ -1,7 +1,7 @@
 {
   "Version": "2.0",
-  "UpdateHash": "37c51ac4e89689d253dffb9a1e34ebf6ee86a6005f84b07a5bfde7c43924e7f5",
-  "LastCheck": "2026-03-17T17:54:53.205292039+00:00",
+  "UpdateHash": "e15e2aa2bd6dd22026e472d2821bb89c74b4dd9c016fa3b637ea65517863529f",
+  "LastCheck": "2026-03-17T18:53:42.484101435+00:00",
   "OSVersions": [
     {
       "OSVersion": "Tahoe 26",
@@ -14959,7 +14959,7 @@
           "AllBuilds": [],
           "ReleaseDate": "2021-09-20T00:00:00Z",
           "ReleaseType": "OS",
-          "SecurityInfo": "https://support.apple.com/en-us/102876",
+          "SecurityInfo": "https://support.apple.com/en-us/122068",
           "SecurityInfoContext": "macOS 12.0 was released on . This update has no published CVE entries. Newer updates are now available, so please check to see if they apply to your devices.",
           "SupportedDevices": [
             "J132AP",
@@ -16311,11 +16311,97 @@
     "com.apple.XProtect": "5334"
   },
   "XProtectPayloads": {
-    "com.apple.XProtectFramework.XProtect": "157",
     "com.apple.XprotectFramework.PluginService": "74",
+    "com.apple.XProtectFramework.XProtect": "157",
     "ReleaseDate": "2026-03-17T17:03:09Z"
   },
-  "BackgroundSecurityImprovements": {},
+  "BackgroundSecurityImprovements": {
+    "26": [
+      {
+        "version": "26.3.2",
+        "build": "25D771400a",
+        "posting_date": "2026-03-17",
+        "documentation_id": null,
+        "prerequisite_version": null,
+        "prerequisite_build": "25D2140",
+        "supported_devices": [
+          "J700AP"
+        ]
+      },
+      {
+        "version": "26.3.1",
+        "build": "25D771280a",
+        "posting_date": "2026-03-17",
+        "documentation_id": null,
+        "prerequisite_version": null,
+        "prerequisite_build": "25D2128",
+        "supported_devices": [
+          "J152FAP",
+          "J160AP",
+          "J180dAP",
+          "J185AP",
+          "J185FAP",
+          "J214KAP",
+          "J215AP",
+          "J274AP",
+          "J293AP",
+          "J313AP",
+          "J314cAP",
+          "J314sAP",
+          "J316cAP",
+          "J316sAP",
+          "J375cAP",
+          "J375dAP",
+          "J413AP",
+          "J414cAP",
+          "J414sAP",
+          "J415AP",
+          "J416cAP",
+          "J416sAP",
+          "J433AP",
+          "J434AP",
+          "J456AP",
+          "J457AP",
+          "J473AP",
+          "J474sAP",
+          "J475cAP",
+          "J475dAP",
+          "J493AP",
+          "J504AP",
+          "J514cAP",
+          "J514mAP",
+          "J514sAP",
+          "J516cAP",
+          "J516mAP",
+          "J516sAP",
+          "J575cAP",
+          "J575dAP",
+          "J604AP",
+          "J613AP",
+          "J614cAP",
+          "J614sAP",
+          "J615AP",
+          "J616cAP",
+          "J616sAP",
+          "J623AP",
+          "J624AP",
+          "J704AP",
+          "J713AP",
+          "J714cAP",
+          "J714sAP",
+          "J715AP",
+          "J716cAP",
+          "J716sAP",
+          "J773gAP",
+          "J773sAP",
+          "J813AP",
+          "J815AP",
+          "VMA2MACOSAP",
+          "VMM-x86_64"
+        ]
+      }
+    ]
+  },
   "InstallationApps": {
     "LatestUMA": {
       "title": "macOS Tahoe",
