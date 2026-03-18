@@ -1,7 +1,7 @@
 {
-  "content_hash": "72e960c9c54487c193633c0749ea72a45833ca632ae23672ae71e416095aea7e",
+  "content_hash": "791457f70b92608c8a27b1a21e476502c27171ac00daf3a3d0d2bfc057a50e36",
   "content_changed": true,
-  "generated_at": "2026-03-17T13:55:25.998962172Z",
+  "generated_at": "2026-03-18T19:44:34.091798688Z",
   "latest_releases": {
     "macos": {
       "version": "26.3.2",
@@ -137,39 +137,46 @@
     ]
   },
   "beta_releases": {
-    "latest_wave": "2026-03-09",
+    "latest_wave": "2026-03-18",
     "macos": {
-      "version": "26.4 beta 4",
-      "build": "25E5233c",
-      "released": "2026-03-09"
+      "version": "26.4 RC",
+      "build": "25E243",
+      "released": "2026-03-18"
     },
     "ios": {
-      "version": "26.4 beta 4",
-      "build": "23E5234a",
-      "released": "2026-03-09"
+      "version": "26.4 RC",
+      "build": "23E244",
+      "released": "2026-03-18"
     },
     "ipados": {
-      "version": "26.4 beta 4",
-      "build": "23E5234a",
-      "released": "2026-03-09"
+      "version": "26.4 RC",
+      "build": "23E244",
+      "released": "2026-03-18"
     },
     "tvos": {
-      "version": "26.4 beta 4",
-      "build": "23L5234a",
-      "released": "2026-03-09"
+      "version": "26.4 RC",
+      "build": "23L240",
+      "released": "2026-03-18"
     },
     "watchos": {
-      "version": "26.4 beta 4",
-      "build": "23T5236a",
-      "released": "2026-03-09"
+      "version": "26.4 RC",
+      "build": "23T239",
+      "released": "2026-03-18"
     },
     "visionos": {
-      "version": "26.4 beta 4",
-      "build": "23O5235a",
-      "released": "2026-03-09"
+      "version": "26.4 RC",
+      "build": "23O244",
+      "released": "2026-03-18"
     }
   },
   "recent_releases": [
+    {
+      "release_date": "2026-03-17",
+      "name": "Background Security Improvements for iOS, iPadOS, and macOS",
+      "platform": "macos",
+      "version": "",
+      "url": "https://support.apple.com/en-us/126604"
+    },
     {
       "release_date": "2026-03-11",
       "name": "iOS 15.8.7 and iPadOS 15.8.7",
@@ -238,13 +245,6 @@
       "url": "https://support.apple.com/en-us/126347",
       "enterprise_link": "https://support.apple.com/en-ca/121158",
       "updates_link": "https://support.apple.com/en-ca/121161"
-    },
-    {
-      "release_date": "2026-02-11",
-      "name": "iOS 26.3 and iPadOS 26.3",
-      "platform": "ios",
-      "version": "26.3",
-      "url": "https://support.apple.com/en-us/126346"
     }
   ]
 }
