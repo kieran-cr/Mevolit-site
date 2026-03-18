@@ -1,7 +1,7 @@
 {
   "Version": "2.0",
-  "UpdateHash": "2c153ff53c72d7c76127e8de52930476563352f3facf388b072e65652001491a",
-  "LastCheck": "2026-03-18T17:56:11.006132169+00:00",
+  "UpdateHash": "786b3ec214a11a4817d89a724917a3a69eeb3dc536bd2191ce7ee5db7cf97bc7",
+  "LastCheck": "2026-03-18T18:52:33.385020527+00:00",
   "OSVersions": [
     {
       "OSVersion": "26",
@@ -3389,7 +3389,7 @@
           "ReleaseDate": "2023-12-11T00:00:00Z",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/kb/HT214035",
-          "SecurityInfoContext": "iOS 17.2 was released on December 11, 2023. This release addressed 24 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
+          "SecurityInfoContext": "iOS 17.2 was released on December 11, 2023. This release addressed 23 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
           "SupportedDevices": [],
           "CVEs": {
             "CVE-2023-40389": {},
@@ -3414,15 +3414,14 @@
             "CVE-2023-42956": {},
             "CVE-2023-42962": {},
             "CVE-2023-42974": {},
-            "CVE-2023-43010": {},
             "CVE-2023-45866": {}
           },
           "ActivelyExploitedCVEs": [],
-          "UniqueCVEsCount": 24,
+          "UniqueCVEsCount": 23,
           "DaysSincePreviousRelease": 11,
           "update_summary": {
             "priority": "high",
-            "summary": "Addresses 24 security issues",
+            "summary": "Addresses 23 security issues",
             "recommendation": "Update to stay secure - security fixes available",
             "stats": {
               "exploited": 0,
@@ -3431,7 +3430,7 @@
               "medium": 0,
               "low": 0,
               "remote": 0,
-              "total": 24
+              "total": 23
             }
           }
         },
