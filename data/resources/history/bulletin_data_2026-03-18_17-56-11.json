@@ -1,7 +1,7 @@
 {
-  "content_hash": "b4edfea7ded99dd5f3ad6faa1d8885b9f008e8c1ca0f91aa3a1d5d0efc3a18bb",
+  "content_hash": "cc6a79713223dba04c0ec79440a0bf3862e73cd386bf9ed3c8f8dc41f11b0e53",
   "content_changed": true,
-  "generated_at": "2026-03-16T19:50:24.100390547Z",
+  "generated_at": "2026-03-18T17:56:11.589874972Z",
   "latest_releases": {
     "macos": {
       "version": "26.3.2",
@@ -131,9 +131,9 @@
     "kev_matches": 3,
     "latest_wave_date": "2026-03-10T00:00:00Z",
     "kev_cve_list": [
-      "CVE-2025-43529",
       "CVE-2025-14174",
-      "CVE-2026-20700"
+      "CVE-2026-20700",
+      "CVE-2025-43529"
     ]
   },
   "beta_releases": {
@@ -170,6 +170,13 @@
     }
   },
   "recent_releases": [
+    {
+      "release_date": "2026-03-17",
+      "name": "Background Security Improvements for iOS, iPadOS, and macOS",
+      "platform": "macos",
+      "version": "",
+      "url": "https://support.apple.com/en-us/126604"
+    },
     {
       "release_date": "2026-03-11",
       "name": "iOS 15.8.7 and iPadOS 15.8.7",
@@ -238,13 +245,6 @@
       "url": "https://support.apple.com/en-us/126347",
       "enterprise_link": "https://support.apple.com/en-ca/121158",
       "updates_link": "https://support.apple.com/en-ca/121161"
-    },
-    {
-      "release_date": "2026-02-11",
-      "name": "iOS 26.3 and iPadOS 26.3",
-      "platform": "ios",
-      "version": "26.3",
-      "url": "https://support.apple.com/en-us/126346"
     }
   ]
 }
