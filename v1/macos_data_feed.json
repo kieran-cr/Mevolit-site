@@ -1,5 +1,5 @@
 {
-  "UpdateHash": "654be0f200ef2f5708fb985af9834d31d76790c4c698fdc22e60aa53b236267c",
+  "UpdateHash": "1513f656bfbce644b08c3e3738c29d99c87867e1aaa60d877b2186203865559e",
   "OSVersions": [
     {
       "OSVersion": "Tahoe 26",
@@ -676,13 +676,16 @@
             "CVE-2025-43506": false,
             "CVE-2025-43507": false,
             "CVE-2025-43508": false,
-            "CVE-2025-43510": false,
-            "CVE-2025-43520": false,
+            "CVE-2025-43510": true,
+            "CVE-2025-43520": true,
             "CVE-2025-46316": false,
             "CVE-2025-53906": false,
             "CVE-2025-6442": false
           },
-          "ActivelyExploitedCVEs": [],
+          "ActivelyExploitedCVEs": [
+            "CVE-2025-43520",
+            "CVE-2025-43510"
+          ],
           "UniqueCVEsCount": 111,
           "DaysSincePreviousRelease": 35
         },
@@ -1508,11 +1511,14 @@
             "CVE-2025-43496": false,
             "CVE-2025-43498": false,
             "CVE-2025-43499": false,
-            "CVE-2025-43510": false,
-            "CVE-2025-43520": false,
+            "CVE-2025-43510": true,
+            "CVE-2025-43520": true,
             "CVE-2025-6442": false
           },
-          "ActivelyExploitedCVEs": [],
+          "ActivelyExploitedCVEs": [
+            "CVE-2025-43520",
+            "CVE-2025-43510"
+          ],
           "UniqueCVEsCount": 61,
           "DaysSincePreviousRelease": 35
         },
@@ -1885,7 +1891,7 @@
             "CVE-2025-31243": false,
             "CVE-2025-31273": false,
             "CVE-2025-31275": false,
-            "CVE-2025-31277": false,
+            "CVE-2025-31277": true,
             "CVE-2025-31278": false,
             "CVE-2025-31279": false,
             "CVE-2025-31280": false,
@@ -1975,6 +1981,7 @@
             "CVE-2025-7425": false
           },
           "ActivelyExploitedCVEs": [
+            "CVE-2025-31277",
             "CVE-2025-6558"
           ],
           "UniqueCVEsCount": 92,
@@ -3987,11 +3994,14 @@
             "CVE-2025-43494": false,
             "CVE-2025-43498": false,
             "CVE-2025-43499": false,
-            "CVE-2025-43510": false,
-            "CVE-2025-43520": false,
+            "CVE-2025-43510": true,
+            "CVE-2025-43520": true,
             "CVE-2025-6442": false
           },
-          "ActivelyExploitedCVEs": [],
+          "ActivelyExploitedCVEs": [
+            "CVE-2025-43520",
+            "CVE-2025-43510"
+          ],
           "UniqueCVEsCount": 50,
           "DaysSincePreviousRelease": 35
         },

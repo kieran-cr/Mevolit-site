@@ -1,7 +1,7 @@
 {
   "Version": "2.0",
-  "UpdateHash": "22b313d18a963549adf3d05bc5612c8c52b669323ea285ef1218b67672408f5e",
-  "LastCheck": "2026-03-20T13:38:07.731121875+00:00",
+  "UpdateHash": "344342bf6d47efbfa7f70a75279cecc0a1a7fdeaa36678c13d387dc490caed55",
+  "LastCheck": "2026-03-20T17:31:35.659213645+00:00",
   "OSVersions": [
     {
       "OSVersion": "Tahoe 26",
@@ -786,21 +786,34 @@
             "CVE-2025-43506": {},
             "CVE-2025-43507": {},
             "CVE-2025-43508": {},
-            "CVE-2025-43510": {},
-            "CVE-2025-43520": {},
+            "CVE-2025-43510": {
+              "nist_url": "https://nvd.nist.gov/vuln/detail/CVE-2025-43510",
+              "actively_exploited": true,
+              "in_kev": true,
+              "severity": "Critical"
+            },
+            "CVE-2025-43520": {
+              "nist_url": "https://nvd.nist.gov/vuln/detail/CVE-2025-43520",
+              "actively_exploited": true,
+              "in_kev": true,
+              "severity": "Critical"
+            },
             "CVE-2025-46316": {},
             "CVE-2025-53906": {},
             "CVE-2025-6442": {}
           },
-          "ActivelyExploitedCVEs": [],
+          "ActivelyExploitedCVEs": [
+            "CVE-2025-43520",
+            "CVE-2025-43510"
+          ],
           "UniqueCVEsCount": 111,
           "DaysSincePreviousRelease": 35,
           "update_summary": {
-            "priority": "high",
-            "summary": "Addresses 111 security issues",
-            "recommendation": "Update to stay secure - security fixes available",
+            "priority": "critical",
+            "summary": "Contains 2 actively exploited vulnerabilities",
+            "recommendation": "Update immediately - actively exploited vulnerabilities",
             "stats": {
-              "exploited": 0,
+              "exploited": 2,
               "critical": 0,
               "high": 0,
               "medium": 0,
@@ -1694,19 +1707,32 @@
             "CVE-2025-43496": {},
             "CVE-2025-43498": {},
             "CVE-2025-43499": {},
-            "CVE-2025-43510": {},
-            "CVE-2025-43520": {},
+            "CVE-2025-43510": {
+              "nist_url": "https://nvd.nist.gov/vuln/detail/CVE-2025-43510",
+              "actively_exploited": true,
+              "in_kev": true,
+              "severity": "Critical"
+            },
+            "CVE-2025-43520": {
+              "nist_url": "https://nvd.nist.gov/vuln/detail/CVE-2025-43520",
+              "actively_exploited": true,
+              "in_kev": true,
+              "severity": "Critical"
+            },
             "CVE-2025-6442": {}
           },
-          "ActivelyExploitedCVEs": [],
+          "ActivelyExploitedCVEs": [
+            "CVE-2025-43520",
+            "CVE-2025-43510"
+          ],
           "UniqueCVEsCount": 61,
           "DaysSincePreviousRelease": 35,
           "update_summary": {
-            "priority": "high",
-            "summary": "Addresses 61 security issues",
-            "recommendation": "Update to stay secure - security fixes available",
+            "priority": "critical",
+            "summary": "Contains 2 actively exploited vulnerabilities",
+            "recommendation": "Update immediately - actively exploited vulnerabilities",
             "stats": {
-              "exploited": 0,
+              "exploited": 2,
               "critical": 0,
               "high": 0,
               "medium": 0,
@@ -2084,7 +2110,12 @@
             "CVE-2025-31243": {},
             "CVE-2025-31273": {},
             "CVE-2025-31275": {},
-            "CVE-2025-31277": {},
+            "CVE-2025-31277": {
+              "nist_url": "https://nvd.nist.gov/vuln/detail/CVE-2025-31277",
+              "actively_exploited": true,
+              "in_kev": true,
+              "severity": "Critical"
+            },
             "CVE-2025-31278": {},
             "CVE-2025-31279": {},
             "CVE-2025-31280": {},
@@ -2179,16 +2210,17 @@
             "CVE-2025-7425": {}
           },
           "ActivelyExploitedCVEs": [
+            "CVE-2025-31277",
             "CVE-2025-6558"
           ],
           "UniqueCVEsCount": 92,
           "DaysSincePreviousRelease": 78,
           "update_summary": {
             "priority": "critical",
-            "summary": "Contains 1 actively exploited vulnerability",
+            "summary": "Contains 2 actively exploited vulnerabilities",
             "recommendation": "Update immediately - actively exploited vulnerabilities",
             "stats": {
-              "exploited": 1,
+              "exploited": 2,
               "critical": 0,
               "high": 0,
               "medium": 0,
@@ -4321,19 +4353,32 @@
             "CVE-2025-43494": {},
             "CVE-2025-43498": {},
             "CVE-2025-43499": {},
-            "CVE-2025-43510": {},
-            "CVE-2025-43520": {},
+            "CVE-2025-43510": {
+              "nist_url": "https://nvd.nist.gov/vuln/detail/CVE-2025-43510",
+              "actively_exploited": true,
+              "in_kev": true,
+              "severity": "Critical"
+            },
+            "CVE-2025-43520": {
+              "nist_url": "https://nvd.nist.gov/vuln/detail/CVE-2025-43520",
+              "actively_exploited": true,
+              "in_kev": true,
+              "severity": "Critical"
+            },
             "CVE-2025-6442": {}
           },
-          "ActivelyExploitedCVEs": [],
+          "ActivelyExploitedCVEs": [
+            "CVE-2025-43520",
+            "CVE-2025-43510"
+          ],
           "UniqueCVEsCount": 50,
           "DaysSincePreviousRelease": 35,
           "update_summary": {
-            "priority": "high",
-            "summary": "Addresses 50 security issues",
-            "recommendation": "Update to stay secure - security fixes available",
+            "priority": "critical",
+            "summary": "Contains 2 actively exploited vulnerabilities",
+            "recommendation": "Update immediately - actively exploited vulnerabilities",
             "stats": {
-              "exploited": 0,
+              "exploited": 2,
               "critical": 0,
               "high": 0,
               "medium": 0,
@@ -14959,7 +15004,7 @@
           "AllBuilds": [],
           "ReleaseDate": "2021-09-20T00:00:00Z",
           "ReleaseType": "OS",
-          "SecurityInfo": "https://support.apple.com/kb/HT211100",
+          "SecurityInfo": "https://support.apple.com/en-us/120911",
           "SecurityInfoContext": "macOS 12.0 was released on . This update has no published CVE entries. Newer updates are now available, so please check to see if they apply to your devices.",
           "SupportedDevices": [
             "J132AP",
@@ -16311,9 +16356,9 @@
     "ReleaseDate": "2026-03-17T17:03:09Z"
   },
   "XProtectPayloads": {
-    "com.apple.XProtectFramework.XProtect": "157",
+    "com.apple.XprotectFramework.PluginService": "74",
     "ReleaseDate": "2026-03-17T17:03:09Z",
-    "com.apple.XprotectFramework.PluginService": "74"
+    "com.apple.XProtectFramework.XProtect": "157"
   },
   "BackgroundSecurityImprovements": {
     "26": [

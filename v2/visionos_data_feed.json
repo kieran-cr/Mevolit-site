@@ -1,8 +1,8 @@
 {
   "OSName": "visionOS",
   "Version": "2.0",
-  "UpdateHash": "77561c39ef2913bb9506228a1750f87f917a86b54af2aa244dbcdfe975db7739",
-  "LastCheck": "2026-03-20T13:38:07.815987893+00:00",
+  "UpdateHash": "cb8a306166a9132b81b1d8096c47b9c0de26b8994716855a3f9c39e62605ec27",
+  "LastCheck": "2026-03-20T17:31:35.746691201+00:00",
   "OSVersions": [
     {
       "OSVersion": "visionOS 26",
@@ -298,10 +298,21 @@
             "CVE-2025-43502": {},
             "CVE-2025-43503": {},
             "CVE-2025-43507": {},
-            "CVE-2025-43510": {},
-            "CVE-2025-43520": {}
+            "CVE-2025-43510": {
+              "nist_url": "https://nvd.nist.gov/vuln/detail/CVE-2025-43510",
+              "in_kev": true,
+              "severity": "High"
+            },
+            "CVE-2025-43520": {
+              "nist_url": "https://nvd.nist.gov/vuln/detail/CVE-2025-43520",
+              "in_kev": true,
+              "severity": "High"
+            }
           },
-          "ActivelyExploitedCVEs": [],
+          "ActivelyExploitedCVEs": [
+            "CVE-2025-43520",
+            "CVE-2025-43510"
+          ],
           "UniqueCVEsCount": 46,
           "DaysSincePreviousRelease": 35,
           "update_summary": {
@@ -422,7 +433,11 @@
         "SupportedDevices": [],
         "CVEs": {
           "CVE-2025-31273": {},
-          "CVE-2025-31277": {},
+          "CVE-2025-31277": {
+            "nist_url": "https://nvd.nist.gov/vuln/detail/CVE-2025-31277",
+            "in_kev": true,
+            "severity": "High"
+          },
           "CVE-2025-31278": {},
           "CVE-2025-31281": {},
           "CVE-2025-43186": {},
@@ -453,6 +468,7 @@
           "CVE-2025-7425": {}
         },
         "ActivelyExploitedCVEs": [
+          "CVE-2025-31277",
           "CVE-2025-6558"
         ],
         "UniqueCVEsCount": 26,
@@ -486,7 +502,11 @@
           "SupportedDevices": [],
           "CVEs": {
             "CVE-2025-31273": {},
-            "CVE-2025-31277": {},
+            "CVE-2025-31277": {
+              "nist_url": "https://nvd.nist.gov/vuln/detail/CVE-2025-31277",
+              "in_kev": true,
+              "severity": "High"
+            },
             "CVE-2025-31278": {},
             "CVE-2025-31281": {},
             "CVE-2025-43186": {},
@@ -517,6 +537,7 @@
             "CVE-2025-7425": {}
           },
           "ActivelyExploitedCVEs": [
+            "CVE-2025-31277",
             "CVE-2025-6558"
           ],
           "UniqueCVEsCount": 26,

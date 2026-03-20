@@ -1,8 +1,8 @@
 {
   "OSName": "watchOS",
   "Version": "2.0",
-  "UpdateHash": "dcfc01b3d41a9d4121e000d5ca0de33452dc5a261440e79bf54255831a0b4702",
-  "LastCheck": "2026-03-20T13:38:07.801433901+00:00",
+  "UpdateHash": "ec38e25f74982bdc12f766c70fe03c06aaa735746350cefb490becf1f52b40cd",
+  "LastCheck": "2026-03-20T17:31:35.731717339+00:00",
   "OSVersions": [
     {
       "OSVersion": "watchOS 26",
@@ -440,10 +440,21 @@
             "CVE-2025-43500": {},
             "CVE-2025-43503": {},
             "CVE-2025-43507": {},
-            "CVE-2025-43510": {},
-            "CVE-2025-43520": {}
+            "CVE-2025-43510": {
+              "nist_url": "https://nvd.nist.gov/vuln/detail/CVE-2025-43510",
+              "in_kev": true,
+              "severity": "High"
+            },
+            "CVE-2025-43520": {
+              "nist_url": "https://nvd.nist.gov/vuln/detail/CVE-2025-43520",
+              "in_kev": true,
+              "severity": "High"
+            }
           },
-          "ActivelyExploitedCVEs": [],
+          "ActivelyExploitedCVEs": [
+            "CVE-2025-43520",
+            "CVE-2025-43510"
+          ],
           "UniqueCVEsCount": 35,
           "DaysSincePreviousRelease": 35,
           "update_summary": {
@@ -782,7 +793,11 @@
           ],
           "CVEs": {
             "CVE-2025-31273": {},
-            "CVE-2025-31277": {},
+            "CVE-2025-31277": {
+              "nist_url": "https://nvd.nist.gov/vuln/detail/CVE-2025-31277",
+              "in_kev": true,
+              "severity": "High"
+            },
             "CVE-2025-31278": {},
             "CVE-2025-43186": {},
             "CVE-2025-43209": {},
@@ -810,6 +825,7 @@
             "CVE-2025-7425": {}
           },
           "ActivelyExploitedCVEs": [
+            "CVE-2025-31277",
             "CVE-2025-6558"
           ],
           "UniqueCVEsCount": 23,
