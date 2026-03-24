@@ -6,73 +6,87 @@
     <description>Simple Organized Feed for Apple Software Updates - Security releases and updates</description>
     <language>en-us</language>
     <generator>SOFA RSS Generator 2.0</generator>
-    <lastBuildDate>Tue, 24 Mar 2026 13:54:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 17:51:38 +0000</lastBuildDate>
     <image>
       <url>https://sofa.macadmins.io/images/custom_logo.png</url>
       <title>SOFA</title>
       <link>https://sofa.macadmins.io</link>
     </image>
     <item>
+      <title>iOS 18.7.7 and iPadOS 18.7.7</title>
+      <link>https://support.apple.com/en-us/126793</link>
+      <description>Vulnerabilities Addressed: 24&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Apple Security Bulletin: &lt;a href=&quot;https://support.apple.com/en-us/126793&quot;&gt;https://support.apple.com/en-us/126793&lt;/a&gt;&lt;br&gt;Security Details: &lt;a href=&quot;https://sofa.macadmins.io/ios/ios18&quot;&gt;https://sofa.macadmins.io/ios/ios18&lt;/a&gt;</description>
+      <guid isPermaLink="false">iOS_OS_18.7.7</guid>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>iOS 26.4 and iPadOS 26.4</title>
+      <link>https://support.apple.com/en-us/126792</link>
+      <description>Vulnerabilities Addressed: 38&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Apple Security Bulletin: &lt;a href=&quot;https://support.apple.com/en-us/126792&quot;&gt;https://support.apple.com/en-us/126792&lt;/a&gt;&lt;br&gt;Security Details: &lt;a href=&quot;https://sofa.macadmins.io/ios/ios17&quot;&gt;https://sofa.macadmins.io/ios/ios17&lt;/a&gt;</description>
+      <guid isPermaLink="false">iOS_OS_26.4</guid>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>macOS Sequoia 15.7.5</title>
+      <link>https://support.apple.com/en-us/126795</link>
+      <description>Vulnerabilities Addressed: 57&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Apple Security Bulletin: &lt;a href=&quot;https://support.apple.com/en-us/126795&quot;&gt;https://support.apple.com/en-us/126795&lt;/a&gt;&lt;br&gt;Security Details: &lt;a href=&quot;https://sofa.macadmins.io/macos/sequoia&quot;&gt;https://sofa.macadmins.io/macos/sequoia&lt;/a&gt;</description>
+      <guid isPermaLink="false">macOS_OS_15.7.5</guid>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>macOS Sonoma 14.8.5</title>
+      <link>https://support.apple.com/en-us/126796</link>
+      <description>Vulnerabilities Addressed: 52&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Apple Security Bulletin: &lt;a href=&quot;https://support.apple.com/en-us/126796&quot;&gt;https://support.apple.com/en-us/126796&lt;/a&gt;&lt;br&gt;Security Details: &lt;a href=&quot;https://sofa.macadmins.io/macos/sonoma&quot;&gt;https://sofa.macadmins.io/macos/sonoma&lt;/a&gt;</description>
+      <guid isPermaLink="false">macOS_OS_14.8.5</guid>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>macOS Tahoe 26.4</title>
+      <link>https://support.apple.com/en-us/126794</link>
+      <description>Vulnerabilities Addressed: 77&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Apple Security Bulletin: &lt;a href=&quot;https://support.apple.com/en-us/126794&quot;&gt;https://support.apple.com/en-us/126794&lt;/a&gt;&lt;br&gt;Security Details: &lt;a href=&quot;https://sofa.macadmins.io/macos/sequoia&quot;&gt;https://sofa.macadmins.io/macos/sequoia&lt;/a&gt;</description>
+      <guid isPermaLink="false">macOS_OS_26.4</guid>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>tvOS 26.4</title>
+      <link>https://support.apple.com/en-us/126797</link>
+      <description>Vulnerabilities Addressed: 17&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Apple Security Bulletin: &lt;a href=&quot;https://support.apple.com/en-us/126797&quot;&gt;https://support.apple.com/en-us/126797&lt;/a&gt;&lt;br&gt;Security Details: &lt;a href=&quot;https://sofa.macadmins.io/tvos/tvos17&quot;&gt;https://sofa.macadmins.io/tvos/tvos17&lt;/a&gt;</description>
+      <guid isPermaLink="false">tvOS_OS_26.4</guid>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>visionOS 26.4</title>
+      <link>https://support.apple.com/en-us/126799</link>
+      <description>Vulnerabilities Addressed: 29&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Apple Security Bulletin: &lt;a href=&quot;https://support.apple.com/en-us/126799&quot;&gt;https://support.apple.com/en-us/126799&lt;/a&gt;&lt;br&gt;Security Details: &lt;a href=&quot;https://sofa.macadmins.io/visionos/visionos2&quot;&gt;https://sofa.macadmins.io/visionos/visionos2&lt;/a&gt;</description>
+      <guid isPermaLink="false">visionOS_OS_26.4</guid>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>watchOS 26.4</title>
+      <link>https://support.apple.com/en-us/126798</link>
+      <description>Vulnerabilities Addressed: 22&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Apple Security Bulletin: &lt;a href=&quot;https://support.apple.com/en-us/126798&quot;&gt;https://support.apple.com/en-us/126798&lt;/a&gt;&lt;br&gt;Security Details: &lt;a href=&quot;https://sofa.macadmins.io/watchos/watchos11&quot;&gt;https://sofa.macadmins.io/watchos/watchos11&lt;/a&gt;</description>
+      <guid isPermaLink="false">watchOS_OS_26.4</guid>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>watchOS 5.3.10</title>
+      <link>https://support.apple.com/en-us/100100</link>
+      <description>Vulnerabilities Addressed: 0&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Apple Security Bulletin: &lt;a href=&quot;https://support.apple.com/en-us/100100&quot;&gt;https://support.apple.com/en-us/100100&lt;/a&gt;</description>
+      <guid isPermaLink="false">watchOS_OS_5.3.10</guid>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>watchOS 8.8.2</title>
+      <link>https://support.apple.com/en-us/100100</link>
+      <description>Vulnerabilities Addressed: 0&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Apple Security Bulletin: &lt;a href=&quot;https://support.apple.com/en-us/100100&quot;&gt;https://support.apple.com/en-us/100100&lt;/a&gt;</description>
+      <guid isPermaLink="false">watchOS_OS_8.8.2</guid>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Xcode 26.4 Release Candidate (17E192)</title>
       <link>https://developer.apple.com/go/?id=xcode-26_4-sdk-rn</link>
       <description>Developer Beta Release for Xcode&lt;br&gt;New features and improvements preview&lt;br&gt;Build Number: 17E192&lt;br&gt;Bug Reporting: Use Feedback Assistant app&lt;br&gt;Access: Requires Apple Developer Program or Beta Software Program&lt;br&gt;More Details: &lt;a href=&quot;https://sofa.macadmins.io/beta-releases&quot;&gt;https://sofa.macadmins.io/beta-releases&lt;/a&gt;</description>
       <guid isPermaLink="false">Beta_Xcode_26.4_Release_Candidate_(17E192)_26.4 Release Candidate</guid>
-      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>iOS 26.4 RC (23E244)</title>
-      <link>https://developer.apple.com/go/?id=ios-26_4-rn</link>
-      <description>Developer Beta Release for iOS&lt;br&gt;New features and improvements preview&lt;br&gt;Build Number: 23E244&lt;br&gt;Bug Reporting: Use Feedback Assistant app&lt;br&gt;Access: Requires Apple Developer Program or Beta Software Program&lt;br&gt;More Details: &lt;a href=&quot;https://sofa.macadmins.io/ios/ios17&quot;&gt;https://sofa.macadmins.io/ios/ios17&lt;/a&gt;</description>
-      <guid isPermaLink="false">Beta_iOS_26.4_RC_(23E244)_26.4 RC</guid>
-      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>iPadOS 26.4 RC (23E244)</title>
-      <link>https://developer.apple.com/go/?id=ipados-26_4-rn</link>
-      <description>Developer Beta Release for iPadOS&lt;br&gt;New features and improvements preview&lt;br&gt;Build Number: 23E244&lt;br&gt;Bug Reporting: Use Feedback Assistant app&lt;br&gt;Access: Requires Apple Developer Program or Beta Software Program&lt;br&gt;More Details: &lt;a href=&quot;https://sofa.macadmins.io/ios/ios17&quot;&gt;https://sofa.macadmins.io/ios/ios17&lt;/a&gt;</description>
-      <guid isPermaLink="false">Beta_iPadOS_26.4_RC_(23E244)_26.4 RC</guid>
-      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>macOS 26.4 RC (25E243)</title>
-      <link>https://developer.apple.com/go/?id=macos-26_4-rn</link>
-      <description>Developer Beta Release for macOS&lt;br&gt;New features and improvements preview&lt;br&gt;Build Number: 25E243&lt;br&gt;Bug Reporting: Use Feedback Assistant app&lt;br&gt;Access: Requires Apple Developer Program or Beta Software Program&lt;br&gt;More Details: &lt;a href=&quot;https://sofa.macadmins.io/macos/sequoia&quot;&gt;https://sofa.macadmins.io/macos/sequoia&lt;/a&gt;</description>
-      <guid isPermaLink="false">Beta_macOS_26.4_RC_(25E243)_26.4 RC</guid>
-      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>tvOS 26.4 RC (23L240)</title>
-      <link>https://developer.apple.com/go/?id=tvos-26_4-rn</link>
-      <description>Developer Beta Release for tvOS&lt;br&gt;New features and improvements preview&lt;br&gt;Build Number: 23L240&lt;br&gt;Bug Reporting: Use Feedback Assistant app&lt;br&gt;Access: Requires Apple Developer Program or Beta Software Program&lt;br&gt;More Details: &lt;a href=&quot;https://sofa.macadmins.io/tvos/tvos17&quot;&gt;https://sofa.macadmins.io/tvos/tvos17&lt;/a&gt;</description>
-      <guid isPermaLink="false">Beta_tvOS_26.4_RC_(23L240)_26.4 RC</guid>
-      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>visionOS 26.4 RC (23O244)</title>
-      <link>https://developer.apple.com/go/?id=visionos-26_4-rn</link>
-      <description>Developer Beta Release for visionOS&lt;br&gt;New features and improvements preview&lt;br&gt;Build Number: 23O244&lt;br&gt;Bug Reporting: Use Feedback Assistant app&lt;br&gt;Access: Requires Apple Developer Program or Beta Software Program&lt;br&gt;More Details: &lt;a href=&quot;https://sofa.macadmins.io/visionos/visionos2&quot;&gt;https://sofa.macadmins.io/visionos/visionos2&lt;/a&gt;</description>
-      <guid isPermaLink="false">Beta_visionOS_26.4_RC_(23O244)_26.4 RC</guid>
-      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>watchOS 26.4 RC (23T239)</title>
-      <link>https://developer.apple.com/go/?id=watchos-26_4-rn</link>
-      <description>Developer Beta Release for watchOS&lt;br&gt;New features and improvements preview&lt;br&gt;Build Number: 23T239&lt;br&gt;Bug Reporting: Use Feedback Assistant app&lt;br&gt;Access: Requires Apple Developer Program or Beta Software Program&lt;br&gt;More Details: &lt;a href=&quot;https://sofa.macadmins.io/watchos/watchos11&quot;&gt;https://sofa.macadmins.io/watchos/watchos11&lt;/a&gt;</description>
-      <guid isPermaLink="false">Beta_watchOS_26.4_RC_(23T239)_26.4 RC</guid>
-      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>iOS 18.7.7 RC (22H333)</title>
-      <link>https://sofa.macadmins.io</link>
-      <description>Developer Beta Release for iOS&lt;br&gt;New features and improvements preview&lt;br&gt;Build Number: 22H333&lt;br&gt;Bug Reporting: Use Feedback Assistant app&lt;br&gt;Access: Requires Apple Developer Program or Beta Software Program&lt;br&gt;More Details: &lt;a href=&quot;https://sofa.macadmins.io/ios/ios18&quot;&gt;https://sofa.macadmins.io/ios/ios18&lt;/a&gt;</description>
-      <guid isPermaLink="false">Beta_iOS_18.7.7_RC_(22H333)_18.7.7 RC</guid>
-      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>iPadOS 18.7.7 RC (22H333)</title>
-      <link>https://sofa.macadmins.io</link>
-      <description>Developer Beta Release for iPadOS&lt;br&gt;New features and improvements preview&lt;br&gt;Build Number: 22H333&lt;br&gt;Bug Reporting: Use Feedback Assistant app&lt;br&gt;Access: Requires Apple Developer Program or Beta Software Program&lt;br&gt;More Details: &lt;a href=&quot;https://sofa.macadmins.io/ios/ios18&quot;&gt;https://sofa.macadmins.io/ios/ios18&lt;/a&gt;</description>
-      <guid isPermaLink="false">Beta_iPadOS_18.7.7_RC_(22H333)_18.7.7 RC</guid>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -98,36 +112,36 @@
     </item>
     <item>
       <title>macOS Tahoe 26.3.2</title>
-      <link>https://support.apple.com/en-us/100100</link>
-      <description>Vulnerabilities Addressed: 0&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Apple Security Bulletin: &lt;a href=&quot;https://support.apple.com/en-us/100100&quot;&gt;https://support.apple.com/en-us/100100&lt;/a&gt;</description>
+      <link>https://sofa.macadmins.io</link>
+      <description>Vulnerabilities Addressed: 0&lt;br&gt;Exploited CVE(s): 0</description>
       <guid isPermaLink="false">macOS_OS_26.3.2</guid>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>iOS 18.7.6</title>
-      <link>https://support.apple.com/en-us/100100</link>
-      <description>Vulnerabilities Addressed: 0&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Apple Security Bulletin: &lt;a href=&quot;https://support.apple.com/en-us/100100&quot;&gt;https://support.apple.com/en-us/100100&lt;/a&gt;</description>
+      <link>https://sofa.macadmins.io</link>
+      <description>Vulnerabilities Addressed: 0&lt;br&gt;Exploited CVE(s): 0</description>
       <guid isPermaLink="false">iOS_OS_18.7.6</guid>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>iOS 26.3.1 and iPadOS 26.3.1</title>
-      <link>https://support.apple.com/en-us/100100</link>
-      <description>Vulnerabilities Addressed: 0&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Apple Security Bulletin: &lt;a href=&quot;https://support.apple.com/en-us/100100&quot;&gt;https://support.apple.com/en-us/100100&lt;/a&gt;</description>
+      <link>https://sofa.macadmins.io</link>
+      <description>Vulnerabilities Addressed: 0&lt;br&gt;Exploited CVE(s): 0</description>
       <guid isPermaLink="false">iOS_OS_26.3.1</guid>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>macOS Tahoe 26.3.1</title>
-      <link>https://support.apple.com/en-us/100100</link>
-      <description>Vulnerabilities Addressed: 0&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Apple Security Bulletin: &lt;a href=&quot;https://support.apple.com/en-us/100100&quot;&gt;https://support.apple.com/en-us/100100&lt;/a&gt;</description>
+      <link>https://sofa.macadmins.io</link>
+      <description>Vulnerabilities Addressed: 0&lt;br&gt;Exploited CVE(s): 0</description>
       <guid isPermaLink="false">macOS_OS_26.3.1</guid>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>visionOS 26.3.1</title>
-      <link>https://support.apple.com/en-us/100100</link>
-      <description>Vulnerabilities Addressed: 0&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Apple Security Bulletin: &lt;a href=&quot;https://support.apple.com/en-us/100100&quot;&gt;https://support.apple.com/en-us/100100&lt;/a&gt;</description>
+      <link>https://sofa.macadmins.io</link>
+      <description>Vulnerabilities Addressed: 0&lt;br&gt;Exploited CVE(s): 0</description>
       <guid isPermaLink="false">visionOS_OS_26.3.1</guid>
       <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
     </item>
