@@ -6,7 +6,7 @@
     <description>Simple Organized Feed for Apple Software Updates - Security releases and updates</description>
     <language>en-us</language>
     <generator>SOFA RSS Generator 2.0</generator>
-    <lastBuildDate>Tue, 24 Mar 2026 19:50:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 20:35:05 +0000</lastBuildDate>
     <image>
       <url>https://sofa.macadmins.io/images/custom_logo.png</url>
       <title>SOFA</title>
@@ -90,11 +90,11 @@
       <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Xcode 26.4 Release Candidate (17E192)</title>
+      <title>Xcode 26.4 (17E192)</title>
       <link>https://developer.apple.com/go/?id=xcode-26_4-sdk-rn</link>
       <description>Developer Beta Release for Xcode&lt;br&gt;New features and improvements preview&lt;br&gt;Build Number: 17E192&lt;br&gt;Bug Reporting: Use Feedback Assistant app&lt;br&gt;Access: Requires Apple Developer Program or Beta Software Program&lt;br&gt;More Details: &lt;a href=&quot;https://sofa.macadmins.io/beta-releases&quot;&gt;https://sofa.macadmins.io/beta-releases&lt;/a&gt;</description>
-      <guid isPermaLink="false">Beta_Xcode_26.4_Release_Candidate_(17E192)_26.4 Release Candidate</guid>
-      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Beta_Xcode_26.4_(17E192)_26.4</guid>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>XProtect Security Framework Bundle Update</title>
