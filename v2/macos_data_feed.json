@@ -1,7 +1,7 @@
 {
   "Version": "2.0",
-  "UpdateHash": "4a230f2823003445c1b74a8548dc68b77c262c8f10037dc5c459b634205554f8",
-  "LastCheck": "2026-03-24T17:51:37.003274299+00:00",
+  "UpdateHash": "1781fbf93fee861afe02937efed20a551af2d1e9a4b3da9c365949ecf1207b50",
+  "LastCheck": "2026-03-24T18:53:55.795421059+00:00",
   "OSVersions": [
     {
       "OSVersion": "Tahoe 26",
@@ -15599,7 +15599,7 @@
           "AllBuilds": [],
           "ReleaseDate": "2021-09-20T00:00:00Z",
           "ReleaseType": "OS",
-          "SecurityInfo": "https://support.apple.com/kb/HT211215",
+          "SecurityInfo": "https://support.apple.com/kb/HT213533",
           "SecurityInfoContext": "macOS 12.0 was released on . This update has no published CVE entries. Newer updates are now available, so please check to see if they apply to your devices.",
           "SupportedDevices": [
             "J132AP",
@@ -16947,13 +16947,13 @@
     }
   },
   "XProtectPlistConfigData": {
-    "com.apple.XProtect": "5334",
-    "ReleaseDate": "2026-03-17T17:03:09Z"
+    "ReleaseDate": "2026-03-17T17:03:09Z",
+    "com.apple.XProtect": "5334"
   },
   "XProtectPayloads": {
-    "com.apple.XProtectFramework.XProtect": "157",
+    "ReleaseDate": "2026-03-17T17:03:09Z",
     "com.apple.XprotectFramework.PluginService": "74",
-    "ReleaseDate": "2026-03-17T17:03:09Z"
+    "com.apple.XProtectFramework.XProtect": "157"
   },
   "BackgroundSecurityImprovements": {
     "26": [
@@ -17045,14 +17045,23 @@
   "InstallationApps": {
     "LatestUMA": {
       "title": "macOS Tahoe",
-      "version": "26.3.2",
-      "build": "25D2140",
-      "apple_slug": "047-94768",
-      "url": "https://swcdn.apple.com/content/downloads/24/35/047-94768-A_ZZXLGKDRHB/e4ehfk9oftcepxzqwc5k8so03dj7c0i8vf/InstallAssistant.pkg",
-      "posting_date": "2026-03-11T21:38:31Z",
-      "size": 17941699481
+      "version": "26.4",
+      "build": "25E246",
+      "apple_slug": "122-10756",
+      "url": "https://swcdn.apple.com/content/downloads/48/33/122-10756-A_YQ9DW48PY4/y7tlsqmgdnno1pkaf137h2l3gmq0t0ywaz/InstallAssistant.pkg",
+      "posting_date": "2026-03-24T17:42:50Z",
+      "size": 18245968224
     },
     "AllPreviousUMA": [
+      {
+        "title": "macOS Tahoe",
+        "version": "26.3.2",
+        "build": "25D2140",
+        "apple_slug": "047-94768",
+        "url": "https://swcdn.apple.com/content/downloads/24/35/047-94768-A_ZZXLGKDRHB/e4ehfk9oftcepxzqwc5k8so03dj7c0i8vf/InstallAssistant.pkg",
+        "posting_date": "2026-03-11T21:38:31Z",
+        "size": 17941699481
+      },
       {
         "title": "macOS Tahoe",
         "version": "26.3.1",
@@ -17091,6 +17100,15 @@
       },
       {
         "title": "macOS Sequoia",
+        "version": "15.7.5",
+        "build": "24G624",
+        "apple_slug": "047-96175",
+        "url": "https://swcdn.apple.com/content/downloads/22/06/047-96175-A_196UW6QK9G/dx1bmt6mb0q3llh0iyingau9ld5liod96r/InstallAssistant.pkg",
+        "posting_date": "2026-03-24T18:11:18Z",
+        "size": 15662743039
+      },
+      {
+        "title": "macOS Sequoia",
         "version": "15.7.4",
         "build": "24G517",
         "apple_slug": "047-48630",
@@ -17115,6 +17133,15 @@
         "url": "https://swcdn.apple.com/content/downloads/23/34/093-99065-A_B4TEYIISAM/1a1ddvynvgdh82ev879kh13y2a3trwr18v/InstallAssistant.pkg",
         "posting_date": "2025-11-03T21:41:50Z",
         "size": 15658844828
+      },
+      {
+        "title": "macOS Sonoma",
+        "version": "14.8.5",
+        "build": "23J423",
+        "apple_slug": "047-96015",
+        "url": "https://swcdn.apple.com/content/downloads/23/16/047-96015-A_F2ZJ8P7940/aknn1yshpkeeg1l3hgz7saai1d0zguw31y/InstallAssistant.pkg",
+        "posting_date": "2026-03-24T18:12:54Z",
+        "size": 13674180450
       },
       {
         "title": "macOS Sonoma",
@@ -17190,10 +17217,10 @@
       }
     ],
     "LatestMacIPSW": {
-      "macos_ipsw_url": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
-      "macos_ipsw_build": "25D2128",
-      "macos_ipsw_version": "26.3.1",
-      "macos_ipsw_apple_slug": "047-88313"
+      "macos_ipsw_url": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/122-00766/062A6121-2ABE-45D7-BCB1-72B666B6D2C2/UniversalMac_26.4_25E246_Restore.ipsw",
+      "macos_ipsw_build": "25E246",
+      "macos_ipsw_version": "26.4",
+      "macos_ipsw_apple_slug": "122-00766"
     }
   }
 }
