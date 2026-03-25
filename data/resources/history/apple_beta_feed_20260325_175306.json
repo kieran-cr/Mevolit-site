@@ -1,13 +1,13 @@
 {
-  "UpdateHash": "8b74d7d95b3d19aac964135f5d9c7b63ea9cac69a743094e8b011f45b3e59ed0",
-  "created_at": "2026-03-24T19:50:01.075175Z",
+  "UpdateHash": "bd0080e27262df3046ac8f20ab531a890cde6d625186e05fbbd8ab655c9adafa",
+  "created_at": "2026-03-25T17:53:06.351683Z",
   "items": [
     {
-      "title": "Xcode 26.4 Release Candidate (17E192)",
+      "title": "Xcode 26.4 (17E192)",
       "platform": "Xcode",
-      "version": "26.4 Release Candidate",
+      "version": "26.4",
       "build": "17E192",
-      "released": "2026-03-18",
+      "released": "2026-03-24",
       "release_notes_url": "https://developer.apple.com/go/?id=xcode-26_4-sdk-rn",
       "downloads_url": "https://developer.apple.com/download/applications",
       "source_card_url": "https://developer.apple.com/news/releases/"
