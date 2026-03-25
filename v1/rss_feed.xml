@@ -6,12 +6,19 @@
     <description>Simple Organized Feed for Apple Software Updates - Security releases and updates</description>
     <language>en-us</language>
     <generator>SOFA RSS Generator 2.0</generator>
-    <lastBuildDate>Wed, 25 Mar 2026 19:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 19:42:12 +0000</lastBuildDate>
     <image>
       <url>https://sofa.macadmins.io/images/custom_logo.png</url>
       <title>SOFA</title>
       <link>https://sofa.macadmins.io</link>
     </image>
+    <item>
+      <title>XProtect Security Framework Bundle Update</title>
+      <link>https://support.apple.com/en-us/100100</link>
+      <description>XProtect Security Framework updated: Configuration (5335), Remediator (157), Gatekeeper Configuration (140), Malware Removal Tool (MRT) (1.93), Plugin Service (74)&lt;br&gt;Malware protection and security definitions updated&lt;br&gt;Track all XProtect components on SOFA: &lt;a href=f&quot;https://sofa.macadmins.io/macos/sequoia&quot;&gt;https://sofa.macadmins.io/macos/sequoia&lt;/a&gt;</description>
+      <guid isPermaLink="false">XProtect_xprotect_Bundle Update</guid>
+      <pubDate>Wed, 25 Mar 2026 19:22:41 +0000</pubDate>
+    </item>
     <item>
       <title>Safari 26.4</title>
       <link>https://support.apple.com/en-us/126800</link>
@@ -102,13 +109,6 @@
       <description>Developer Beta Release for Xcode&lt;br&gt;New features and improvements preview&lt;br&gt;Build Number: 17E192&lt;br&gt;Bug Reporting: Use Feedback Assistant app&lt;br&gt;Access: Requires Apple Developer Program or Beta Software Program&lt;br&gt;More Details: &lt;a href=&quot;https://sofa.macadmins.io/beta-releases&quot;&gt;https://sofa.macadmins.io/beta-releases&lt;/a&gt;</description>
       <guid isPermaLink="false">Beta_Xcode_26.4_(17E192)_26.4</guid>
       <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XProtect Security Framework Bundle Update</title>
-      <link>https://support.apple.com/en-us/100100</link>
-      <description>XProtect Security Framework updated: Configuration (5334), Remediator (157), Gatekeeper Configuration (140), Malware Removal Tool (MRT) (1.93), Plugin Service (74)&lt;br&gt;Malware protection and security definitions updated&lt;br&gt;Track all XProtect components on SOFA: &lt;a href=f&quot;https://sofa.macadmins.io/macos/sequoia&quot;&gt;https://sofa.macadmins.io/macos/sequoia&lt;/a&gt;</description>
-      <guid isPermaLink="false">XProtect_xprotect_Bundle Update</guid>
-      <pubDate>Tue, 17 Mar 2026 17:03:09 +0000</pubDate>
     </item>
     <item>
       <title>iOS 15.8.7 and iPadOS 15.8.7</title>
@@ -211,7 +211,7 @@
     <item>
       <title>tvOS 26.3</title>
       <link>https://support.apple.com/en-us/126351</link>
-      <description>Vulnerabilities Addressed: 16&lt;br&gt;Exploited CVE(s): 3&lt;br&gt;Apple Security Bulletin: &lt;a href=&quot;https://support.apple.com/en-us/126351&quot;&gt;https://support.apple.com/en-us/126351&lt;/a&gt;&lt;br&gt;Security Details: &lt;a href=&quot;https://sofa.macadmins.io/tvos/tvos17&quot;&gt;https://sofa.macadmins.io/tvos/tvos17&lt;/a&gt;</description>
+      <description>Vulnerabilities Addressed: 17&lt;br&gt;Exploited CVE(s): 3&lt;br&gt;Apple Security Bulletin: &lt;a href=&quot;https://support.apple.com/en-us/126351&quot;&gt;https://support.apple.com/en-us/126351&lt;/a&gt;&lt;br&gt;Security Details: &lt;a href=&quot;https://sofa.macadmins.io/tvos/tvos17&quot;&gt;https://sofa.macadmins.io/tvos/tvos17&lt;/a&gt;</description>
       <guid isPermaLink="false">tvOS_OS_26.3</guid>
       <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
     </item>

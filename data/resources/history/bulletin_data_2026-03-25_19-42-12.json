@@ -1,7 +1,7 @@
 {
-  "content_hash": "ff1f74f62c802e4b06e8e7bfa0c003e451ce467ec66ff1a21bd7a8ca404b0b62",
+  "content_hash": "04bd6bd4971a1434bec588eaf46a3f9fb4f827a1b44189ff9d035e2d1b5bbe50",
   "content_changed": true,
-  "generated_at": "2026-03-24T19:50:29.571772987Z",
+  "generated_at": "2026-03-25T19:42:12.017600118Z",
   "latest_releases": {
     "macos": {
       "version": "26.4",
@@ -297,19 +297,19 @@
       "updates_link": null
     },
     "safari": {
-      "version": "26.3",
-      "build": "26.3",
-      "release_date": "2026-02-11T00:00:00Z",
-      "url": "https://support.apple.com/en-us/126354",
+      "version": "26.4",
+      "build": "26.4",
+      "release_date": "2026-03-24T00:00:00Z",
+      "url": "https://support.apple.com/en-us/126800",
       "cves_fixed": [
-        "CVE-2026-20608",
-        "CVE-2026-20635",
-        "CVE-2026-20636",
-        "CVE-2026-20644",
-        "CVE-2026-20652",
-        "CVE-2026-20656",
-        "CVE-2026-20660",
-        "CVE-2026-20676"
+        "CVE-2026-20643",
+        "CVE-2026-20664",
+        "CVE-2026-20665",
+        "CVE-2026-20691",
+        "CVE-2026-28857",
+        "CVE-2026-28859",
+        "CVE-2026-28861",
+        "CVE-2026-28871"
       ],
       "actively_exploited_count": 0,
       "total_cve_count": 8,
@@ -318,13 +318,13 @@
     }
   },
   "security_summary": {
-    "unique_cves_fixed": 91,
+    "unique_cves_fixed": 83,
     "kev_matches": 0,
     "latest_wave_date": "2026-03-24T00:00:00Z",
     "kev_cve_list": []
   },
   "beta_releases": {
-    "latest_wave": "2026-03-18",
+    "latest_wave": "2026-03-24",
     "macos": null,
     "ios": null,
     "ipados": null,
@@ -333,6 +333,13 @@
     "visionos": null
   },
   "recent_releases": [
+    {
+      "release_date": "2026-03-24",
+      "name": "Safari 26.4",
+      "platform": "safari",
+      "version": "26.4",
+      "url": "https://support.apple.com/en-us/126800"
+    },
     {
       "release_date": "2026-03-24",
       "name": "Xcode 26.4",
@@ -401,13 +408,6 @@
       "platform": "watchos",
       "version": "26.4",
       "url": "https://support.apple.com/en-us/126798"
-    },
-    {
-      "release_date": "2026-03-24",
-      "name": "watchOS 5.3.10",
-      "platform": "watchos",
-      "version": "5.3.10",
-      "url": "https://support.apple.com/en-us/100100"
     }
   ]
 }
