@@ -1,8 +1,8 @@
 {
   "OSName": "tvOS",
   "Version": "2.0",
-  "UpdateHash": "dfe023fee71419b258e0b48552604aeeb3964363698fd5402363ea303134d1b7",
-  "LastCheck": "2026-03-26T18:58:15.256342042+00:00",
+  "UpdateHash": "0d1f63427da11aafb3145beba234a43d184767c1335439683222b8d01b444f72",
+  "LastCheck": "2026-03-26T19:36:32.159587525+00:00",
   "OSVersions": [
     {
       "OSVersion": "tvOS 26",
@@ -134,7 +134,7 @@
           "ExpirationDate": "2026-06-22",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/126351",
-          "SecurityInfoContext": "tvOS 26.3 was released on February 11, 2026. This release addressed 16 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
+          "SecurityInfoContext": "tvOS 26.3 was released on February 11, 2026. This release addressed 17 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
           "SupportedDevices": [
             "AppleTV11,1",
             "AppleTV14,1",
@@ -159,6 +159,7 @@
             "CVE-2026-20628": {},
             "CVE-2026-20634": {},
             "CVE-2026-20635": {},
+            "CVE-2026-20637": {},
             "CVE-2026-20641": {},
             "CVE-2026-20649": {},
             "CVE-2026-20650": {},
@@ -176,11 +177,11 @@
             "CVE-2025-43529",
             "CVE-2025-14174"
           ],
-          "UniqueCVEsCount": 16,
+          "UniqueCVEsCount": 17,
           "DaysSincePreviousRelease": 61,
           "update_summary": {
             "priority": "high",
-            "summary": "Addresses 16 security issues",
+            "summary": "Addresses 17 security issues",
             "recommendation": "Update to stay secure - security fixes available",
             "stats": {
               "exploited": 0,
@@ -189,7 +190,7 @@
               "medium": 0,
               "low": 0,
               "remote": 0,
-              "total": 16
+              "total": 17
             }
           }
         },
