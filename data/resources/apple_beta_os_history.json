@@ -1,8 +1,58 @@
 {
-  "UpdateHash": "6106cbbe2630e5afbc0ea3268f523edf629d9ff206e6ba681192d0e584c38319",
+  "UpdateHash": "1de4590f2f41f46b3d9278f37faaebd88946928a552b4139b798e3070b2a250d",
   "created_at": "2025-10-07T06:11:55.252778Z",
   "description": "Historical archive of Apple OS releases including betas removed from current feed",
   "items": [
+    {
+      "title": "iOS 26.5 beta (23F5043g)",
+      "platform": "iOS",
+      "version": "26.5 beta",
+      "build": "23F5043g",
+      "released": "2026-03-30",
+      "release_notes_url": "https://developer.apple.com/go/?id=ios-26_5-rn",
+      "downloads_url": "https://developer.apple.com/download/os",
+      "source_card_url": "https://developer.apple.com/news/releases/"
+    },
+    {
+      "title": "macOS 26.5 beta (25F5042g)",
+      "platform": "macOS",
+      "version": "26.5 beta",
+      "build": "25F5042g",
+      "released": "2026-03-30",
+      "release_notes_url": "https://developer.apple.com/go/?id=macos-26_5-rn",
+      "downloads_url": "https://developer.apple.com/download/os",
+      "source_card_url": "https://developer.apple.com/news/releases/"
+    },
+    {
+      "title": "tvOS 26.5 beta (23L5443g)",
+      "platform": "tvOS",
+      "version": "26.5 beta",
+      "build": "23L5443g",
+      "released": "2026-03-30",
+      "release_notes_url": "https://developer.apple.com/go/?id=tvos-26_5-rn",
+      "downloads_url": "https://developer.apple.com/download/os",
+      "source_card_url": "https://developer.apple.com/news/releases/"
+    },
+    {
+      "title": "visionOS 26.5 beta (23O5441g)",
+      "platform": "visionOS",
+      "version": "26.5 beta",
+      "build": "23O5441g",
+      "released": "2026-03-30",
+      "release_notes_url": "https://developer.apple.com/go/?id=visionos-26_5-rn",
+      "downloads_url": "https://developer.apple.com/download/os",
+      "source_card_url": "https://developer.apple.com/news/releases/"
+    },
+    {
+      "title": "watchOS 26.5 beta (23T5541h)",
+      "platform": "watchOS",
+      "version": "26.5 beta",
+      "build": "23T5541h",
+      "released": "2026-03-30",
+      "release_notes_url": "https://developer.apple.com/go/?id=watchos-26_5-rn",
+      "downloads_url": "https://developer.apple.com/download/os",
+      "source_card_url": "https://developer.apple.com/news/releases/"
+    },
     {
       "title": "Xcode 26.4 Release Candidate (17E192)",
       "platform": "Xcode",
@@ -1124,5 +1174,5 @@
       "source_card_url": "https://developer.apple.com/news/releases/"
     }
   ],
-  "last_updated": "2026-03-18T18:52:12.676057Z"
+  "last_updated": "2026-03-30T18:51:18.233627Z"
 }
