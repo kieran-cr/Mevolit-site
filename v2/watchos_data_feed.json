@@ -1,8 +1,8 @@
 {
   "OSName": "watchOS",
   "Version": "2.0",
-  "UpdateHash": "2cc69e6bef2026e3fa80c747a53a29eeb0e52ba0439fbb0047c5626fa6c23642",
-  "LastCheck": "2026-03-30T19:32:51.841476405+00:00",
+  "UpdateHash": "f8cbf86f0232c9c361db4f1b0fc39a7a7cd727fb365064cd66f26432d61088c8",
+  "LastCheck": "2026-03-30T19:51:49.965515763+00:00",
   "OSVersions": [
     {
       "OSVersion": "watchOS 26",
@@ -206,7 +206,7 @@
           "ExpirationDate": "2026-06-22",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/126352",
-          "SecurityInfoContext": "watchOS 26.3 was released on February 11, 2026. This release addressed 19 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
+          "SecurityInfoContext": "watchOS 26.3 was released on February 11, 2026. This release addressed 18 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
           "SupportedDevices": [
             "Watch6,1",
             "Watch6,10",
@@ -263,7 +263,6 @@
             "CVE-2026-20628": {},
             "CVE-2026-20634": {},
             "CVE-2026-20635": {},
-            "CVE-2026-20637": {},
             "CVE-2026-20641": {},
             "CVE-2026-20649": {},
             "CVE-2026-20650": {},
@@ -282,11 +281,11 @@
             "CVE-2025-43529",
             "CVE-2025-14174"
           ],
-          "UniqueCVEsCount": 19,
+          "UniqueCVEsCount": 18,
           "DaysSincePreviousRelease": 16,
           "update_summary": {
             "priority": "high",
-            "summary": "Addresses 19 security issues",
+            "summary": "Addresses 18 security issues",
             "recommendation": "Update to stay secure - security fixes available",
             "stats": {
               "exploited": 0,
@@ -295,7 +294,7 @@
               "medium": 0,
               "low": 0,
               "remote": 0,
-              "total": 19
+              "total": 18
             }
           }
         },
