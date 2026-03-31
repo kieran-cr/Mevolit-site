@@ -1,5 +1,5 @@
 {
-  "UpdateHash": "2c37858c6da5fef3a8ae75908d2b189f8d9a7430117b7af8ac3790e1a10ff966",
+  "UpdateHash": "626333172e5d1b59d0ee16526f828dc66bc7a988c1c63c3961005830c60785a4",
   "OSVersions": [
     {
       "OSVersion": "Tahoe 26",
@@ -1657,11 +1657,10 @@
             "CVE-2026-20609": false,
             "CVE-2026-20611": false,
             "CVE-2026-20612": false,
-            "CVE-2026-20614": false,
+            "CVE-2026-20614": true,
             "CVE-2026-20619": false,
             "CVE-2026-20620": false,
             "CVE-2026-20621": false,
-            "CVE-2026-20622": false,
             "CVE-2026-20624": false,
             "CVE-2026-20625": false,
             "CVE-2026-20626": false,
@@ -1671,14 +1670,16 @@
             "CVE-2026-20653": false,
             "CVE-2026-20662": false,
             "CVE-2026-20667": false,
-            "CVE-2026-20671": false,
+            "CVE-2026-20671": true,
             "CVE-2026-20673": false,
             "CVE-2026-20675": false,
-            "CVE-2026-20680": false,
-            "CVE-2026-20694": false
+            "CVE-2026-20680": false
           },
-          "ActivelyExploitedCVEs": [],
-          "UniqueCVEsCount": 37,
+          "ActivelyExploitedCVEs": [
+            "CVE-2026-20671",
+            "CVE-2026-20614"
+          ],
+          "UniqueCVEsCount": 35,
           "DaysSincePreviousRelease": 61
         },
         {
