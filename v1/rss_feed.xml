@@ -6,7 +6,7 @@
     <description>Simple Organized Feed for Apple Software Updates - Security releases and updates</description>
     <language>en-us</language>
     <generator>SOFA RSS Generator 2.0</generator>
-    <lastBuildDate>Fri, 03 Apr 2026 18:38:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 19:09:30 +0000</lastBuildDate>
     <image>
       <url>https://sofa.macadmins.io/images/custom_logo.png</url>
       <title>SOFA</title>
@@ -24,20 +24,6 @@
       <link>https://developer.apple.com/go/?id=xcode-26_5-sdk-rn</link>
       <description>Developer Beta Release for Xcode&lt;br&gt;New features and improvements preview&lt;br&gt;Build Number: 17F5012f&lt;br&gt;Bug Reporting: Use Feedback Assistant app&lt;br&gt;Access: Requires Apple Developer Program or Beta Software Program&lt;br&gt;More Details: &lt;a href=&quot;https://sofa.macadmins.io/beta-releases&quot;&gt;https://sofa.macadmins.io/beta-releases&lt;/a&gt;</description>
       <guid isPermaLink="false">Beta_Xcode_26.5_beta_(17F5012f)_26.5 beta</guid>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>iOS 26.5 beta (23F5043g)</title>
-      <link>https://developer.apple.com/go/?id=ios-26_5-rn</link>
-      <description>Developer Beta Release for iOS&lt;br&gt;New features and improvements preview&lt;br&gt;Build Number: 23F5043g&lt;br&gt;Bug Reporting: Use Feedback Assistant app&lt;br&gt;Access: Requires Apple Developer Program or Beta Software Program&lt;br&gt;More Details: &lt;a href=&quot;https://sofa.macadmins.io/ios/ios17&quot;&gt;https://sofa.macadmins.io/ios/ios17&lt;/a&gt;</description>
-      <guid isPermaLink="false">Beta_iOS_26.5_beta_(23F5043g)_26.5 beta</guid>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>iPadOS 26.5 beta (23F5043g)</title>
-      <link>https://developer.apple.com/go/?id=ipados-26_5-rn</link>
-      <description>Developer Beta Release for iPadOS&lt;br&gt;New features and improvements preview&lt;br&gt;Build Number: 23F5043g&lt;br&gt;Bug Reporting: Use Feedback Assistant app&lt;br&gt;Access: Requires Apple Developer Program or Beta Software Program&lt;br&gt;More Details: &lt;a href=&quot;https://sofa.macadmins.io/ios/ios17&quot;&gt;https://sofa.macadmins.io/ios/ios17&lt;/a&gt;</description>
-      <guid isPermaLink="false">Beta_iPadOS_26.5_beta_(23F5043g)_26.5 beta</guid>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -232,7 +218,7 @@
     <item>
       <title>iOS 26.3 and iPadOS 26.3</title>
       <link>https://support.apple.com/en-us/126346</link>
-      <description>Vulnerabilities Addressed: 41&lt;br&gt;Exploited CVE(s): 3&lt;br&gt;Apple Security Bulletin: &lt;a href=&quot;https://support.apple.com/en-us/126346&quot;&gt;https://support.apple.com/en-us/126346&lt;/a&gt;&lt;br&gt;Security Details: &lt;a href=&quot;https://sofa.macadmins.io/ios/ios17&quot;&gt;https://sofa.macadmins.io/ios/ios17&lt;/a&gt;</description>
+      <description>Vulnerabilities Addressed: 46&lt;br&gt;Exploited CVE(s): 3&lt;br&gt;Apple Security Bulletin: &lt;a href=&quot;https://support.apple.com/en-us/126346&quot;&gt;https://support.apple.com/en-us/126346&lt;/a&gt;&lt;br&gt;Security Details: &lt;a href=&quot;https://sofa.macadmins.io/ios/ios17&quot;&gt;https://sofa.macadmins.io/ios/ios17&lt;/a&gt;</description>
       <guid isPermaLink="false">iOS_OS_26.3</guid>
       <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
     </item>
