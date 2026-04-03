@@ -1,5 +1,5 @@
 {
-  "UpdateHash": "9b9fc33de12c556a94d489cc54db6399e48640b60da637daa188af65cc14496f",
+  "UpdateHash": "bc300457140ca8cceca100b8e08d2be6b09b862aeaa6645adce7a44e74d2dd52",
   "OSVersions": [
     {
       "OSVersion": "Tahoe 26",
@@ -560,6 +560,7 @@
             "CVE-2026-20619": false,
             "CVE-2026-20620": false,
             "CVE-2026-20621": false,
+            "CVE-2026-20622": false,
             "CVE-2026-20623": false,
             "CVE-2026-20624": false,
             "CVE-2026-20625": false,
@@ -571,6 +572,8 @@
             "CVE-2026-20634": false,
             "CVE-2026-20635": false,
             "CVE-2026-20636": false,
+            "CVE-2026-20637": false,
+            "CVE-2026-20639": false,
             "CVE-2026-20641": false,
             "CVE-2026-20644": false,
             "CVE-2026-20646": false,
@@ -578,6 +581,7 @@
             "CVE-2026-20648": false,
             "CVE-2026-20649": false,
             "CVE-2026-20650": false,
+            "CVE-2026-20651": false,
             "CVE-2026-20652": false,
             "CVE-2026-20653": false,
             "CVE-2026-20654": false,
@@ -587,7 +591,9 @@
             "CVE-2026-20662": false,
             "CVE-2026-20666": false,
             "CVE-2026-20667": false,
+            "CVE-2026-20668": false,
             "CVE-2026-20669": false,
+            "CVE-2026-20670": false,
             "CVE-2026-20671": false,
             "CVE-2026-20673": false,
             "CVE-2026-20675": false,
@@ -595,14 +601,17 @@
             "CVE-2026-20677": false,
             "CVE-2026-20680": false,
             "CVE-2026-20681": false,
-            "CVE-2026-20700": true
+            "CVE-2026-20694": false,
+            "CVE-2026-20699": false,
+            "CVE-2026-20700": true,
+            "CVE-2026-28855": false
           },
           "ActivelyExploitedCVEs": [
             "CVE-2026-20700",
             "CVE-2025-43529",
             "CVE-2025-14174"
           ],
-          "UniqueCVEsCount": 57,
+          "UniqueCVEsCount": 66,
           "DaysSincePreviousRelease": 61
         },
         {
