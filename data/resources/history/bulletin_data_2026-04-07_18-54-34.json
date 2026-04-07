@@ -1,7 +1,7 @@
 {
-  "content_hash": "c255939f3252bb1f4acb5cefee3e945dedac0f18388a05d9a41b1aa9ac08559f",
+  "content_hash": "4decef99083f4e42fc0fd310413225416436dfc7426c36ecf41f43e7fdbd8369",
   "content_changed": true,
-  "generated_at": "2026-04-01T17:47:27.865709663Z",
+  "generated_at": "2026-04-07T18:54:34.086573512Z",
   "latest_releases": {
     "macos": {
       "version": "26.4",
@@ -330,16 +330,8 @@
       "build": "25F5042g",
       "released": "2026-03-30"
     },
-    "ios": {
-      "version": "26.5 beta",
-      "build": "23F5043g",
-      "released": "2026-03-30"
-    },
-    "ipados": {
-      "version": "26.5 beta",
-      "build": "23F5043g",
-      "released": "2026-03-30"
-    },
+    "ios": null,
+    "ipados": null,
     "tvos": {
       "version": "26.5 beta",
       "build": "23L5443g",
