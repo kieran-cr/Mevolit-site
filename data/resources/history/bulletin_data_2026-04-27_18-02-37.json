@@ -1,7 +1,7 @@
 {
-  "content_hash": "0c32d5d258b1e21dcd5e1b22892ff895f1fb8a523050d321e51f83645934113e",
+  "content_hash": "33fac3924efec4adf93067550112057a722ae2679e0f525c901bb1ed9f5c4af4",
   "content_changed": true,
-  "generated_at": "2026-04-21T19:02:48.830314217Z",
+  "generated_at": "2026-04-27T18:02:37.361803781Z",
   "latest_releases": {
     "macos": {
       "version": "26.4.1",
@@ -15,24 +15,28 @@
       "updates_link": null
     },
     "ios": {
-      "version": "26.4.1",
-      "build": "23E6254",
-      "release_date": "2026-04-08T00:00:00Z",
-      "url": "https://support.apple.com/en-us/100100",
-      "cves_fixed": [],
+      "version": "26.4.2",
+      "build": "23E6261",
+      "release_date": "2026-04-22T00:00:00Z",
+      "url": "https://support.apple.com/en-us/127002",
+      "cves_fixed": [
+        "CVE-2026-28950"
+      ],
       "actively_exploited_count": 0,
-      "total_cve_count": 0,
+      "total_cve_count": 1,
       "enterprise_link": null,
       "updates_link": null
     },
     "ipados": {
-      "version": "26.4.1",
-      "build": "23E6254",
-      "release_date": "2026-04-08T00:00:00Z",
-      "url": "https://support.apple.com/en-us/100100",
-      "cves_fixed": [],
+      "version": "26.4.2",
+      "build": "23E6261",
+      "release_date": "2026-04-22T00:00:00Z",
+      "url": "https://support.apple.com/en-us/127002",
+      "cves_fixed": [
+        "CVE-2026-28950"
+      ],
       "actively_exploited_count": 0,
-      "total_cve_count": 0,
+      "total_cve_count": 1,
       "enterprise_link": null,
       "updates_link": null
     },
@@ -162,45 +166,61 @@
     }
   },
   "security_summary": {
-    "unique_cves_fixed": 31,
+    "unique_cves_fixed": 32,
     "kev_matches": 0,
-    "latest_wave_date": "2026-04-09T00:00:00Z",
+    "latest_wave_date": "2026-04-22T00:00:00Z",
     "kev_cve_list": []
   },
   "beta_releases": {
-    "latest_wave": "2026-04-20",
+    "latest_wave": "2026-04-27",
     "macos": {
-      "version": "26.5 beta 3",
-      "build": "25F5058e",
-      "released": "2026-04-20"
+      "version": "26.5 beta 4",
+      "build": "25F5068a",
+      "released": "2026-04-27"
     },
     "ios": {
-      "version": "26.5 beta 3",
-      "build": "23F5059e",
-      "released": "2026-04-20"
+      "version": "26.5 beta 4",
+      "build": "23F5069b",
+      "released": "2026-04-27"
     },
     "ipados": {
-      "version": "26.5 beta 3",
-      "build": "23F5059e",
-      "released": "2026-04-20"
+      "version": "26.5 beta 4",
+      "build": "23F5069b",
+      "released": "2026-04-27"
     },
     "tvos": {
-      "version": "26.5 beta 3",
-      "build": "23L5460d",
-      "released": "2026-04-20"
+      "version": "26.5 beta 4",
+      "build": "23L5469a",
+      "released": "2026-04-27"
     },
     "watchos": {
-      "version": "26.5 beta 3",
-      "build": "23T5558e",
-      "released": "2026-04-20"
+      "version": "26.5 beta 4",
+      "build": "23T5568a",
+      "released": "2026-04-27"
     },
     "visionos": {
-      "version": "26.5 beta 3",
-      "build": "23O5458e",
-      "released": "2026-04-20"
+      "version": "26.5 beta 4",
+      "build": "23O5468a",
+      "released": "2026-04-27"
     }
   },
   "recent_releases": [
+    {
+      "release_date": "2026-04-22",
+      "name": "iOS 18.7.8 and iPadOS 18.7.8",
+      "platform": "ios",
+      "version": "18.7.8",
+      "url": "https://support.apple.com/en-us/127003",
+      "enterprise_link": "https://support.apple.com/en-ca/121158",
+      "updates_link": "https://support.apple.com/en-ca/121161"
+    },
+    {
+      "release_date": "2026-04-22",
+      "name": "iOS 26.4.2 and iPadOS 26.4.2",
+      "platform": "ios",
+      "version": "26.4.2",
+      "url": "https://support.apple.com/en-us/127002"
+    },
     {
       "release_date": "2026-04-09",
       "name": "macOS Tahoe 26.4.1",
@@ -262,20 +282,6 @@
       "url": "https://support.apple.com/en-us/126796",
       "enterprise_link": "https://support.apple.com/en-ca/109030",
       "updates_link": "https://support.apple.com/en-ca/109035"
-    },
-    {
-      "release_date": "2026-03-24",
-      "name": "macOS Tahoe 26.4",
-      "platform": "macos",
-      "version": "26.4",
-      "url": "https://support.apple.com/en-us/126794"
-    },
-    {
-      "release_date": "2026-03-24",
-      "name": "tvOS 26.4",
-      "platform": "tvos",
-      "version": "26.4",
-      "url": "https://support.apple.com/en-us/126797"
     }
   ]
 }
