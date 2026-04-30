@@ -1,7 +1,7 @@
 {
   "Version": "2.0",
-  "UpdateHash": "8eb47733dc99b71ea0fbd62b2a8a87a841e64a48e0f1896346ed84df3e192e2e",
-  "LastCheck": "2026-04-29T20:07:42.905574772+00:00",
+  "UpdateHash": "d9cdf1c3b4a7ac7eb4a24302083ff4cd40e3a7df41e41db5c07b7a7f46fd18a4",
+  "LastCheck": "2026-04-30T04:09:38.449152799+00:00",
   "OSVersions": [
     {
       "OSVersion": "Tahoe 26",
@@ -14,7 +14,7 @@
           "25E253"
         ],
         "ReleaseDate": "2026-04-09T00:00:00Z",
-        "ExpirationDate": "2026-07-28",
+        "ExpirationDate": "2026-07-29",
         "ReleaseType": "OS",
         "SecurityInfo": "https://support.apple.com/en-us/100100",
         "SecurityInfoContext": "macOS has been updated to version 26.4.1, which was released on April 09, 2026. This update has no published CVE entries and is the most recent approved version.",
@@ -112,7 +112,7 @@
             "25E253"
           ],
           "ReleaseDate": "2026-04-09T00:00:00Z",
-          "ExpirationDate": "2026-07-28",
+          "ExpirationDate": "2026-07-29",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/100100",
           "SecurityInfoContext": "macOS has been updated to version 26.4.1, which was released on April 09, 2026. This update has no published CVE entries and is the most recent approved version.",
@@ -1478,7 +1478,7 @@
           "24G624"
         ],
         "ReleaseDate": "2026-03-24T00:00:00Z",
-        "ExpirationDate": "2026-07-28",
+        "ExpirationDate": "2026-07-29",
         "ReleaseType": "OS",
         "SecurityInfo": "https://support.apple.com/en-us/126795",
         "SecurityInfoContext": "macOS has been updated to version 15.7.5, which was released on March 24, 2026. This update addresses 57 security issues and is the most recent approved version.",
@@ -1638,7 +1638,7 @@
             "24G624"
           ],
           "ReleaseDate": "2026-03-24T00:00:00Z",
-          "ExpirationDate": "2026-07-28",
+          "ExpirationDate": "2026-07-29",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/126795",
           "SecurityInfoContext": "macOS has been updated to version 15.7.5, which was released on March 24, 2026. This update addresses 57 security issues and is the most recent approved version.",
@@ -4340,7 +4340,7 @@
           "23J423"
         ],
         "ReleaseDate": "2026-03-24T00:00:00Z",
-        "ExpirationDate": "2026-07-28",
+        "ExpirationDate": "2026-07-29",
         "ReleaseType": "OS",
         "SecurityInfo": "https://support.apple.com/en-us/126796",
         "SecurityInfoContext": "macOS has been updated to version 14.8.5, which was released on March 24, 2026. This update addresses 52 security issues and is the most recent approved version.",
@@ -4484,7 +4484,7 @@
             "23J423"
           ],
           "ReleaseDate": "2026-03-24T00:00:00Z",
-          "ExpirationDate": "2026-07-28",
+          "ExpirationDate": "2026-07-29",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/126796",
           "SecurityInfoContext": "macOS has been updated to version 14.8.5, which was released on March 24, 2026. This update addresses 52 security issues and is the most recent approved version.",
@@ -8179,7 +8179,7 @@
           "22H730"
         ],
         "ReleaseDate": "2025-08-20T00:00:00Z",
-        "ExpirationDate": "2026-07-28",
+        "ExpirationDate": "2026-07-29",
         "ReleaseType": "OS",
         "SecurityInfo": "https://support.apple.com/en-us/124929",
         "SecurityInfoContext": "macOS has been updated to version 13.7.8, which was released on August 20, 2025. This update addresses one security issue and is the most recent approved version.",
@@ -8278,7 +8278,7 @@
             "22H730"
           ],
           "ReleaseDate": "2025-08-20T00:00:00Z",
-          "ExpirationDate": "2026-07-28",
+          "ExpirationDate": "2026-07-29",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/124929",
           "SecurityInfoContext": "macOS has been updated to version 13.7.8, which was released on August 20, 2025. This update addresses one security issue and is the most recent approved version.",
@@ -12257,7 +12257,7 @@
           "21H1320"
         ],
         "ReleaseDate": "2024-07-29T00:00:00Z",
-        "ExpirationDate": "2026-07-28",
+        "ExpirationDate": "2026-07-29",
         "ReleaseType": "OS",
         "SecurityInfo": "https://support.apple.com/en-us/120910",
         "SecurityInfoContext": "macOS has been updated to version 12.7.6, which was released on July 29, 2024. This update addresses 42 security issues and is the most recent approved version.",
@@ -12400,7 +12400,7 @@
             "21H1320"
           ],
           "ReleaseDate": "2024-07-29T00:00:00Z",
-          "ExpirationDate": "2026-07-28",
+          "ExpirationDate": "2026-07-29",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/120910",
           "SecurityInfoContext": "macOS has been updated to version 12.7.6, which was released on July 29, 2024. This update addresses 42 security issues and is the most recent approved version.",
@@ -16980,13 +16980,13 @@
     }
   },
   "XProtectPlistConfigData": {
-    "com.apple.XProtect": "5341",
-    "ReleaseDate": "2026-04-28T17:40:39Z"
+    "ReleaseDate": "2026-04-28T17:40:39Z",
+    "com.apple.XProtect": "5341"
   },
   "XProtectPayloads": {
-    "ReleaseDate": "2026-04-28T17:40:39Z",
     "com.apple.XprotectFramework.PluginService": "74",
-    "com.apple.XProtectFramework.XProtect": "157"
+    "com.apple.XProtectFramework.XProtect": "157",
+    "ReleaseDate": "2026-04-28T17:40:39Z"
   },
   "BackgroundSecurityImprovements": {
     "26": [
