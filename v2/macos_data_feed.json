@@ -1,7 +1,7 @@
 {
   "Version": "2.0",
   "UpdateHash": "4c6db2d90ae03e9db12ca64fb713b500c156edaadaf4731ca022cbfbe6278e82",
-  "LastCheck": "2026-05-07T04:10:38.405934053+00:00",
+  "LastCheck": "2026-05-07T09:09:12.587669322+00:00",
   "OSVersions": [
     {
       "OSVersion": "Tahoe 26",
@@ -16980,12 +16980,12 @@
     }
   },
   "XProtectPlistConfigData": {
-    "com.apple.XProtect": "5342",
-    "ReleaseDate": "2026-05-05T17:30:31Z"
+    "ReleaseDate": "2026-05-05T17:30:31Z",
+    "com.apple.XProtect": "5342"
   },
   "XProtectPayloads": {
-    "com.apple.XProtectFramework.XProtect": "157",
     "ReleaseDate": "2026-05-05T17:30:31Z",
+    "com.apple.XProtectFramework.XProtect": "157",
     "com.apple.XprotectFramework.PluginService": "74"
   },
   "BackgroundSecurityImprovements": {
