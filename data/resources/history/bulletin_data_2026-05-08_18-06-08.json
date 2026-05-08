@@ -1,7 +1,7 @@
 {
-  "content_hash": "41453753406129e5a84ade335270472d87aeb32fd102b99f60fff475efca350d",
+  "content_hash": "dcd28202a9d447a0e1f9fcdd95bf0a84a796b7b4d6eb88f1a736b0a4ef315938",
   "content_changed": true,
-  "generated_at": "2026-05-05T08:31:27.766134034Z",
+  "generated_at": "2026-05-08T18:06:08.548353028Z",
   "latest_releases": {
     "macos": {
       "version": "26.4.1",
@@ -172,21 +172,21 @@
     "kev_cve_list": []
   },
   "beta_releases": {
-    "latest_wave": "2026-05-04",
+    "latest_wave": "2026-05-08",
     "macos": {
       "version": "26.5 RC",
       "build": "25F71",
       "released": "2026-05-04"
     },
     "ios": {
-      "version": "26.5 RC",
-      "build": "23F75",
-      "released": "2026-05-04"
+      "version": "26.5 RC 2",
+      "build": "23F77",
+      "released": "2026-05-08"
     },
     "ipados": {
-      "version": "26.5 RC",
-      "build": "23F75",
-      "released": "2026-05-04"
+      "version": "26.5 RC 2",
+      "build": "23F77",
+      "released": "2026-05-08"
     },
     "tvos": {
       "version": "26.5 RC",
