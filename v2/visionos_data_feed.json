@@ -1,8 +1,8 @@
 {
   "OSName": "visionOS",
   "Version": "2.0",
-  "UpdateHash": "a6cc9489241bf7539560dcf25769d2f0f4ecd24dd6d0af7304f3bf150a14b206",
-  "LastCheck": "2026-05-08T20:04:52.019154738+00:00",
+  "UpdateHash": "cc5b26d7c2365c07b5d6f62fc4e32c5e6a95fce75e093eb55e75282ab68a7ef6",
+  "LastCheck": "2026-05-09T04:02:15.026010540+00:00",
   "OSVersions": [
     {
       "OSVersion": "visionOS 26",
@@ -16,7 +16,7 @@
           "23O247"
         ],
         "ReleaseDate": "2026-03-24",
-        "ExpirationDate": "2026-08-06",
+        "ExpirationDate": "2026-08-07",
         "ReleaseType": "OS",
         "SecurityInfo": "https://support.apple.com/en-us/126799",
         "SecurityInfoContext": "visionOS has been updated to version 26.4, which was released on March 24, 2026. This update addresses 29 security issues and is the most recent approved version.",
@@ -84,7 +84,7 @@
             "23O247"
           ],
           "ReleaseDate": "2026-03-24",
-          "ExpirationDate": "2026-08-06",
+          "ExpirationDate": "2026-08-07",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/126799",
           "SecurityInfoContext": "visionOS has been updated to version 26.4, which was released on March 24, 2026. This update addresses 29 security issues and is the most recent approved version.",
