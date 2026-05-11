@@ -1,7 +1,7 @@
 {
   "Version": "2.0",
-  "UpdateHash": "98554a8f479679274846320c8d9f4526a8647400968da1e5e522a12382af6d9a",
-  "LastCheck": "2026-05-11T19:32:58.198213860+00:00",
+  "UpdateHash": "f2daaa3a6826e975e8766ac2bd5b11960810189e682b3b1997cc7520e869ee2f",
+  "LastCheck": "2026-05-11T20:33:58.972669778+00:00",
   "OSVersions": [
     {
       "OSVersion": "26",
@@ -677,7 +677,7 @@
           "ExpirationDate": "2026-08-09",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/126792",
-          "SecurityInfoContext": "iOS 26.4 was released on March 24, 2026. This release addressed 38 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
+          "SecurityInfoContext": "iOS 26.4 was released on March 24, 2026. This release addressed 43 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
           "SupportedDevices": [
             "iPad11,1",
             "iPad11,2",
@@ -779,6 +779,7 @@
             "CVE-2025-14524": {},
             "CVE-2025-64505": {},
             "CVE-2026-20643": {},
+            "CVE-2026-20657": {},
             "CVE-2026-20664": {},
             "CVE-2026-20665": {},
             "CVE-2026-20687": {},
@@ -794,6 +795,7 @@
             "CVE-2026-28857": {},
             "CVE-2026-28858": {},
             "CVE-2026-28859": {},
+            "CVE-2026-28860": {},
             "CVE-2026-28861": {},
             "CVE-2026-28863": {},
             "CVE-2026-28864": {},
@@ -803,6 +805,8 @@
             "CVE-2026-28868": {},
             "CVE-2026-28870": {},
             "CVE-2026-28871": {},
+            "CVE-2026-28872": {},
+            "CVE-2026-28873": {},
             "CVE-2026-28874": {},
             "CVE-2026-28875": {},
             "CVE-2026-28876": {},
@@ -813,14 +817,15 @@
             "CVE-2026-28882": {},
             "CVE-2026-28886": {},
             "CVE-2026-28894": {},
-            "CVE-2026-28895": {}
+            "CVE-2026-28895": {},
+            "CVE-2026-28967": {}
           },
           "ActivelyExploitedCVEs": [],
-          "UniqueCVEsCount": 38,
+          "UniqueCVEsCount": 43,
           "DaysSincePreviousRelease": 20,
           "update_summary": {
             "priority": "high",
-            "summary": "Addresses 38 security issues",
+            "summary": "Addresses 43 security issues",
             "recommendation": "Update to stay secure - security fixes available",
             "stats": {
               "exploited": 0,
@@ -829,7 +834,7 @@
               "medium": 0,
               "low": 0,
               "remote": 0,
-              "total": 38
+              "total": 43
             }
           }
         },
