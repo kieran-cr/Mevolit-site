@@ -1,5 +1,5 @@
 {
-  "UpdateHash": "918c32798d3c8b33088c9e983b642bc43c0f22cd120eb725b39443619eee61a1",
+  "UpdateHash": "ff9aa92e1188a97a3c6061a0f4dee6397e78518e804dc97c48b9b167b773a51c",
   "OSVersions": [
     {
       "OSVersion": "Tahoe 26",
@@ -478,7 +478,6 @@
             "CVE-2026-20632": false,
             "CVE-2026-20633": false,
             "CVE-2026-20643": false,
-            "CVE-2026-20657": false,
             "CVE-2026-20664": false,
             "CVE-2026-20665": false,
             "CVE-2026-20684": false,
@@ -490,7 +489,6 @@
             "CVE-2026-20693": false,
             "CVE-2026-20694": false,
             "CVE-2026-20695": false,
-            "CVE-2026-20696": false,
             "CVE-2026-20697": false,
             "CVE-2026-20698": false,
             "CVE-2026-20699": false,
@@ -508,7 +506,6 @@
             "CVE-2026-28827": false,
             "CVE-2026-28828": false,
             "CVE-2026-28829": false,
-            "CVE-2026-28830": false,
             "CVE-2026-28831": false,
             "CVE-2026-28832": false,
             "CVE-2026-28833": false,
@@ -517,7 +514,6 @@
             "CVE-2026-28837": false,
             "CVE-2026-28838": false,
             "CVE-2026-28839": false,
-            "CVE-2026-28840": false,
             "CVE-2026-28841": false,
             "CVE-2026-28842": false,
             "CVE-2026-28844": false,
@@ -525,7 +521,6 @@
             "CVE-2026-28852": false,
             "CVE-2026-28857": false,
             "CVE-2026-28859": false,
-            "CVE-2026-28860": false,
             "CVE-2026-28861": false,
             "CVE-2026-28862": false,
             "CVE-2026-28864": false,
@@ -547,11 +542,10 @@
             "CVE-2026-28891": false,
             "CVE-2026-28892": false,
             "CVE-2026-28893": false,
-            "CVE-2026-28894": false,
-            "CVE-2026-28910": false
+            "CVE-2026-28894": false
           },
           "ActivelyExploitedCVEs": [],
-          "UniqueCVEsCount": 83,
+          "UniqueCVEsCount": 77,
           "DaysSincePreviousRelease": 14
         },
         {
@@ -950,7 +944,6 @@
             "CVE-2025-43521": false,
             "CVE-2025-43522": false,
             "CVE-2025-43523": false,
-            "CVE-2025-43524": false,
             "CVE-2025-43526": false,
             "CVE-2025-43527": false,
             "CVE-2025-43529": true,
@@ -993,7 +986,7 @@
             "CVE-2025-43529",
             "CVE-2025-14174"
           ],
-          "UniqueCVEsCount": 59,
+          "UniqueCVEsCount": 58,
           "DaysSincePreviousRelease": 39
         },
         {
@@ -1890,7 +1883,6 @@
             "CVE-2026-28822": false,
             "CVE-2026-28824": false,
             "CVE-2026-28825": false,
-            "CVE-2026-28826": false,
             "CVE-2026-28827": false,
             "CVE-2026-28828": false,
             "CVE-2026-28829": false,
@@ -1901,7 +1893,6 @@
             "CVE-2026-28838": false,
             "CVE-2026-28839": false,
             "CVE-2026-28852": false,
-            "CVE-2026-28860": false,
             "CVE-2026-28862": false,
             "CVE-2026-28864": false,
             "CVE-2026-28865": false,
@@ -1919,7 +1910,7 @@
             "CVE-2026-28894": false
           },
           "ActivelyExploitedCVEs": [],
-          "UniqueCVEsCount": 59,
+          "UniqueCVEsCount": 57,
           "DaysSincePreviousRelease": 41
         },
         {
@@ -4653,7 +4644,6 @@
             "CVE-2026-28822": false,
             "CVE-2026-28824": false,
             "CVE-2026-28825": false,
-            "CVE-2026-28826": false,
             "CVE-2026-28827": false,
             "CVE-2026-28828": false,
             "CVE-2026-28829": false,
@@ -4663,14 +4653,12 @@
             "CVE-2026-28835": false,
             "CVE-2026-28838": false,
             "CVE-2026-28839": false,
-            "CVE-2026-28860": false,
             "CVE-2026-28862": false,
             "CVE-2026-28864": false,
             "CVE-2026-28865": false,
             "CVE-2026-28866": false,
             "CVE-2026-28868": false,
             "CVE-2026-28876": false,
-            "CVE-2026-28877": false,
             "CVE-2026-28878": false,
             "CVE-2026-28879": false,
             "CVE-2026-28880": false,
@@ -4681,7 +4669,7 @@
             "CVE-2026-28894": false
           },
           "ActivelyExploitedCVEs": [],
-          "UniqueCVEsCount": 55,
+          "UniqueCVEsCount": 52,
           "DaysSincePreviousRelease": 41
         },
         {
