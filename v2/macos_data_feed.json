@@ -1,7 +1,7 @@
 {
   "Version": "2.0",
-  "UpdateHash": "936b80f65580cc7185df1f29a4954f8826438e174fae30f4654d1a6bbc198ce0",
-  "LastCheck": "2026-05-13T17:42:00.870408607+00:00",
+  "UpdateHash": "bfe28d7ad44c96cdb671f350f3db00a8de4793f76f3daf71d47aea404fd12a49",
+  "LastCheck": "2026-05-13T18:37:41.854638480+00:00",
   "OSVersions": [
     {
       "OSVersion": "Tahoe 26",
@@ -469,7 +469,7 @@
           "ExpirationDate": "2026-07-08",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/126794",
-          "SecurityInfoContext": "macOS 26.4 was released on March 24, 2026. This release addressed 83 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
+          "SecurityInfoContext": "macOS 26.4 was released on March 24, 2026. This release addressed 77 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
           "SupportedDevices": [
             "J152FAP",
             "J160AP",
@@ -548,7 +548,6 @@
             "CVE-2026-20632": {},
             "CVE-2026-20633": {},
             "CVE-2026-20643": {},
-            "CVE-2026-20657": {},
             "CVE-2026-20664": {},
             "CVE-2026-20665": {},
             "CVE-2026-20684": {},
@@ -560,7 +559,6 @@
             "CVE-2026-20693": {},
             "CVE-2026-20694": {},
             "CVE-2026-20695": {},
-            "CVE-2026-20696": {},
             "CVE-2026-20697": {},
             "CVE-2026-20698": {},
             "CVE-2026-20699": {},
@@ -578,7 +576,6 @@
             "CVE-2026-28827": {},
             "CVE-2026-28828": {},
             "CVE-2026-28829": {},
-            "CVE-2026-28830": {},
             "CVE-2026-28831": {},
             "CVE-2026-28832": {},
             "CVE-2026-28833": {},
@@ -587,7 +584,6 @@
             "CVE-2026-28837": {},
             "CVE-2026-28838": {},
             "CVE-2026-28839": {},
-            "CVE-2026-28840": {},
             "CVE-2026-28841": {},
             "CVE-2026-28842": {},
             "CVE-2026-28844": {},
@@ -595,7 +591,6 @@
             "CVE-2026-28852": {},
             "CVE-2026-28857": {},
             "CVE-2026-28859": {},
-            "CVE-2026-28860": {},
             "CVE-2026-28861": {},
             "CVE-2026-28862": {},
             "CVE-2026-28864": {},
@@ -617,15 +612,14 @@
             "CVE-2026-28891": {},
             "CVE-2026-28892": {},
             "CVE-2026-28893": {},
-            "CVE-2026-28894": {},
-            "CVE-2026-28910": {}
+            "CVE-2026-28894": {}
           },
           "ActivelyExploitedCVEs": [],
-          "UniqueCVEsCount": 83,
+          "UniqueCVEsCount": 77,
           "DaysSincePreviousRelease": 14,
           "update_summary": {
             "priority": "high",
-            "summary": "Addresses 83 security issues",
+            "summary": "Addresses 77 security issues",
             "recommendation": "Update to stay secure - security fixes available",
             "stats": {
               "exploited": 0,
@@ -634,7 +628,7 @@
               "medium": 0,
               "low": 0,
               "remote": 0,
-              "total": 83
+              "total": 77
             }
           }
         },
@@ -2036,7 +2030,7 @@
           "ExpirationDate": "2026-08-11",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/126795",
-          "SecurityInfoContext": "macOS 15.7.5 was released on March 24, 2026. This release addressed 59 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
+          "SecurityInfoContext": "macOS 15.7.5 was released on March 24, 2026. This release addressed 57 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
           "SupportedDevices": [
             "J132AP",
             "J137AP",
@@ -2139,7 +2133,6 @@
             "CVE-2026-28822": {},
             "CVE-2026-28824": {},
             "CVE-2026-28825": {},
-            "CVE-2026-28826": {},
             "CVE-2026-28827": {},
             "CVE-2026-28828": {},
             "CVE-2026-28829": {},
@@ -2150,7 +2143,6 @@
             "CVE-2026-28838": {},
             "CVE-2026-28839": {},
             "CVE-2026-28852": {},
-            "CVE-2026-28860": {},
             "CVE-2026-28862": {},
             "CVE-2026-28864": {},
             "CVE-2026-28865": {},
@@ -2168,11 +2160,11 @@
             "CVE-2026-28894": {}
           },
           "ActivelyExploitedCVEs": [],
-          "UniqueCVEsCount": 59,
+          "UniqueCVEsCount": 57,
           "DaysSincePreviousRelease": 41,
           "update_summary": {
             "priority": "high",
-            "summary": "Addresses 59 security issues",
+            "summary": "Addresses 57 security issues",
             "recommendation": "Update to stay secure - security fixes available",
             "stats": {
               "exploited": 0,
@@ -2181,7 +2173,7 @@
               "medium": 0,
               "low": 0,
               "remote": 0,
-              "total": 59
+              "total": 57
             }
           }
         },
@@ -4989,7 +4981,7 @@
           "ExpirationDate": "2026-08-11",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/126796",
-          "SecurityInfoContext": "macOS 14.8.5 was released on March 24, 2026. This release addressed 55 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
+          "SecurityInfoContext": "macOS 14.8.5 was released on March 24, 2026. This release addressed 52 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
           "SupportedDevices": [
             "J132AP",
             "J137AP",
@@ -5078,7 +5070,6 @@
             "CVE-2026-28822": {},
             "CVE-2026-28824": {},
             "CVE-2026-28825": {},
-            "CVE-2026-28826": {},
             "CVE-2026-28827": {},
             "CVE-2026-28828": {},
             "CVE-2026-28829": {},
@@ -5088,14 +5079,12 @@
             "CVE-2026-28835": {},
             "CVE-2026-28838": {},
             "CVE-2026-28839": {},
-            "CVE-2026-28860": {},
             "CVE-2026-28862": {},
             "CVE-2026-28864": {},
             "CVE-2026-28865": {},
             "CVE-2026-28866": {},
             "CVE-2026-28868": {},
             "CVE-2026-28876": {},
-            "CVE-2026-28877": {},
             "CVE-2026-28878": {},
             "CVE-2026-28879": {},
             "CVE-2026-28880": {},
@@ -5106,11 +5095,11 @@
             "CVE-2026-28894": {}
           },
           "ActivelyExploitedCVEs": [],
-          "UniqueCVEsCount": 55,
+          "UniqueCVEsCount": 52,
           "DaysSincePreviousRelease": 41,
           "update_summary": {
             "priority": "high",
-            "summary": "Addresses 55 security issues",
+            "summary": "Addresses 52 security issues",
             "recommendation": "Update to stay secure - security fixes available",
             "stats": {
               "exploited": 0,
@@ -5119,7 +5108,7 @@
               "medium": 0,
               "low": 0,
               "remote": 0,
-              "total": 55
+              "total": 52
             }
           }
         },
@@ -16134,7 +16123,7 @@
           "AllBuilds": [],
           "ReleaseDate": "2021-09-20T00:00:00Z",
           "ReleaseType": "OS",
-          "SecurityInfo": "https://support.apple.com/kb/HT213493",
+          "SecurityInfo": "https://support.apple.com/en-us/120903",
           "SecurityInfoContext": "macOS 12.0 was released on . This update has no published CVE entries. Newer updates are now available, so please check to see if they apply to your devices.",
           "SupportedDevices": [
             "J132AP",
@@ -17482,8 +17471,8 @@
     }
   },
   "XProtectPlistConfigData": {
-    "com.apple.XProtect": "5344",
-    "ReleaseDate": "2026-05-12T17:16:29Z"
+    "ReleaseDate": "2026-05-12T17:16:29Z",
+    "com.apple.XProtect": "5344"
   },
   "XProtectPayloads": {
     "com.apple.XprotectFramework.PluginService": "74",
