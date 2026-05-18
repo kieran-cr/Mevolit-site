@@ -1,7 +1,7 @@
 {
   "Version": "2.0",
-  "UpdateHash": "4d33af16ef12f9612a4f0c41c2506f04c8d513c520bede4c57a0df1e5f7d6995",
-  "LastCheck": "2026-05-18T13:45:16.503569184+00:00",
+  "UpdateHash": "b147d73981892c371f31a3571046205be4fd4f9236b0dcc52bdfc597bc5c11b9",
+  "LastCheck": "2026-05-18T17:42:44.134302503+00:00",
   "OSVersions": [
     {
       "OSVersion": "Tahoe 26",
@@ -16134,7 +16134,7 @@
           "AllBuilds": [],
           "ReleaseDate": "2021-09-20T00:00:00Z",
           "ReleaseType": "OS",
-          "SecurityInfo": "https://support.apple.com/kb/HT213183",
+          "SecurityInfo": "https://support.apple.com/en-us/121238",
           "SecurityInfoContext": "macOS 12.0 was released on . This update has no published CVE entries. Newer updates are now available, so please check to see if they apply to your devices.",
           "SupportedDevices": [
             "J132AP",
@@ -17482,13 +17482,13 @@
     }
   },
   "XProtectPlistConfigData": {
-    "ReleaseDate": "2026-05-12T17:16:29Z",
-    "com.apple.XProtect": "5344"
+    "com.apple.XProtect": "5344",
+    "ReleaseDate": "2026-05-12T17:16:29Z"
   },
   "XProtectPayloads": {
-    "ReleaseDate": "2026-05-12T17:16:29Z",
+    "com.apple.XProtectFramework.XProtect": "157",
     "com.apple.XprotectFramework.PluginService": "74",
-    "com.apple.XProtectFramework.XProtect": "157"
+    "ReleaseDate": "2026-05-12T17:16:29Z"
   },
   "BackgroundSecurityImprovements": {
     "26": [
@@ -17584,7 +17584,7 @@
       "build": "25F71",
       "apple_slug": "122-77688",
       "url": "https://swcdn.apple.com/content/downloads/51/26/122-77688-A_F01L27Y7Q6/7e8t8w89evbl6sgkoy9jhrmw2tqfkhjsd9/InstallAssistant.pkg",
-      "posting_date": "2026-05-11T17:19:39Z",
+      "posting_date": "2026-05-18T17:09:45Z",
       "size": 18308485578
     },
     "AllPreviousUMA": [
@@ -17657,7 +17657,7 @@
         "build": "24G720",
         "apple_slug": "122-77920",
         "url": "https://swcdn.apple.com/content/downloads/08/08/122-77920-A_24DGKW16ZQ/p2g06dyhtgf9mgf2yt1p4ihzvkkk91qvlf/InstallAssistant.pkg",
-        "posting_date": "2026-05-11T17:29:07Z",
+        "posting_date": "2026-05-18T17:11:00Z",
         "size": 15662335308
       },
       {
@@ -17702,7 +17702,7 @@
         "build": "23J520",
         "apple_slug": "122-77891",
         "url": "https://swcdn.apple.com/content/downloads/61/03/122-77891-A_GYK4YJ2CRM/8xrsgsownndvprmza1q0cvbsppw3ohtk85/InstallAssistant.pkg",
-        "posting_date": "2026-05-11T17:30:42Z",
+        "posting_date": "2026-05-18T17:12:04Z",
         "size": 13671523298
       },
       {
