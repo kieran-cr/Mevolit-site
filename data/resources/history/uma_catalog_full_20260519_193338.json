@@ -1,5 +1,5 @@
 {
-  "update_hash": "sha256:b4c6dd01ce25b47bed8cb657f19d69938592f5ec8e4a811eb676194c7a4ddd0d",
+  "update_hash": "sha256:5372528890dc424038d19a85f2c5f3c562cfef69c05771d5f913cdcbea48dc7b",
   "products": [
     {
       "product_key": "061-26578",
@@ -3881,13 +3881,19 @@
       "title": "macOS Tahoe",
       "version": "26.5",
       "build": "25F71",
-      "posting_date": "2026-05-11T17:19:39Z",
+      "posting_date": "2026-05-18T17:09:45Z",
       "size": 18308485578,
       "packages": [
         {
-          "url": "https://swcdn.apple.com/content/downloads/51/26/122-77688-A_F01L27Y7Q6/7e8t8w89evbl6sgkoy9jhrmw2tqfkhjsd9/InstallInfo.plist",
-          "size": 181,
-          "integrity_data_url": "https://swcdn.apple.com/content/downloads/51/26/122-77688-A_F01L27Y7Q6/7e8t8w89evbl6sgkoy9jhrmw2tqfkhjsd9/InstallInfo.plist.integrityDataV1",
+          "url": "https://swcdn.apple.com/content/downloads/51/26/122-77688-A_F01L27Y7Q6/7e8t8w89evbl6sgkoy9jhrmw2tqfkhjsd9/InstallAssistant.pkg",
+          "size": 18301186017,
+          "integrity_data_url": "https://swcdn.apple.com/content/downloads/51/26/122-77688-A_F01L27Y7Q6/7e8t8w89evbl6sgkoy9jhrmw2tqfkhjsd9/InstallAssistant.pkg.integrityDataV1",
+          "metadata_url": "https://swdist.apple.com/content/downloads/51/26/122-77688-A_F01L27Y7Q6/7e8t8w89evbl6sgkoy9jhrmw2tqfkhjsd9/InstallAssistant.pkm"
+        },
+        {
+          "url": "https://swcdn.apple.com/content/downloads/51/26/122-77688-A_F01L27Y7Q6/7e8t8w89evbl6sgkoy9jhrmw2tqfkhjsd9/UpdateBrain.zip",
+          "size": 4414825,
+          "integrity_data_url": "https://swcdn.apple.com/content/downloads/51/26/122-77688-A_F01L27Y7Q6/7e8t8w89evbl6sgkoy9jhrmw2tqfkhjsd9/UpdateBrain.zip.integrityDataV1",
           "metadata_url": null
         },
         {
@@ -3897,16 +3903,10 @@
           "metadata_url": null
         },
         {
-          "url": "https://swcdn.apple.com/content/downloads/51/26/122-77688-A_F01L27Y7Q6/7e8t8w89evbl6sgkoy9jhrmw2tqfkhjsd9/UpdateBrain.zip",
-          "size": 4414825,
-          "integrity_data_url": "https://swcdn.apple.com/content/downloads/51/26/122-77688-A_F01L27Y7Q6/7e8t8w89evbl6sgkoy9jhrmw2tqfkhjsd9/UpdateBrain.zip.integrityDataV1",
+          "url": "https://swcdn.apple.com/content/downloads/51/26/122-77688-A_F01L27Y7Q6/7e8t8w89evbl6sgkoy9jhrmw2tqfkhjsd9/InstallInfo.plist",
+          "size": 181,
+          "integrity_data_url": "https://swcdn.apple.com/content/downloads/51/26/122-77688-A_F01L27Y7Q6/7e8t8w89evbl6sgkoy9jhrmw2tqfkhjsd9/InstallInfo.plist.integrityDataV1",
           "metadata_url": null
-        },
-        {
-          "url": "https://swcdn.apple.com/content/downloads/51/26/122-77688-A_F01L27Y7Q6/7e8t8w89evbl6sgkoy9jhrmw2tqfkhjsd9/InstallAssistant.pkg",
-          "size": 18301186017,
-          "integrity_data_url": "https://swcdn.apple.com/content/downloads/51/26/122-77688-A_F01L27Y7Q6/7e8t8w89evbl6sgkoy9jhrmw2tqfkhjsd9/InstallAssistant.pkg.integrityDataV1",
-          "metadata_url": "https://swdist.apple.com/content/downloads/51/26/122-77688-A_F01L27Y7Q6/7e8t8w89evbl6sgkoy9jhrmw2tqfkhjsd9/InstallAssistant.pkm"
         },
         {
           "url": "https://swcdn.apple.com/content/downloads/51/26/122-77688-A_F01L27Y7Q6/7e8t8w89evbl6sgkoy9jhrmw2tqfkhjsd9/MajorOSInfo.pkg",
@@ -3928,7 +3928,7 @@
       "title": "macOS Sequoia",
       "version": "15.7.7",
       "build": "24G720",
-      "posting_date": "2026-05-11T17:29:07Z",
+      "posting_date": "2026-05-18T17:11:00Z",
       "size": 15662335308,
       "packages": [
         {
@@ -3944,10 +3944,10 @@
           "metadata_url": null
         },
         {
-          "url": "https://swcdn.apple.com/content/downloads/08/08/122-77920-A_24DGKW16ZQ/p2g06dyhtgf9mgf2yt1p4ihzvkkk91qvlf/MajorOSInfo.pkg",
-          "size": 1255122,
-          "integrity_data_url": "https://swcdn.apple.com/content/downloads/08/08/122-77920-A_24DGKW16ZQ/p2g06dyhtgf9mgf2yt1p4ihzvkkk91qvlf/MajorOSInfo.pkg.integrityDataV1",
-          "metadata_url": "https://swdist.apple.com/content/downloads/08/08/122-77920-A_24DGKW16ZQ/p2g06dyhtgf9mgf2yt1p4ihzvkkk91qvlf/MajorOSInfo.pkm"
+          "url": "https://swcdn.apple.com/content/downloads/08/08/122-77920-A_24DGKW16ZQ/p2g06dyhtgf9mgf2yt1p4ihzvkkk91qvlf/InstallInfo.plist",
+          "size": 181,
+          "integrity_data_url": "https://swcdn.apple.com/content/downloads/08/08/122-77920-A_24DGKW16ZQ/p2g06dyhtgf9mgf2yt1p4ihzvkkk91qvlf/InstallInfo.plist.integrityDataV1",
+          "metadata_url": null
         },
         {
           "url": "https://swcdn.apple.com/content/downloads/08/08/122-77920-A_24DGKW16ZQ/p2g06dyhtgf9mgf2yt1p4ihzvkkk91qvlf/InstallAssistant.pkg",
@@ -3956,10 +3956,10 @@
           "metadata_url": "https://swdist.apple.com/content/downloads/08/08/122-77920-A_24DGKW16ZQ/p2g06dyhtgf9mgf2yt1p4ihzvkkk91qvlf/InstallAssistant.pkm"
         },
         {
-          "url": "https://swcdn.apple.com/content/downloads/08/08/122-77920-A_24DGKW16ZQ/p2g06dyhtgf9mgf2yt1p4ihzvkkk91qvlf/InstallInfo.plist",
-          "size": 181,
-          "integrity_data_url": "https://swcdn.apple.com/content/downloads/08/08/122-77920-A_24DGKW16ZQ/p2g06dyhtgf9mgf2yt1p4ihzvkkk91qvlf/InstallInfo.plist.integrityDataV1",
-          "metadata_url": null
+          "url": "https://swcdn.apple.com/content/downloads/08/08/122-77920-A_24DGKW16ZQ/p2g06dyhtgf9mgf2yt1p4ihzvkkk91qvlf/MajorOSInfo.pkg",
+          "size": 1255122,
+          "integrity_data_url": "https://swcdn.apple.com/content/downloads/08/08/122-77920-A_24DGKW16ZQ/p2g06dyhtgf9mgf2yt1p4ihzvkkk91qvlf/MajorOSInfo.pkg.integrityDataV1",
+          "metadata_url": "https://swdist.apple.com/content/downloads/08/08/122-77920-A_24DGKW16ZQ/p2g06dyhtgf9mgf2yt1p4ihzvkkk91qvlf/MajorOSInfo.pkm"
         }
       ],
       "distributions": [
@@ -3975,21 +3975,9 @@
       "title": "macOS Sonoma",
       "version": "14.8.7",
       "build": "23J520",
-      "posting_date": "2026-05-11T17:30:42Z",
+      "posting_date": "2026-05-18T17:12:04Z",
       "size": 13671523298,
       "packages": [
-        {
-          "url": "https://swcdn.apple.com/content/downloads/61/03/122-77891-A_GYK4YJ2CRM/8xrsgsownndvprmza1q0cvbsppw3ohtk85/Info.plist",
-          "size": 5456,
-          "integrity_data_url": "https://swcdn.apple.com/content/downloads/61/03/122-77891-A_GYK4YJ2CRM/8xrsgsownndvprmza1q0cvbsppw3ohtk85/Info.plist.integrityDataV1",
-          "metadata_url": null
-        },
-        {
-          "url": "https://swcdn.apple.com/content/downloads/61/03/122-77891-A_GYK4YJ2CRM/8xrsgsownndvprmza1q0cvbsppw3ohtk85/InstallAssistant.pkg",
-          "size": 13656161186,
-          "integrity_data_url": "https://swcdn.apple.com/content/downloads/61/03/122-77891-A_GYK4YJ2CRM/8xrsgsownndvprmza1q0cvbsppw3ohtk85/InstallAssistant.pkg.integrityDataV1",
-          "metadata_url": "https://swdist.apple.com/content/downloads/61/03/122-77891-A_GYK4YJ2CRM/8xrsgsownndvprmza1q0cvbsppw3ohtk85/InstallAssistant.pkm"
-        },
         {
           "url": "https://swcdn.apple.com/content/downloads/61/03/122-77891-A_GYK4YJ2CRM/8xrsgsownndvprmza1q0cvbsppw3ohtk85/InstallInfo.plist",
           "size": 181,
@@ -3997,9 +3985,9 @@
           "metadata_url": null
         },
         {
-          "url": "https://swcdn.apple.com/content/downloads/61/03/122-77891-A_GYK4YJ2CRM/8xrsgsownndvprmza1q0cvbsppw3ohtk85/BuildManifest.plist",
-          "size": 10083730,
-          "integrity_data_url": "https://swcdn.apple.com/content/downloads/61/03/122-77891-A_GYK4YJ2CRM/8xrsgsownndvprmza1q0cvbsppw3ohtk85/BuildManifest.plist.integrityDataV1",
+          "url": "https://swcdn.apple.com/content/downloads/61/03/122-77891-A_GYK4YJ2CRM/8xrsgsownndvprmza1q0cvbsppw3ohtk85/Info.plist",
+          "size": 5456,
+          "integrity_data_url": "https://swcdn.apple.com/content/downloads/61/03/122-77891-A_GYK4YJ2CRM/8xrsgsownndvprmza1q0cvbsppw3ohtk85/Info.plist.integrityDataV1",
           "metadata_url": null
         },
         {
@@ -4013,6 +4001,18 @@
           "size": 3863108,
           "integrity_data_url": "https://swcdn.apple.com/content/downloads/61/03/122-77891-A_GYK4YJ2CRM/8xrsgsownndvprmza1q0cvbsppw3ohtk85/UpdateBrain.zip.integrityDataV1",
           "metadata_url": null
+        },
+        {
+          "url": "https://swcdn.apple.com/content/downloads/61/03/122-77891-A_GYK4YJ2CRM/8xrsgsownndvprmza1q0cvbsppw3ohtk85/BuildManifest.plist",
+          "size": 10083730,
+          "integrity_data_url": "https://swcdn.apple.com/content/downloads/61/03/122-77891-A_GYK4YJ2CRM/8xrsgsownndvprmza1q0cvbsppw3ohtk85/BuildManifest.plist.integrityDataV1",
+          "metadata_url": null
+        },
+        {
+          "url": "https://swcdn.apple.com/content/downloads/61/03/122-77891-A_GYK4YJ2CRM/8xrsgsownndvprmza1q0cvbsppw3ohtk85/InstallAssistant.pkg",
+          "size": 13656161186,
+          "integrity_data_url": "https://swcdn.apple.com/content/downloads/61/03/122-77891-A_GYK4YJ2CRM/8xrsgsownndvprmza1q0cvbsppw3ohtk85/InstallAssistant.pkg.integrityDataV1",
+          "metadata_url": "https://swdist.apple.com/content/downloads/61/03/122-77891-A_GYK4YJ2CRM/8xrsgsownndvprmza1q0cvbsppw3ohtk85/InstallAssistant.pkm"
         }
       ],
       "distributions": [
