@@ -1,5 +1,5 @@
 {
-  "UpdateHash": "c683f87bf91e813da21400e62a6fe06939fbdddb88fdbd20fd1dc611013a47c5",
+  "UpdateHash": "2f2903bddfd5e0bfa86e0174391147a73825b9b7f88e3d24fd97cc44a59ed45c",
   "OSVersions": [
     {
       "OSVersion": "Tahoe 26",
@@ -7,7 +7,7 @@
         "ProductVersion": "26.5",
         "Build": "25F71",
         "ReleaseDate": "2026-05-11T00:00:00Z",
-        "ExpirationDate": "2026-08-24T00:00:00Z",
+        "ExpirationDate": "2026-08-25T00:00:00Z",
         "SupportedDevices": [
           "J152FAP",
           "J160AP",
@@ -1362,6 +1362,8 @@
             "CVE-2025-43286": false,
             "CVE-2025-43287": false,
             "CVE-2025-43288": false,
+            "CVE-2025-43289": false,
+            "CVE-2025-43290": false,
             "CVE-2025-43291": false,
             "CVE-2025-43292": false,
             "CVE-2025-43293": false,
@@ -1376,6 +1378,7 @@
             "CVE-2025-43303": false,
             "CVE-2025-43304": false,
             "CVE-2025-43305": false,
+            "CVE-2025-43306": false,
             "CVE-2025-43307": false,
             "CVE-2025-43308": false,
             "CVE-2025-43310": false,
@@ -1424,12 +1427,18 @@
             "CVE-2025-43369": false,
             "CVE-2025-43372": false,
             "CVE-2025-43376": false,
+            "CVE-2025-43403": false,
             "CVE-2025-43419": false,
+            "CVE-2025-43451": false,
+            "CVE-2025-46280": false,
+            "CVE-2025-46284": false,
             "CVE-2025-46306": false,
+            "CVE-2025-46307": false,
+            "CVE-2025-46310": false,
             "CVE-2025-6965": false
           },
           "ActivelyExploitedCVEs": [],
-          "UniqueCVEsCount": 87,
+          "UniqueCVEsCount": 96,
           "DaysSincePreviousRelease": 0
         }
       ],
@@ -1532,7 +1541,7 @@
         "ProductVersion": "15.7.7",
         "Build": "24G720",
         "ReleaseDate": "2026-05-11T00:00:00Z",
-        "ExpirationDate": "2026-08-24T00:00:00Z",
+        "ExpirationDate": "2026-08-25T00:00:00Z",
         "SupportedDevices": [
           "J132AP",
           "J137AP",
@@ -2460,11 +2469,14 @@
             "CVE-2025-31255": false,
             "CVE-2025-31259": false,
             "CVE-2025-31268": false,
+            "CVE-2025-31271": false,
             "CVE-2025-40909": false,
             "CVE-2025-43190": false,
             "CVE-2025-43285": false,
             "CVE-2025-43286": false,
             "CVE-2025-43288": false,
+            "CVE-2025-43289": false,
+            "CVE-2025-43290": false,
             "CVE-2025-43291": false,
             "CVE-2025-43292": false,
             "CVE-2025-43293": false,
@@ -2475,6 +2487,7 @@
             "CVE-2025-43302": false,
             "CVE-2025-43304": false,
             "CVE-2025-43305": false,
+            "CVE-2025-43306": false,
             "CVE-2025-43308": false,
             "CVE-2025-43310": false,
             "CVE-2025-43311": false,
@@ -2490,12 +2503,16 @@
             "CVE-2025-43349": false,
             "CVE-2025-43353": false,
             "CVE-2025-43355": false,
+            "CVE-2025-43357": false,
             "CVE-2025-43358": false,
             "CVE-2025-43359": false,
-            "CVE-2025-43364": false
+            "CVE-2025-43364": false,
+            "CVE-2025-43464": false,
+            "CVE-2025-43508": false,
+            "CVE-2025-46284": false
           },
           "ActivelyExploitedCVEs": [],
-          "UniqueCVEsCount": 38,
+          "UniqueCVEsCount": 46,
           "DaysSincePreviousRelease": 26
         },
         {
@@ -4337,7 +4354,7 @@
         "ProductVersion": "14.8.7",
         "Build": "23J520",
         "ReleaseDate": "2026-05-11T00:00:00Z",
-        "ExpirationDate": "2026-08-24T00:00:00Z",
+        "ExpirationDate": "2026-08-25T00:00:00Z",
         "SupportedDevices": [
           "J132AP",
           "J137AP",
@@ -5006,13 +5023,14 @@
             "CVE-2025-43499": false,
             "CVE-2025-43510": true,
             "CVE-2025-43520": true,
-            "CVE-2025-6442": false
+            "CVE-2025-6442": false,
+            "CVE-2025-6965": false
           },
           "ActivelyExploitedCVEs": [
             "CVE-2025-43520",
             "CVE-2025-43510"
           ],
-          "UniqueCVEsCount": 50,
+          "UniqueCVEsCount": 51,
           "DaysSincePreviousRelease": 35
         },
         {
@@ -5159,6 +5177,7 @@
             "CVE-2025-31259": false,
             "CVE-2025-31268": false,
             "CVE-2025-31269": false,
+            "CVE-2025-31271": false,
             "CVE-2025-40909": false,
             "CVE-2025-43190": false,
             "CVE-2025-43231": false,
@@ -5166,6 +5185,8 @@
             "CVE-2025-43277": false,
             "CVE-2025-43285": false,
             "CVE-2025-43286": false,
+            "CVE-2025-43289": false,
+            "CVE-2025-43290": false,
             "CVE-2025-43291": false,
             "CVE-2025-43293": false,
             "CVE-2025-43295": false,
@@ -5175,6 +5196,7 @@
             "CVE-2025-43302": false,
             "CVE-2025-43304": false,
             "CVE-2025-43305": false,
+            "CVE-2025-43306": false,
             "CVE-2025-43308": false,
             "CVE-2025-43310": false,
             "CVE-2025-43311": false,
@@ -5190,13 +5212,15 @@
             "CVE-2025-43349": false,
             "CVE-2025-43353": false,
             "CVE-2025-43355": false,
+            "CVE-2025-43357": false,
             "CVE-2025-43358": false,
             "CVE-2025-43359": false,
             "CVE-2025-43364": false,
-            "CVE-2025-43367": false
+            "CVE-2025-43367": false,
+            "CVE-2025-43508": false
           },
           "ActivelyExploitedCVEs": [],
-          "UniqueCVEsCount": 41,
+          "UniqueCVEsCount": 47,
           "DaysSincePreviousRelease": 26
         },
         {
@@ -7720,7 +7744,7 @@
         "ProductVersion": "13.7.8",
         "Build": "22H730",
         "ReleaseDate": "2025-08-20T00:00:00Z",
-        "ExpirationDate": "2026-08-24T00:00:00Z",
+        "ExpirationDate": "2026-08-25T00:00:00Z",
         "SupportedDevices": [
           "J132AP",
           "J137AP",
@@ -11121,7 +11145,7 @@
         "ProductVersion": "12.7.6",
         "Build": "21H1320",
         "ReleaseDate": "2024-07-29T00:00:00Z",
-        "ExpirationDate": "2026-08-24T00:00:00Z",
+        "ExpirationDate": "2026-08-25T00:00:00Z",
         "SupportedDevices": [
           "J132AP",
           "J137AP",
