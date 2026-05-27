@@ -1,7 +1,7 @@
 {
   "Version": "2.0",
-  "UpdateHash": "ab8013fec5df1da9d6fd460adc5d42ef4de86e7e0c53e1cfb985e44a82f2fe2c",
-  "LastCheck": "2026-05-27T01:25:52.575416072+00:00",
+  "UpdateHash": "db8c62dc3482c2b6e14346e788e340506a37e382a9db779e2dbfae5cecaabbe8",
+  "LastCheck": "2026-05-27T07:51:37.433400743+00:00",
   "OSVersions": [
     {
       "OSVersion": "26",
@@ -2491,7 +2491,7 @@
           "ReleaseDate": "2025-09-15T00:00:00Z",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/125109",
-          "SecurityInfoContext": "iOS 18.7 was released on September 15, 2025. This release addressed 14 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
+          "SecurityInfoContext": "iOS 18.7 was released on September 15, 2025. This release addressed 13 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
           "SupportedDevices": [],
           "CVEs": {
             "CVE-2025-43203": {},
@@ -2504,17 +2504,16 @@
             "CVE-2025-43349": {},
             "CVE-2025-43355": {},
             "CVE-2025-43356": {},
-            "CVE-2025-43357": {},
             "CVE-2025-43358": {},
             "CVE-2025-43359": {},
             "CVE-2025-43362": {}
           },
           "ActivelyExploitedCVEs": [],
-          "UniqueCVEsCount": 14,
+          "UniqueCVEsCount": 13,
           "DaysSincePreviousRelease": 26,
           "update_summary": {
             "priority": "high",
-            "summary": "Addresses 14 security issues",
+            "summary": "Addresses 13 security issues",
             "recommendation": "Update to stay secure - security fixes available",
             "stats": {
               "exploited": 0,
@@ -2523,7 +2522,7 @@
               "medium": 0,
               "low": 0,
               "remote": 0,
-              "total": 14
+              "total": 13
             }
           }
         },
