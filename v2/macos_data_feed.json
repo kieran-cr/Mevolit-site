@@ -1,7 +1,7 @@
 {
   "Version": "2.0",
-  "UpdateHash": "ced73d575ae4b7e607ec30a59cb5a2d940e1fb966134f598ca7f938777f5213d",
-  "LastCheck": "2026-06-02T18:16:45.373120800+00:00",
+  "UpdateHash": "6530ee9778775ab08ac63ee5081a34dd14f2e95b49be73d6722db5fc019abb28",
+  "LastCheck": "2026-06-02T19:44:13.273939318+00:00",
   "OSVersions": [
     {
       "OSVersion": "Tahoe 26",
@@ -846,12 +846,9 @@
           "UpdateName": "macOS Tahoe 26.3",
           "ProductName": "macOS",
           "ProductVersion": "26.3",
-          "Build": "25D125",
-          "AllBuilds": [
-            "25D125"
-          ],
+          "Build": "",
+          "AllBuilds": [],
           "ReleaseDate": "2026-02-11T00:00:00Z",
-          "ExpirationDate": "2026-06-02",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/126348",
           "SecurityInfoContext": "macOS 26.3 was released on February 11, 2026. This release addressed 66 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
@@ -905,7 +902,6 @@
             "J616sAP",
             "J623AP",
             "J624AP",
-            "J704AP",
             "J713AP",
             "J715AP",
             "J773gAP",
@@ -16175,7 +16171,7 @@
           "AllBuilds": [],
           "ReleaseDate": "2021-09-20T00:00:00Z",
           "ReleaseType": "OS",
-          "SecurityInfo": "https://support.apple.com/en-us/102876",
+          "SecurityInfo": "https://support.apple.com/en-us/124928",
           "SecurityInfoContext": "macOS 12.0 was released on . This update has no published CVE entries. Newer updates are now available, so please check to see if they apply to your devices.",
           "SupportedDevices": [
             "J132AP",
@@ -17523,12 +17519,12 @@
     }
   },
   "XProtectPlistConfigData": {
-    "com.apple.XProtect": "5347",
-    "ReleaseDate": "2026-06-02T17:14:47Z"
+    "ReleaseDate": "2026-06-02T17:14:47Z",
+    "com.apple.XProtect": "5347"
   },
   "XProtectPayloads": {
-    "com.apple.XprotectFramework.PluginService": "74",
     "com.apple.XProtectFramework.XProtect": "157",
+    "com.apple.XprotectFramework.PluginService": "74",
     "ReleaseDate": "2026-06-02T17:14:47Z"
   },
   "BackgroundSecurityImprovements": {
