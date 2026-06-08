@@ -4262,7 +4262,7 @@
       {
         "ProductVersion": "14.8.4",
         "Build": "23J319",
-        "PostingDate": "2026-03-04",
+        "PostingDate": "2026-03-10",
         "ExpirationDate": "2026-06-22",
         "SupportedDevices": [
           "J132AP",
@@ -4326,7 +4326,7 @@
       {
         "ProductVersion": "26.3.1",
         "Build": "25D2128",
-        "PostingDate": "2026-03-04",
+        "PostingDate": "2026-03-10",
         "ExpirationDate": "2026-06-22",
         "SupportedDevices": [
           "J152FAP",
@@ -4391,15 +4391,6 @@
           "J815AP",
           "VMA2MACOSAP",
           "VMM-x86_64"
-        ]
-      },
-      {
-        "ProductVersion": "26.3.1",
-        "Build": "25D2128",
-        "PostingDate": "2026-03-04",
-        "ExpirationDate": "2026-06-08",
-        "SupportedDevices": [
-          "J700AP"
         ]
       },
       {
@@ -4766,7 +4757,7 @@
       {
         "ProductVersion": "15.7.4",
         "Build": "24G517",
-        "PostingDate": "2026-03-04",
+        "PostingDate": "2026-03-10",
         "ExpirationDate": "2026-06-22",
         "SupportedDevices": [
           "J132AP",
@@ -4841,7 +4832,7 @@
       {
         "ProductVersion": "12.7.6",
         "Build": "21H1320",
-        "PostingDate": "2026-03-04",
+        "PostingDate": "2026-03-10",
         "ExpirationDate": "2026-09-06",
         "SupportedDevices": [
           "J132AP",
@@ -5042,7 +5033,7 @@
       {
         "ProductVersion": "11.7.11",
         "Build": "20G1443",
-        "PostingDate": "2026-03-04",
+        "PostingDate": "2026-03-10",
         "ExpirationDate": "2026-09-06",
         "SupportedDevices": [
           "J132AP",
@@ -5138,7 +5129,7 @@
       {
         "ProductVersion": "13.7.8",
         "Build": "22H730",
-        "PostingDate": "2026-03-04",
+        "PostingDate": "2026-03-10",
         "ExpirationDate": "2026-09-06",
         "SupportedDevices": [
           "J132AP",
