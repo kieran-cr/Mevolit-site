@@ -6,7 +6,7 @@
     <description>Simple Organized Feed for Apple Software Updates - Security releases and updates</description>
     <language>en-us</language>
     <generator>SOFA RSS Generator 2.0</generator>
-    <lastBuildDate>Thu, 11 Jun 2026 01:29:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 08:11:33 +0000</lastBuildDate>
     <image>
       <url>https://sofa.macadmins.io/images/custom_logo.png</url>
       <title>SOFA</title>
@@ -603,7 +603,7 @@
     <item>
       <title>iOS 18.7.2 and iPadOS 18.7.2</title>
       <link>https://support.apple.com/en-us/125633</link>
-      <description>Vulnerabilities Addressed: 39&lt;br&gt;Exploited CVE(s): 2&lt;br&gt;Apple Security Bulletin: &lt;a href=&quot;https://support.apple.com/en-us/125633&quot;&gt;https://support.apple.com/en-us/125633&lt;/a&gt;&lt;br&gt;Security Details: &lt;a href=&quot;https://sofa.macadmins.io/ios/ios18&quot;&gt;https://sofa.macadmins.io/ios/ios18&lt;/a&gt;</description>
+      <description>Vulnerabilities Addressed: 38&lt;br&gt;Exploited CVE(s): 2&lt;br&gt;Apple Security Bulletin: &lt;a href=&quot;https://support.apple.com/en-us/125633&quot;&gt;https://support.apple.com/en-us/125633&lt;/a&gt;&lt;br&gt;Security Details: &lt;a href=&quot;https://sofa.macadmins.io/ios/ios18&quot;&gt;https://sofa.macadmins.io/ios/ios18&lt;/a&gt;</description>
       <guid isPermaLink="false">iOS_OS_18.7.2</guid>
       <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
     </item>
