@@ -1,7 +1,7 @@
 {
-  "content_hash": "1971a6145f7b0478e64d69e28c74b22f8ae4aedc0c70d63d731069e8e986cd3c",
+  "content_hash": "87cdc95194af272478fe08d2905d2d2956523c192dca57e6d08eedcacf996b6a",
   "content_changed": true,
-  "generated_at": "2026-06-16T18:30:14.188988931Z",
+  "generated_at": "2026-06-16T19:43:57.693028248Z",
   "latest_releases": {
     "macos": {
       "version": "26.5.1",
@@ -284,6 +284,13 @@
   },
   "recent_releases": [
     {
+      "release_date": "2026-06-16",
+      "name": "Beats Firmware Update 1B211",
+      "platform": "other",
+      "version": "",
+      "url": "https://support.apple.com/en-us/127557"
+    },
+    {
       "release_date": "2026-06-01",
       "name": "iOS 26.5.1",
       "platform": "ios",
@@ -353,15 +360,6 @@
       "url": "https://support.apple.com/en-us/127116",
       "enterprise_link": "https://support.apple.com/en-ca/121011",
       "updates_link": "https://support.apple.com/en-ca/120283"
-    },
-    {
-      "release_date": "2026-05-11",
-      "name": "macOS Sonoma 14.8.7",
-      "platform": "macos",
-      "version": "14.8.7",
-      "url": "https://support.apple.com/en-us/127117",
-      "enterprise_link": "https://support.apple.com/en-ca/109030",
-      "updates_link": "https://support.apple.com/en-ca/109035"
     }
   ]
 }
