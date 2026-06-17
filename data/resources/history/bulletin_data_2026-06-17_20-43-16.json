@@ -1,7 +1,7 @@
 {
-  "content_hash": "e7855834ddb007676d902e0243202d2c0baf2fb83ff8fa58765f1f3236c2f590",
+  "content_hash": "ea69d83c5ce6ec5fa39c0e7049d626838b9da86118433f0853c8cfec3c3583c7",
   "content_changed": true,
-  "generated_at": "2026-06-14T08:01:02.090685253Z",
+  "generated_at": "2026-06-17T20:43:16.890208440Z",
   "latest_releases": {
     "macos": {
       "version": "26.5.1",
@@ -250,39 +250,46 @@
     "kev_cve_list": []
   },
   "beta_releases": {
-    "latest_wave": "2026-06-08",
+    "latest_wave": "2026-06-15",
     "macos": {
-      "version": "27 beta",
-      "build": "26A5353q",
-      "released": "2026-06-08"
+      "version": "26.6 beta 2",
+      "build": "25G5043d",
+      "released": "2026-06-15"
     },
     "ios": {
-      "version": "27 beta",
-      "build": "24A5355q",
-      "released": "2026-06-08"
+      "version": "26.6 beta 2",
+      "build": "23G5043d",
+      "released": "2026-06-15"
     },
     "ipados": {
-      "version": "27 beta",
-      "build": "24A5355q",
-      "released": "2026-06-08"
+      "version": "26.6 beta 2",
+      "build": "23G5043d",
+      "released": "2026-06-15"
     },
     "tvos": {
-      "version": "27 beta",
-      "build": "24J5289o",
-      "released": "2026-06-08"
+      "version": "26.6 beta 2",
+      "build": "23L5744d",
+      "released": "2026-06-15"
     },
     "watchos": {
-      "version": "27 beta",
-      "build": "24R5289n",
-      "released": "2026-06-08"
+      "version": "26.6 beta 2",
+      "build": "23U5040d",
+      "released": "2026-06-15"
     },
     "visionos": {
-      "version": "27 beta",
-      "build": "24M5291p",
-      "released": "2026-06-08"
+      "version": "26.6 beta 2",
+      "build": "23O5743c",
+      "released": "2026-06-15"
     }
   },
   "recent_releases": [
+    {
+      "release_date": "2026-06-16",
+      "name": "Beats Firmware Update 1B211",
+      "platform": "other",
+      "version": "",
+      "url": "https://support.apple.com/en-us/127557"
+    },
     {
       "release_date": "2026-06-01",
       "name": "iOS 26.5.1",
@@ -353,15 +360,6 @@
       "url": "https://support.apple.com/en-us/127116",
       "enterprise_link": "https://support.apple.com/en-ca/121011",
       "updates_link": "https://support.apple.com/en-ca/120283"
-    },
-    {
-      "release_date": "2026-05-11",
-      "name": "macOS Sonoma 14.8.7",
-      "platform": "macos",
-      "version": "14.8.7",
-      "url": "https://support.apple.com/en-us/127117",
-      "enterprise_link": "https://support.apple.com/en-ca/109030",
-      "updates_link": "https://support.apple.com/en-ca/109035"
     }
   ]
 }
