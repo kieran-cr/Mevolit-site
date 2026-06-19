@@ -1,5 +1,5 @@
 {
-  "UpdateHash": "8d29edabba08aae1342928078dfefbf085c631a1f46f96dad82bba7dd171861f",
+  "UpdateHash": "e3198bb1c9e80f39210b3f62f860def727f94141cdbe1fa0f3d4e6938e1017f0",
   "OSVersions": [
     {
       "OSVersion": "Tahoe 26",
@@ -7,7 +7,7 @@
         "ProductVersion": "26.5.1",
         "Build": "25F80",
         "ReleaseDate": "2026-06-01T00:00:00Z",
-        "ExpirationDate": "2026-09-16T00:00:00Z",
+        "ExpirationDate": "2026-09-17T00:00:00Z",
         "SupportedDevices": [
           "J152FAP",
           "J160AP",
@@ -1541,7 +1541,7 @@
         "ProductVersion": "15.7.7",
         "Build": "24G720",
         "ReleaseDate": "2026-05-11T00:00:00Z",
-        "ExpirationDate": "2026-09-16T00:00:00Z",
+        "ExpirationDate": "2026-09-17T00:00:00Z",
         "SupportedDevices": [
           "J132AP",
           "J137AP",
@@ -4364,7 +4364,7 @@
         "ProductVersion": "14.8.7",
         "Build": "23J520",
         "ReleaseDate": "2026-05-11T00:00:00Z",
-        "ExpirationDate": "2026-09-16T00:00:00Z",
+        "ExpirationDate": "2026-09-17T00:00:00Z",
         "SupportedDevices": [
           "J132AP",
           "J137AP",
@@ -7759,7 +7759,7 @@
         "ProductVersion": "13.7.8",
         "Build": "22H730",
         "ReleaseDate": "2025-08-20T00:00:00Z",
-        "ExpirationDate": "2026-09-16T00:00:00Z",
+        "ExpirationDate": "2026-09-17T00:00:00Z",
         "SupportedDevices": [
           "J132AP",
           "J137AP",
@@ -11165,7 +11165,7 @@
         "ProductVersion": "12.7.6",
         "Build": "21H1320",
         "ReleaseDate": "2024-07-29T00:00:00Z",
-        "ExpirationDate": "2026-09-16T00:00:00Z",
+        "ExpirationDate": "2026-09-17T00:00:00Z",
         "SupportedDevices": [
           "J132AP",
           "J137AP",
