@@ -1,7 +1,7 @@
 {
   "Version": "2.0",
-  "UpdateHash": "ebeae6a896181248b7fc0045cab13d69daceb6e6a2dfb57660ac5bcadb88913e",
-  "LastCheck": "2026-06-22T14:18:49.795430757+00:00",
+  "UpdateHash": "349d48b75bef87efc5ec0f365eba363514235a5b3ac547860c5643cb14f3a453",
+  "LastCheck": "2026-06-22T18:22:51.117524146+00:00",
   "OSVersions": [
     {
       "OSVersion": "Tahoe 26",
@@ -659,12 +659,9 @@
           "UpdateName": "macOS Tahoe 26.3.2",
           "ProductName": "macOS",
           "ProductVersion": "26.3.2",
-          "Build": "25D2140",
-          "AllBuilds": [
-            "25D2140"
-          ],
+          "Build": "",
+          "AllBuilds": [],
           "ReleaseDate": "2026-03-10T00:00:00Z",
-          "ExpirationDate": "2026-06-22",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/100100",
           "SecurityInfoContext": "macOS 26.3.2 was released on March 10, 2026. This update has no published CVE entries. Newer updates are now available, so please check to see if they apply to your devices.",
@@ -718,7 +715,6 @@
             "J616sAP",
             "J623AP",
             "J624AP",
-            "J700AP",
             "J713AP",
             "J715AP",
             "J773gAP",
@@ -749,12 +745,9 @@
           "UpdateName": "macOS Tahoe 26.3.1",
           "ProductName": "macOS",
           "ProductVersion": "26.3.1",
-          "Build": "25D2128",
-          "AllBuilds": [
-            "25D2128"
-          ],
+          "Build": "",
+          "AllBuilds": [],
           "ReleaseDate": "2026-03-04T00:00:00Z",
-          "ExpirationDate": "2026-06-22",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/100100",
           "SecurityInfoContext": "macOS 26.3.1 was released on March 04, 2026. This update has no published CVE entries. Newer updates are now available, so please check to see if they apply to your devices.",
@@ -808,17 +801,10 @@
             "J616sAP",
             "J623AP",
             "J624AP",
-            "J704AP",
             "J713AP",
-            "J714cAP",
-            "J714sAP",
             "J715AP",
-            "J716cAP",
-            "J716sAP",
             "J773gAP",
             "J773sAP",
-            "J813AP",
-            "J815AP",
             "VMA2MACOSAP",
             "VMM-x86_64"
           ],
@@ -2213,12 +2199,9 @@
           "UpdateName": "macOS Sequoia 15.7.4",
           "ProductName": "macOS",
           "ProductVersion": "15.7.4",
-          "Build": "24G517",
-          "AllBuilds": [
-            "24G517"
-          ],
+          "Build": "",
+          "AllBuilds": [],
           "ReleaseDate": "2026-02-11T00:00:00Z",
-          "ExpirationDate": "2026-06-22",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/126349",
           "SecurityInfoContext": "macOS 15.7.4 was released on February 11, 2026. This release addressed 37 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
@@ -2238,14 +2221,12 @@
             "J230KAP",
             "J274AP",
             "J293AP",
-            "J313AP",
             "J314cAP",
             "J314sAP",
             "J316cAP",
             "J316sAP",
             "J375cAP",
             "J375dAP",
-            "J413AP",
             "J414cAP",
             "J414sAP",
             "J415AP",
@@ -2267,22 +2248,9 @@
             "J516cAP",
             "J516mAP",
             "J516sAP",
-            "J575cAP",
-            "J575dAP",
-            "J604AP",
             "J613AP",
-            "J614cAP",
-            "J614sAP",
             "J615AP",
-            "J616cAP",
-            "J616sAP",
-            "J623AP",
-            "J624AP",
             "J680AP",
-            "J713AP",
-            "J715AP",
-            "J773gAP",
-            "J773sAP",
             "J780AP",
             "Mac-1E7E29AD0135F9BC",
             "Mac-63001698E7A34814",
@@ -5169,12 +5137,9 @@
           "UpdateName": "macOS Sonoma 14.8.4",
           "ProductName": "macOS",
           "ProductVersion": "14.8.4",
-          "Build": "23J319",
-          "AllBuilds": [
-            "23J319"
-          ],
+          "Build": "",
+          "AllBuilds": [],
           "ReleaseDate": "2026-02-11T00:00:00Z",
-          "ExpirationDate": "2026-06-22",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/126350",
           "SecurityInfoContext": "macOS 14.8.4 was released on February 11, 2026. This release addressed 44 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
@@ -16193,7 +16158,7 @@
           "AllBuilds": [],
           "ReleaseDate": "2021-09-20T00:00:00Z",
           "ReleaseType": "OS",
-          "SecurityInfo": "https://support.apple.com/kb/HT213344",
+          "SecurityInfo": "https://support.apple.com/kb/HT211100",
           "SecurityInfoContext": "macOS 12.0 was released on . This update has no published CVE entries. Newer updates are now available, so please check to see if they apply to your devices.",
           "SupportedDevices": [
             "J132AP",
@@ -17541,13 +17506,13 @@
     }
   },
   "XProtectPlistConfigData": {
-    "ReleaseDate": "2026-06-02T17:14:47Z",
-    "com.apple.XProtect": "5347"
+    "com.apple.XProtect": "5347",
+    "ReleaseDate": "2026-06-02T17:14:47Z"
   },
   "XProtectPayloads": {
     "ReleaseDate": "2026-06-02T17:14:47Z",
-    "com.apple.XprotectFramework.PluginService": "74",
-    "com.apple.XProtectFramework.XProtect": "157"
+    "com.apple.XProtectFramework.XProtect": "157",
+    "com.apple.XprotectFramework.PluginService": "74"
   },
   "BackgroundSecurityImprovements": {
     "26": [

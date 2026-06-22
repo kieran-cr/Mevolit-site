@@ -1,8 +1,8 @@
 {
   "OSName": "tvOS",
   "Version": "2.0",
-  "UpdateHash": "8556347db62a76e581e723c712477ba602f6460200b4ea721782999847adbca4",
-  "LastCheck": "2026-06-22T14:18:49.857877871+00:00",
+  "UpdateHash": "249ac9e843cdf7537687d07134e05d9225257faf128f9a16faea2b38d26f82d6",
+  "LastCheck": "2026-06-22T18:22:51.172141595+00:00",
   "OSVersions": [
     {
       "OSVersion": "tvOS 26",
@@ -241,22 +241,13 @@
           "UpdateName": "tvOS 26.3",
           "ProductName": "tvOS",
           "ProductVersion": "26.3",
-          "Build": "23K6620",
-          "AllBuilds": [
-            "23K6620",
-            "23K620"
-          ],
+          "Build": "",
+          "AllBuilds": [],
           "ReleaseDate": "2026-02-11",
-          "ExpirationDate": "2026-06-22",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/126351",
           "SecurityInfoContext": "tvOS 26.3 was released on February 11, 2026. This release addressed 17 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
-          "SupportedDevices": [
-            "AppleTV11,1",
-            "AppleTV14,1",
-            "AppleTV5,3",
-            "AppleTV6,2"
-          ],
+          "SupportedDevices": [],
           "CVEs": {
             "CVE-2025-14174": {
               "nist_url": "https://nvd.nist.gov/vuln/detail/CVE-2025-14174",
