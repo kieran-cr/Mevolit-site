@@ -1,7 +1,7 @@
 {
-  "content_hash": "6c7b66cfa616d2dadf1bb55aff9ba3ea676cf8e75897d2db891cd073391d8fe2",
+  "content_hash": "a04b74b5d0c789ecda131e5a3af9f4a4ee89973b03a61883b00e57dd65af9816",
   "content_changed": true,
-  "generated_at": "2026-06-25T13:15:15.321908231Z",
+  "generated_at": "2026-06-27T07:31:54.783179950Z",
   "latest_releases": {
     "macos": {
       "version": "26.5.1",
@@ -250,7 +250,7 @@
     "kev_cve_list": []
   },
   "beta_releases": {
-    "latest_wave": "2026-06-23",
+    "latest_wave": "2026-06-25",
     "macos": {
       "version": "27.0 beta 2",
       "build": "26A5368g",
