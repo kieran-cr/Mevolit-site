@@ -1,7 +1,7 @@
 {
   "Version": "2.0",
-  "UpdateHash": "70e330f7d70acc79eb86548bd7c58e460f85afee8176881e5bb2f5e6bcc36926",
-  "LastCheck": "2026-06-29T13:53:43.085408347+00:00",
+  "UpdateHash": "906ee22c9c75c785ccb8db1bf5a96e073caf65cc58793129065d6605baf2eba6",
+  "LastCheck": "2026-06-29T17:51:01.507589895+00:00",
   "OSVersions": [
     {
       "OSVersion": "Tahoe 26",
@@ -16158,7 +16158,7 @@
           "AllBuilds": [],
           "ReleaseDate": "2021-09-20T00:00:00Z",
           "ReleaseType": "OS",
-          "SecurityInfo": "https://support.apple.com/kb/HT213055",
+          "SecurityInfo": "https://support.apple.com/kb/HT213759",
           "SecurityInfoContext": "macOS 12.0 was released on . This update has no published CVE entries. Newer updates are now available, so please check to see if they apply to your devices.",
           "SupportedDevices": [
             "J132AP",
@@ -17511,8 +17511,8 @@
   },
   "XProtectPayloads": {
     "com.apple.XProtectFramework.XProtect": "157",
-    "ReleaseDate": "2026-06-02T17:14:47Z",
-    "com.apple.XprotectFramework.PluginService": "74"
+    "com.apple.XprotectFramework.PluginService": "74",
+    "ReleaseDate": "2026-06-02T17:14:47Z"
   },
   "BackgroundSecurityImprovements": {
     "26": [
@@ -17812,10 +17812,10 @@
       }
     ],
     "LatestMacIPSW": {
-      "macos_ipsw_url": "https://updates.cdn-apple.com/2026SpringFCS/fullrestores/122-88870/E47EBB85-45F2-4E3C-B9E7-6FF7868C2FBA/UniversalMac_26.5.1_25F80_Restore.ipsw",
-      "macos_ipsw_build": "25F80",
-      "macos_ipsw_version": "26.5.1",
-      "macos_ipsw_apple_slug": "122-88870"
+      "macos_ipsw_url": "https://updates.cdn-apple.com/2026SpringFCS/fullrestores/140-24263/B95838F0-6815-4F0B-A039-156526C081AD/UniversalMac_26.5.2_25F84_Restore.ipsw",
+      "macos_ipsw_build": "25F84",
+      "macos_ipsw_version": "26.5.2",
+      "macos_ipsw_apple_slug": "140-24263"
     }
   }
 }
