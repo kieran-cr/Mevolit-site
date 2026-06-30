@@ -1,5 +1,5 @@
 {
-  "etag": "7613247b4eae06195cc14adb2cc1a0e65717362421c30a619fa0665efc04f527",
+  "etag": "006e5f61306f84452ee3c4ed2c765eec7c2213115f506d944ce59e352a88f2df",
   "data": {
     "PublicAssetSets": {
       "iOS": [
@@ -1962,7 +1962,15 @@
             "iPhone17,2",
             "iPhone17,3",
             "iPhone17,4",
-            "iPhone17,5",
+            "iPhone17,5"
+          ]
+        },
+        {
+          "ProductVersion": "26.5",
+          "Build": "23F77",
+          "PostingDate": "2026-05-11",
+          "ExpirationDate": "2026-08-30",
+          "SupportedDevices": [
             "iPhone18,1",
             "iPhone18,2",
             "iPhone18,3",
@@ -2628,7 +2636,15 @@
             "iPhone17,2",
             "iPhone17,3",
             "iPhone17,4",
-            "iPhone17,5",
+            "iPhone17,5"
+          ]
+        },
+        {
+          "ProductVersion": "26.5",
+          "Build": "23F6077",
+          "PostingDate": "2026-05-11",
+          "ExpirationDate": "2026-08-30",
+          "SupportedDevices": [
             "iPhone18,1",
             "iPhone18,2",
             "iPhone18,3",
