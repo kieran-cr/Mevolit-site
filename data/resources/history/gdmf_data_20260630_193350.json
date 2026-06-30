@@ -974,6 +974,28 @@
         ]
       }
     ],
+    "visionOS": [
+      {
+        "ProductVersion": "26.5",
+        "Build": "23O471",
+        "PostingDate": "2026-05-18",
+        "ExpirationDate": "2026-09-28",
+        "SupportedDevices": [
+          "RealityDevice14,1",
+          "RealityDevice17,1"
+        ]
+      },
+      {
+        "ProductVersion": "26.5",
+        "Build": "23O6471",
+        "PostingDate": "2026-05-18",
+        "ExpirationDate": "2026-09-28",
+        "SupportedDevices": [
+          "RealityDevice14,1",
+          "RealityDevice17,1"
+        ]
+      }
+    ],
     "macOS": [
       {
         "ProductVersion": "15.7.7",
@@ -1408,28 +1430,6 @@
           "Mac-EE2EBD4B90B839A8",
           "VMA2MACOSAP",
           "VMM-x86_64"
-        ]
-      }
-    ],
-    "visionOS": [
-      {
-        "ProductVersion": "26.5",
-        "Build": "23O471",
-        "PostingDate": "2026-05-18",
-        "ExpirationDate": "2026-09-28",
-        "SupportedDevices": [
-          "RealityDevice14,1",
-          "RealityDevice17,1"
-        ]
-      },
-      {
-        "ProductVersion": "26.5",
-        "Build": "23O6471",
-        "PostingDate": "2026-05-18",
-        "ExpirationDate": "2026-09-28",
-        "SupportedDevices": [
-          "RealityDevice14,1",
-          "RealityDevice17,1"
         ]
       }
     ]
@@ -1960,7 +1960,15 @@
           "iPhone17,2",
           "iPhone17,3",
           "iPhone17,4",
-          "iPhone17,5",
+          "iPhone17,5"
+        ]
+      },
+      {
+        "ProductVersion": "26.5",
+        "Build": "23F77",
+        "PostingDate": "2026-05-11",
+        "ExpirationDate": "2026-08-30",
+        "SupportedDevices": [
           "iPhone18,1",
           "iPhone18,2",
           "iPhone18,3",
@@ -2626,7 +2634,15 @@
           "iPhone17,2",
           "iPhone17,3",
           "iPhone17,4",
-          "iPhone17,5",
+          "iPhone17,5"
+        ]
+      },
+      {
+        "ProductVersion": "26.5",
+        "Build": "23F6077",
+        "PostingDate": "2026-05-11",
+        "ExpirationDate": "2026-08-30",
+        "SupportedDevices": [
           "iPhone18,1",
           "iPhone18,2",
           "iPhone18,3",
