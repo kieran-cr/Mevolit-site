@@ -1,8 +1,8 @@
 {
   "OSName": "watchOS",
   "Version": "2.0",
-  "UpdateHash": "d37212ecfcb30e0259a83dfede53becd69e2d4abef538f68dc3a6c14c66ed3ad",
-  "LastCheck": "2026-07-03T20:11:12.526577813+00:00",
+  "UpdateHash": "006dca868d840114120bbfc2c72f476282d55e88b3d42a5185927a52248fa1cc",
+  "LastCheck": "2026-07-04T04:08:41.337674156+00:00",
   "OSVersions": [
     {
       "OSVersion": "watchOS 26",
@@ -16,7 +16,7 @@
           "23T570"
         ],
         "ReleaseDate": "2026-05-11",
-        "ExpirationDate": "2026-10-01",
+        "ExpirationDate": "2026-10-02",
         "ReleaseType": "OS",
         "SecurityInfo": "https://support.apple.com/en-us/127119",
         "SecurityInfoContext": "watchOS has been updated to version 26.5, which was released on May 11, 2026. This update addresses 43 security issues and is the most recent approved version.",
@@ -131,7 +131,7 @@
             "23T570"
           ],
           "ReleaseDate": "2026-05-11",
-          "ExpirationDate": "2026-10-01",
+          "ExpirationDate": "2026-10-02",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/127119",
           "SecurityInfoContext": "watchOS has been updated to version 26.5, which was released on May 11, 2026. This update addresses 43 security issues and is the most recent approved version.",
@@ -699,7 +699,7 @@
           "22U6095"
         ],
         "ReleaseDate": "2026-02-05",
-        "ExpirationDate": "2026-10-01",
+        "ExpirationDate": "2026-10-02",
         "ReleaseType": "OS",
         "SecurityInfo": "https://support.apple.com/en-us/100100",
         "SecurityInfoContext": "watchOS has been updated to version 11.6.2, which was released on February 05, 2026. This update has no published CVE entries and is the most recent approved version.",
@@ -761,7 +761,7 @@
             "22U6095"
           ],
           "ReleaseDate": "2026-02-05",
-          "ExpirationDate": "2026-10-01",
+          "ExpirationDate": "2026-10-02",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/100100",
           "SecurityInfoContext": "watchOS has been updated to version 11.6.2, which was released on February 05, 2026. This update has no published CVE entries and is the most recent approved version.",
