@@ -1,7 +1,7 @@
 {
   "Version": "2.0",
-  "UpdateHash": "c85851d72d5a13b9a69644f41e9037ddb62587aa1578c01bed1fc5de624cc44d",
-  "LastCheck": "2026-07-05T14:14:31.293309345+00:00",
+  "UpdateHash": "ac6e47fca991189eaefac4733b34f42853fd8dfc4d464d0cf82425e772efb802",
+  "LastCheck": "2026-07-05T19:48:53.098005682+00:00",
   "OSVersions": [
     {
       "OSVersion": "26",
@@ -1933,7 +1933,7 @@
           "ExpirationDate": "2026-07-21",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/126793",
-          "SecurityInfoContext": "iOS 18.7.7 was released on March 24, 2026. This update has no published CVE entries. Newer updates are now available, so please check to see if they apply to your devices.",
+          "SecurityInfoContext": "iOS 18.7.7 was released on March 24, 2026. This release addressed 26 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
           "SupportedDevices": [
             "iPad11,1",
             "iPad11,2",
@@ -2024,14 +2024,41 @@
             "iPhone17,4",
             "iPhone17,5"
           ],
-          "CVEs": {},
+          "CVEs": {
+            "CVE-2025-14524": {},
+            "CVE-2025-43376": {},
+            "CVE-2025-43534": {},
+            "CVE-2025-64505": {},
+            "CVE-2026-20637": {},
+            "CVE-2026-20643": {},
+            "CVE-2026-20657": {},
+            "CVE-2026-20665": {},
+            "CVE-2026-20668": {},
+            "CVE-2026-20687": {},
+            "CVE-2026-20690": {},
+            "CVE-2026-28852": {},
+            "CVE-2026-28860": {},
+            "CVE-2026-28861": {},
+            "CVE-2026-28864": {},
+            "CVE-2026-28865": {},
+            "CVE-2026-28866": {},
+            "CVE-2026-28867": {},
+            "CVE-2026-28868": {},
+            "CVE-2026-28871": {},
+            "CVE-2026-28876": {},
+            "CVE-2026-28878": {},
+            "CVE-2026-28879": {},
+            "CVE-2026-28880": {},
+            "CVE-2026-28886": {},
+            "CVE-2026-28967": {}
+          },
           "ActivelyExploitedCVEs": [],
-          "UniqueCVEsCount": 0,
+          "UniqueCVEsCount": 26,
           "DaysSincePreviousRelease": 20,
           "update_summary": {
-            "priority": "low",
-            "summary": "Maintenance update with no published CVE entries",
-            "recommendation": "Update recommended - may include unpublished security improvements",
+            "priority": "high",
+            "summary": "Addresses 26 security issues",
+            "recommendation": "Update to stay secure - security fixes available",
             "stats": {
               "exploited": 0,
               "critical": 0,
@@ -2039,7 +2066,7 @@
               "medium": 0,
               "low": 0,
               "remote": 0,
-              "total": 0
+              "total": 26
             }
           }
         },
