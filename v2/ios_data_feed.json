@@ -1,7 +1,7 @@
 {
   "Version": "2.0",
-  "UpdateHash": "78bd3a1235d64f29008221450bb491e28472f546d4be834dae1377cbaa895d5c",
-  "LastCheck": "2026-07-06T04:48:20.146029110+00:00",
+  "UpdateHash": "c7ca78f462811e2184945ccf5ed2cfcfa36eb0b0ecbd0b38b4bef8c3ae38c4aa",
+  "LastCheck": "2026-07-06T11:10:37.707962714+00:00",
   "OSVersions": [
     {
       "OSVersion": "26",
@@ -352,7 +352,7 @@
             "23F6081"
           ],
           "ReleaseDate": "2026-06-01T00:00:00Z",
-          "ExpirationDate": "2026-10-04",
+          "ExpirationDate": "2026-09-27",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/100100",
           "SecurityInfoContext": "iOS 26.5.1 was released on June 01, 2026. This update has no published CVE entries. Newer updates are now available, so please check to see if they apply to your devices.",
