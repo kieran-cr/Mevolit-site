@@ -1,7 +1,7 @@
 {
-  "content_hash": "a6431a88ca07baf3a70fe3a50d13c37bf51fe057222a211896a22749be578189",
+  "content_hash": "e6d2cde61acbbcbefbc025c1354aacaa412427f415728592285812c5375842ad",
   "content_changed": true,
-  "generated_at": "2026-07-20T20:16:26.265676473Z",
+  "generated_at": "2026-07-21T03:53:15.689368451Z",
   "latest_releases": {
     "macos": {
       "version": "26.5.2",
@@ -396,13 +396,13 @@
       "released": "2026-07-20"
     },
     "watchos": {
-      "version": "26.6 RC",
-      "build": "23U67",
+      "version": "27.0 beta 4",
+      "build": "24R5325h",
       "released": "2026-07-20"
     },
     "visionos": {
-      "version": "26.6 RC",
-      "build": "23O770",
+      "version": "27.0 beta 4",
+      "build": "24M5326g",
       "released": "2026-07-20"
     }
   },
