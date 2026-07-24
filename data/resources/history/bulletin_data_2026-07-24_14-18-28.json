@@ -1,0 +1,199 @@
+{
+  "content_hash": "495ae25a0888fe9332184c1914d43c4dc1c01bdd263d92ea07f0766a28fad58c",
+  "content_changed": true,
+  "generated_at": "2026-07-24T14:18:28.892035588Z",
+  "latest_releases": {
+    "macos": {
+      "version": "",
+      "build": "",
+      "release_date": "",
+      "url": "",
+      "cves_fixed": [],
+      "actively_exploited_count": 0,
+      "total_cve_count": 0,
+      "enterprise_link": null,
+      "updates_link": null
+    },
+    "ios": {
+      "version": "",
+      "build": "",
+      "release_date": "",
+      "url": "",
+      "cves_fixed": [],
+      "actively_exploited_count": 0,
+      "total_cve_count": 0,
+      "enterprise_link": null,
+      "updates_link": null
+    },
+    "ipados": {
+      "version": "",
+      "build": "",
+      "release_date": "",
+      "url": "",
+      "cves_fixed": [],
+      "actively_exploited_count": 0,
+      "total_cve_count": 0,
+      "enterprise_link": null,
+      "updates_link": null
+    },
+    "tvos": {
+      "version": "",
+      "build": "",
+      "release_date": "",
+      "url": "",
+      "cves_fixed": [],
+      "actively_exploited_count": 0,
+      "total_cve_count": 0,
+      "enterprise_link": null,
+      "updates_link": null
+    },
+    "watchos": {
+      "version": "",
+      "build": "",
+      "release_date": "",
+      "url": "",
+      "cves_fixed": [],
+      "actively_exploited_count": 0,
+      "total_cve_count": 0,
+      "enterprise_link": null,
+      "updates_link": null
+    },
+    "visionos": {
+      "version": "",
+      "build": "",
+      "release_date": "",
+      "url": "",
+      "cves_fixed": [],
+      "actively_exploited_count": 0,
+      "total_cve_count": 0,
+      "enterprise_link": null,
+      "updates_link": null
+    },
+    "safari": {
+      "version": "",
+      "build": "",
+      "release_date": "",
+      "url": "",
+      "cves_fixed": [],
+      "actively_exploited_count": 0,
+      "total_cve_count": 0,
+      "enterprise_link": null,
+      "updates_link": null
+    }
+  },
+  "security_summary": {
+    "unique_cves_fixed": 0,
+    "kev_matches": 0,
+    "latest_wave_date": "",
+    "kev_cve_list": []
+  },
+  "beta_releases": {
+    "latest_wave": "2026-07-20",
+    "macos": {
+      "version": "27.0 beta 4",
+      "build": "26A5388g",
+      "released": "2026-07-20"
+    },
+    "ios": {
+      "version": "27.0 beta 4",
+      "build": "24A5390f",
+      "released": "2026-07-20"
+    },
+    "ipados": {
+      "version": "27.0 beta 4",
+      "build": "24A5390f",
+      "released": "2026-07-20"
+    },
+    "tvos": {
+      "version": "27.0 beta 4",
+      "build": "24J5325d",
+      "released": "2026-07-20"
+    },
+    "watchos": {
+      "version": "27.0 beta 4",
+      "build": "24R5325h",
+      "released": "2026-07-20"
+    },
+    "visionos": {
+      "version": "27.0 beta 4",
+      "build": "24M5326g",
+      "released": "2026-07-20"
+    }
+  },
+  "recent_releases": [
+    {
+      "release_date": "2026-06-29",
+      "name": "Safari 26.5.2",
+      "platform": "safari",
+      "version": "26.5.2",
+      "url": "https://support.apple.com/en-us/127685"
+    },
+    {
+      "release_date": "2026-06-29",
+      "name": "iOS 26.5.2 and iPadOS 26.5.2",
+      "platform": "ios",
+      "version": "26.5.2",
+      "url": "https://support.apple.com/en-us/127594"
+    },
+    {
+      "release_date": "2026-06-29",
+      "name": "macOS Tahoe 26.5.2",
+      "platform": "macos",
+      "version": "26.5.2",
+      "url": "https://support.apple.com/en-us/127595"
+    },
+    {
+      "release_date": "2026-06-16",
+      "name": "Beats Firmware Update 1B211",
+      "platform": "other",
+      "version": "",
+      "url": "https://support.apple.com/en-us/127557"
+    },
+    {
+      "release_date": "2026-06-01",
+      "name": "iOS 26.5.1",
+      "platform": "ios",
+      "version": "26.5.1",
+      "url": "https://support.apple.com/en-us/100100"
+    },
+    {
+      "release_date": "2026-06-01",
+      "name": "macOS Tahoe 26.5.1",
+      "platform": "macos",
+      "version": "26.5.1",
+      "url": "https://support.apple.com/en-us/100100"
+    },
+    {
+      "release_date": "2026-05-13",
+      "name": "Safari 26.5",
+      "platform": "safari",
+      "version": "26.5",
+      "url": "https://support.apple.com/en-us/127121"
+    },
+    {
+      "release_date": "2026-05-11",
+      "name": "iOS 15.8.8 and iPadOS 15.8.8",
+      "platform": "ios",
+      "version": "15.8.8",
+      "url": "https://support.apple.com/en-us/127114"
+    },
+    {
+      "release_date": "2026-05-11",
+      "name": "iOS 16.7.16 and iPadOS 16.7.16",
+      "platform": "ios",
+      "version": "16.7.16",
+      "url": "https://support.apple.com/en-us/127113",
+      "enterprise_link": "https://support.apple.com/en-ca/101584",
+      "updates_link": "https://support.apple.com/en-ca/101566"
+    },
+    {
+      "release_date": "2026-05-11",
+      "name": "iOS 18.7.9 and iPadOS 18.7.9",
+      "platform": "ios",
+      "version": "18.7.9",
+      "url": "https://support.apple.com/en-us/127111",
+      "enterprise_link": "https://support.apple.com/en-ca/121158",
+      "updates_link": "https://support.apple.com/en-ca/121161"
+    }
+  ]
+}
