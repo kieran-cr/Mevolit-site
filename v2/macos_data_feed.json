@@ -1,7 +1,7 @@
 {
   "Version": "2.0",
-  "UpdateHash": "a0a322a61d4ca56a828bbddfb75e7684e0be1be14ac8225fb273f98adb700dfa",
-  "LastCheck": "2026-07-27T15:20:29.096290351+00:00",
+  "UpdateHash": "1984d2a32af58f1bf26b59850b05235f89ea86ceb375e3d136065d21012d9031",
+  "LastCheck": "2026-07-27T18:19:44.731289365+00:00",
   "OSVersions": [
     {
       "OSVersion": "Tahoe 26",
@@ -16320,7 +16320,7 @@
           "AllBuilds": [],
           "ReleaseDate": "2021-09-20T00:00:00Z",
           "ReleaseType": "OS",
-          "SecurityInfo": "https://support.apple.com/en-us/121247",
+          "SecurityInfo": "https://support.apple.com/en-us/125888",
           "SecurityInfoContext": "macOS 12.0 was released on . This update has no published CVE entries. Newer updates are now available, so please check to see if they apply to your devices.",
           "SupportedDevices": [
             "J132AP",
@@ -17668,13 +17668,13 @@
     }
   },
   "XProtectPlistConfigData": {
-    "ReleaseDate": "2026-07-24T17:04:33Z",
-    "com.apple.XProtect": "5352"
+    "com.apple.XProtect": "5352",
+    "ReleaseDate": "2026-07-24T17:04:33Z"
   },
   "XProtectPayloads": {
     "com.apple.XProtectFramework.XProtect": "157",
-    "com.apple.XprotectFramework.PluginService": "74",
-    "ReleaseDate": "2026-07-24T17:04:33Z"
+    "ReleaseDate": "2026-07-24T17:04:33Z",
+    "com.apple.XprotectFramework.PluginService": "74"
   },
   "BackgroundSecurityImprovements": {
     "26": [
@@ -17983,10 +17983,10 @@
       }
     ],
     "LatestMacIPSW": {
-      "macos_ipsw_url": "https://updates.cdn-apple.com/2026SpringFCS/fullrestores/140-24263/B95838F0-6815-4F0B-A039-156526C081AD/UniversalMac_26.5.2_25F84_Restore.ipsw",
-      "macos_ipsw_build": "25F84",
-      "macos_ipsw_version": "26.5.2",
-      "macos_ipsw_apple_slug": "140-24263"
+      "macos_ipsw_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw",
+      "macos_ipsw_build": "25G72",
+      "macos_ipsw_version": "26.6",
+      "macos_ipsw_apple_slug": "140-65618"
     }
   }
 }

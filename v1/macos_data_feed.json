@@ -15686,10 +15686,10 @@
       }
     ],
     "LatestMacIPSW": {
-      "macos_ipsw_url": "https://updates.cdn-apple.com/2026SpringFCS/fullrestores/140-24263/B95838F0-6815-4F0B-A039-156526C081AD/UniversalMac_26.5.2_25F84_Restore.ipsw",
-      "macos_ipsw_build": "25F84",
-      "macos_ipsw_version": "26.5.2",
-      "macos_ipsw_apple_slug": "140-24263"
+      "macos_ipsw_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw",
+      "macos_ipsw_build": "25G72",
+      "macos_ipsw_version": "26.6",
+      "macos_ipsw_apple_slug": "140-65618"
     }
   }
 }
