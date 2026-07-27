@@ -1,5 +1,5 @@
 {
-  "update_hash": "sha256:26d2555578cdc80f72118937e40c2e3e89c1c9fe116502630c60ce4974ba28c3",
+  "update_hash": "sha256:3e368e238601d12afc60352b772cc56aff006efcf657fdc61c657cc8559e8864",
   "devices": [
     {
       "name": "iPhone 2G",
@@ -1952,6 +1952,15 @@
   "signing_status": {
     "MacBookPro18,1": [
       {
+        "version": "26.6",
+        "buildid": "25G72",
+        "signed": true,
+        "signing_started": null,
+        "signing_stopped": null,
+        "url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw",
+        "filesize": 19772077142
+      },
+      {
         "version": "26.5.2",
         "buildid": "25F84",
         "signed": true,
@@ -2493,6 +2502,15 @@
       }
     ],
     "iPad13,16": [
+      {
+        "version": "26.6",
+        "buildid": "23G71",
+        "signed": true,
+        "signing_started": null,
+        "signing_stopped": null,
+        "url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-58530/16D0FA8B-5CA6-4F6D-A51D-831CEC73623E/iPad_Spring_2022_26.6_23G71_Restore.ipsw",
+        "filesize": 10479606245
+      },
       {
         "version": "26.5.2",
         "buildid": "23F84",
@@ -3053,6 +3071,15 @@
       }
     ],
     "iPhone14,2": [
+      {
+        "version": "26.6",
+        "buildid": "23G71",
+        "signed": true,
+        "signing_started": null,
+        "signing_stopped": null,
+        "url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57305/E76D02CF-BEF3-4CEA-A520-9B257FEDF4AC/iPhone14,2_26.6_23G71_Restore.ipsw",
+        "filesize": 10458343088
+      },
       {
         "version": "26.5.2",
         "buildid": "23F84",
@@ -3740,6 +3767,15 @@
     ],
     "iPhone15,2": [
       {
+        "version": "26.6",
+        "buildid": "23G71",
+        "signed": true,
+        "signing_started": null,
+        "signing_stopped": null,
+        "url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-58069/DC46C43C-96FE-48F2-AE4D-7DF3201B1AF1/iPhone15,2_26.6_23G71_Restore.ipsw",
+        "filesize": 10503551624
+      },
+      {
         "version": "26.5.2",
         "buildid": "23F84",
         "signed": true,
@@ -4309,12 +4345,12 @@
     ]
   },
   "macos_ipsw": {
-    "version": "26.5.2",
-    "build": "25F84",
-    "url": "https://updates.cdn-apple.com/2026SpringFCS/fullrestores/140-24263/B95838F0-6815-4F0B-A039-156526C081AD/UniversalMac_26.5.2_25F84_Restore.ipsw",
-    "apple_slug": "140-24263",
-    "fetch_timestamp": "2026-07-27T10:13:06.329368790Z"
+    "version": "26.6",
+    "build": "25G72",
+    "url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw",
+    "apple_slug": "140-65618",
+    "fetch_timestamp": "2026-07-27T20:15:49.639580976Z"
   },
   "total_devices": 277,
-  "total_firmwares": 261
+  "total_firmwares": 265
 }
