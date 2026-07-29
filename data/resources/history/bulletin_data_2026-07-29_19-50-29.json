@@ -1,7 +1,7 @@
 {
-  "content_hash": "3ef29b3468ecb9b98f662a2c00746aa4db187bf2870649c228e59b3306fde0e0",
+  "content_hash": "8aac2806784d55242ea71e3e818bfea91b432cd2f697b73734bb6a59b5feb34c",
   "content_changed": true,
-  "generated_at": "2026-07-27T20:16:18.820293553Z",
+  "generated_at": "2026-07-29T19:50:29.961638020Z",
   "latest_releases": {
     "macos": {
       "version": "26.6",
@@ -30,7 +30,6 @@
         "CVE-2026-43682",
         "CVE-2026-43693",
         "CVE-2026-43694",
-        "CVE-2026-43698",
         "CVE-2026-43710",
         "CVE-2026-43711",
         "CVE-2026-43714",
@@ -40,7 +39,6 @@
         "CVE-2026-43730",
         "CVE-2026-43733",
         "CVE-2026-43739",
-        "CVE-2026-43740",
         "CVE-2026-43744",
         "CVE-2026-43747",
         "CVE-2026-43748",
@@ -166,7 +164,7 @@
         "CVE-2026-64783"
       ],
       "actively_exploited_count": 0,
-      "total_cve_count": 155,
+      "total_cve_count": 153,
       "enterprise_link": null,
       "updates_link": null
     },
@@ -189,7 +187,6 @@
         "CVE-2026-43730",
         "CVE-2026-43733",
         "CVE-2026-43739",
-        "CVE-2026-43740",
         "CVE-2026-43744",
         "CVE-2026-43753",
         "CVE-2026-43769",
@@ -265,7 +262,7 @@
         "CVE-2026-64783"
       ],
       "actively_exploited_count": 0,
-      "total_cve_count": 87,
+      "total_cve_count": 86,
       "enterprise_link": null,
       "updates_link": null
     },
@@ -288,7 +285,6 @@
         "CVE-2026-43730",
         "CVE-2026-43733",
         "CVE-2026-43739",
-        "CVE-2026-43740",
         "CVE-2026-43744",
         "CVE-2026-43753",
         "CVE-2026-43769",
@@ -364,7 +360,7 @@
         "CVE-2026-64783"
       ],
       "actively_exploited_count": 0,
-      "total_cve_count": 87,
+      "total_cve_count": 86,
       "enterprise_link": null,
       "updates_link": null
     },
@@ -709,7 +705,6 @@
       "release_date": "2026-07-27T00:00:00Z",
       "url": "https://support.apple.com/en-us/128073",
       "cves_fixed": [
-        "CVE-2026-43740",
         "CVE-2026-43792",
         "CVE-2026-43804",
         "CVE-2026-43821",
@@ -722,13 +717,13 @@
         "CVE-2026-64783"
       ],
       "actively_exploited_count": 0,
-      "total_cve_count": 11,
+      "total_cve_count": 10,
       "enterprise_link": null,
       "updates_link": null
     }
   },
   "security_summary": {
-    "unique_cves_fixed": 194,
+    "unique_cves_fixed": 193,
     "kev_matches": 0,
     "latest_wave_date": "2026-07-27T00:00:00Z",
     "kev_cve_list": []
