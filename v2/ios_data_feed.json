@@ -1,7 +1,7 @@
 {
   "Version": "2.0",
-  "UpdateHash": "a50ec96099475079de1ec09a2d746ec4d840fcd991045de4003598245c31af02",
-  "LastCheck": "2026-07-29T14:37:31.924631034+00:00",
+  "UpdateHash": "a76f89857955460c137e3cb50636bf6c7d9ee618f25d876f38c0c7a0f1abc7ac",
+  "LastCheck": "2026-07-29T18:02:28.723245764+00:00",
   "OSVersions": [
     {
       "OSVersion": "26",
@@ -22,7 +22,7 @@
         "ExpirationDate": "2026-10-27",
         "ReleaseType": "OS",
         "SecurityInfo": "https://support.apple.com/en-us/128066",
-        "SecurityInfoContext": "iOS has been updated to version 26.6, which was released on July 27, 2026. This update addresses 87 security issues and is the most recent approved version.",
+        "SecurityInfoContext": "iOS has been updated to version 26.6, which was released on July 27, 2026. This update addresses 86 security issues and is the most recent approved version.",
         "SupportedDevices": [
           "iPad11,1",
           "iPad11,2",
@@ -134,7 +134,6 @@
           "CVE-2026-43730": {},
           "CVE-2026-43733": {},
           "CVE-2026-43739": {},
-          "CVE-2026-43740": {},
           "CVE-2026-43744": {},
           "CVE-2026-43753": {},
           "CVE-2026-43769": {},
@@ -210,11 +209,11 @@
           "CVE-2026-64783": {}
         },
         "ActivelyExploitedCVEs": [],
-        "UniqueCVEsCount": 87,
+        "UniqueCVEsCount": 86,
         "DaysSincePreviousRelease": 28,
         "update_summary": {
           "priority": "high",
-          "summary": "Addresses 87 security issues",
+          "summary": "Addresses 86 security issues",
           "recommendation": "Update to stay secure - security fixes available",
           "stats": {
             "exploited": 0,
@@ -223,7 +222,7 @@
             "medium": 0,
             "low": 0,
             "remote": 0,
-            "total": 87
+            "total": 86
           }
         }
       },
@@ -245,7 +244,7 @@
           "ExpirationDate": "2026-10-27",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/128066",
-          "SecurityInfoContext": "iOS has been updated to version 26.6, which was released on July 27, 2026. This update addresses 87 security issues and is the most recent approved version.",
+          "SecurityInfoContext": "iOS has been updated to version 26.6, which was released on July 27, 2026. This update addresses 86 security issues and is the most recent approved version.",
           "SupportedDevices": [
             "iPad11,1",
             "iPad11,2",
@@ -357,7 +356,6 @@
             "CVE-2026-43730": {},
             "CVE-2026-43733": {},
             "CVE-2026-43739": {},
-            "CVE-2026-43740": {},
             "CVE-2026-43744": {},
             "CVE-2026-43753": {},
             "CVE-2026-43769": {},
@@ -433,11 +431,11 @@
             "CVE-2026-64783": {}
           },
           "ActivelyExploitedCVEs": [],
-          "UniqueCVEsCount": 87,
+          "UniqueCVEsCount": 86,
           "DaysSincePreviousRelease": 28,
           "update_summary": {
             "priority": "high",
-            "summary": "Addresses 87 security issues",
+            "summary": "Addresses 86 security issues",
             "recommendation": "Update to stay secure - security fixes available",
             "stats": {
               "exploited": 0,
@@ -446,7 +444,7 @@
               "medium": 0,
               "low": 0,
               "remote": 0,
-              "total": 87
+              "total": 86
             }
           }
         },
