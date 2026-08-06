@@ -1,8 +1,8 @@
 {
   "OSName": "tvOS",
   "Version": "2.0",
-  "UpdateHash": "6fb60f90846daffd4812ab8fb028f31fe6043f8277e0373e30a9beaec96099b1",
-  "LastCheck": "2026-08-05T20:21:30.344603676+00:00",
+  "UpdateHash": "b0ab3f5116652cca6a4becc6e25809a824d9b5f8eb6f4f72eb2f30f669a28fab",
+  "LastCheck": "2026-08-06T03:47:39.303171398+00:00",
   "OSVersions": [
     {
       "OSVersion": "tvOS 26",
@@ -16,7 +16,7 @@
           "23L6773"
         ],
         "ReleaseDate": "2026-07-27",
-        "ExpirationDate": "2026-11-03",
+        "ExpirationDate": "2026-11-04",
         "ReleaseType": "OS",
         "SecurityInfo": "https://support.apple.com/en-us/128069",
         "SecurityInfoContext": "tvOS has been updated to version 26.6, which was released on July 27, 2026. This update addresses 100 security issues and is the most recent approved version.",
@@ -157,7 +157,7 @@
             "23L6773"
           ],
           "ReleaseDate": "2026-07-27",
-          "ExpirationDate": "2026-11-03",
+          "ExpirationDate": "2026-11-04",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/128069",
           "SecurityInfoContext": "tvOS has been updated to version 26.6, which was released on July 27, 2026. This update addresses 100 security issues and is the most recent approved version.",
