@@ -707,10 +707,10 @@
   "Mac13,1": {
     "MarketingName": "Mac Studio (2022)",
     "SupportedOS": [
-      "Monterey 12",
-      "Ventura 13",
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
+      "Ventura 13",
+      "Monterey 12",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -724,10 +724,10 @@
   "Mac13,2": {
     "MarketingName": "Mac Studio (2022)",
     "SupportedOS": [
-      "Monterey 12",
-      "Ventura 13",
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
+      "Ventura 13",
+      "Monterey 12",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -741,9 +741,9 @@
   "Mac14,10": {
     "MarketingName": "MacBook Pro (16-inch, 2023)",
     "SupportedOS": [
-      "Ventura 13",
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
+      "Ventura 13",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -756,10 +756,10 @@
   "Mac14,12": {
     "MarketingName": "Mac mini (2023)",
     "SupportedOS": [
-      "Monterey 12",
-      "Ventura 13",
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
+      "Ventura 13",
+      "Monterey 12",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -773,9 +773,9 @@
   "Mac14,13": {
     "MarketingName": "Mac Studio (2023)",
     "SupportedOS": [
-      "Ventura 13",
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
+      "Ventura 13",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -788,9 +788,9 @@
   "Mac14,14": {
     "MarketingName": "Mac Studio (2023)",
     "SupportedOS": [
-      "Ventura 13",
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
+      "Ventura 13",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -803,9 +803,9 @@
   "Mac14,15": {
     "MarketingName": "MacBook Air (15-inch, M2, 2023)",
     "SupportedOS": [
-      "Ventura 13",
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
+      "Ventura 13",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -818,10 +818,10 @@
   "Mac14,2": {
     "MarketingName": "MacBook Air (M2, 2022)",
     "SupportedOS": [
-      "Monterey 12",
-      "Ventura 13",
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
+      "Ventura 13",
+      "Monterey 12",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -835,10 +835,10 @@
   "Mac14,3": {
     "MarketingName": "Mac mini (2023)",
     "SupportedOS": [
-      "Monterey 12",
-      "Ventura 13",
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
+      "Ventura 13",
+      "Monterey 12",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -852,9 +852,9 @@
   "Mac14,5": {
     "MarketingName": "MacBook Pro (14-inch, 2023)",
     "SupportedOS": [
-      "Ventura 13",
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
+      "Ventura 13",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -867,9 +867,9 @@
   "Mac14,6": {
     "MarketingName": "MacBook Pro (16-inch, 2023)",
     "SupportedOS": [
-      "Ventura 13",
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
+      "Ventura 13",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -882,9 +882,9 @@
   "Mac14,7": {
     "MarketingName": "MacBook Pro (13-inch, M2, 2022)",
     "SupportedOS": [
-      "Ventura 13",
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
+      "Ventura 13",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -897,9 +897,9 @@
   "Mac14,8": {
     "MarketingName": "Mac Pro (2023)",
     "SupportedOS": [
-      "Ventura 13",
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
+      "Ventura 13",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -912,9 +912,9 @@
   "Mac14,9": {
     "MarketingName": "MacBook Pro (14-inch, 2023)",
     "SupportedOS": [
-      "Ventura 13",
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
+      "Ventura 13",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -927,9 +927,9 @@
   "Mac15,10": {
     "MarketingName": "MacBook Pro (14-inch, Nov 2023)",
     "SupportedOS": [
-      "Ventura 13",
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
+      "Ventura 13",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -942,9 +942,9 @@
   "Mac15,11": {
     "MarketingName": "MacBook Pro (16-inch, Nov 2023)",
     "SupportedOS": [
-      "Ventura 13",
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
+      "Ventura 13",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -957,8 +957,8 @@
   "Mac15,12": {
     "MarketingName": "MacBook Air (13-inch, M3, 2024)",
     "SupportedOS": [
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -970,8 +970,8 @@
   "Mac15,13": {
     "MarketingName": "MacBook Air (15-inch, M3, 2024)",
     "SupportedOS": [
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -994,9 +994,9 @@
   "Mac15,3": {
     "MarketingName": "MacBook Pro (14-inch, Nov 2023)",
     "SupportedOS": [
-      "Ventura 13",
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
+      "Ventura 13",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -1009,9 +1009,9 @@
   "Mac15,4": {
     "MarketingName": "iMac (24-inch, 2023)",
     "SupportedOS": [
-      "Ventura 13",
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
+      "Ventura 13",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -1024,9 +1024,9 @@
   "Mac15,5": {
     "MarketingName": "iMac (24-inch, 2023)",
     "SupportedOS": [
-      "Ventura 13",
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
+      "Ventura 13",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -1039,9 +1039,9 @@
   "Mac15,6": {
     "MarketingName": "MacBook Pro (14-inch, Nov 2023)",
     "SupportedOS": [
-      "Ventura 13",
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
+      "Ventura 13",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -1054,9 +1054,9 @@
   "Mac15,7": {
     "MarketingName": "MacBook Pro (16-inch, Nov 2023)",
     "SupportedOS": [
-      "Ventura 13",
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
+      "Ventura 13",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -1069,9 +1069,9 @@
   "Mac15,8": {
     "MarketingName": "MacBook Pro (14-inch, Nov 2023)",
     "SupportedOS": [
-      "Ventura 13",
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
+      "Ventura 13",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -1084,9 +1084,9 @@
   "Mac15,9": {
     "MarketingName": "MacBook Pro (16-inch, Nov 2023)",
     "SupportedOS": [
-      "Ventura 13",
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
+      "Ventura 13",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -1240,8 +1240,8 @@
   "MacBook10,1": {
     "MarketingName": "MacBook (Retina, 12-inch, 2017)",
     "SupportedOS": [
-      "Monterey 12",
-      "Ventura 13"
+      "Ventura 13",
+      "Monterey 12"
     ],
     "OSVersions": [
       12,
@@ -1260,10 +1260,10 @@
   "MacBookAir10,1": {
     "MarketingName": "MacBook Air (M1, 2020)",
     "SupportedOS": [
-      "Monterey 12",
-      "Ventura 13",
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
+      "Ventura 13",
+      "Monterey 12",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -1295,9 +1295,9 @@
   "MacBookAir8,1": {
     "MarketingName": "MacBook Air (Retina, 13-inch, 2018)",
     "SupportedOS": [
-      "Monterey 12",
+      "Sonoma 14",
       "Ventura 13",
-      "Sonoma 14"
+      "Monterey 12"
     ],
     "OSVersions": [
       12,
@@ -1308,9 +1308,9 @@
   "MacBookAir8,2": {
     "MarketingName": "MacBook Air (Retina, 13-inch, 2019)",
     "SupportedOS": [
-      "Monterey 12",
+      "Sonoma 14",
       "Ventura 13",
-      "Sonoma 14"
+      "Monterey 12"
     ],
     "OSVersions": [
       12,
@@ -1321,9 +1321,9 @@
   "MacBookAir9,1": {
     "MarketingName": "MacBook Air (Retina, 13-inch, 2020)",
     "SupportedOS": [
-      "Monterey 12",
-      "Ventura 13",
       "Sonoma 14",
+      "Ventura 13",
+      "Monterey 12",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -1390,8 +1390,8 @@
   "MacBookPro14,1": {
     "MarketingName": "MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)",
     "SupportedOS": [
-      "Monterey 12",
-      "Ventura 13"
+      "Ventura 13",
+      "Monterey 12"
     ],
     "OSVersions": [
       12,
@@ -1401,8 +1401,8 @@
   "MacBookPro14,2": {
     "MarketingName": "MacBook Pro (13-inch, 2017, Four Thunderbolt 3 ports)",
     "SupportedOS": [
-      "Monterey 12",
-      "Ventura 13"
+      "Ventura 13",
+      "Monterey 12"
     ],
     "OSVersions": [
       12,
@@ -1412,8 +1412,8 @@
   "MacBookPro14,3": {
     "MarketingName": "MacBook Pro (15-inch, 2017)",
     "SupportedOS": [
-      "Monterey 12",
-      "Ventura 13"
+      "Ventura 13",
+      "Monterey 12"
     ],
     "OSVersions": [
       12,
@@ -1423,9 +1423,9 @@
   "MacBookPro15,1": {
     "MarketingName": "MacBook Pro (15-inch, 2018)",
     "SupportedOS": [
-      "Monterey 12",
-      "Ventura 13",
       "Sonoma 14",
+      "Ventura 13",
+      "Monterey 12",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -1438,9 +1438,9 @@
   "MacBookPro15,2": {
     "MarketingName": "MacBook Pro (13-inch, 2018, Four Thunderbolt 3 ports)",
     "SupportedOS": [
-      "Monterey 12",
-      "Ventura 13",
       "Sonoma 14",
+      "Ventura 13",
+      "Monterey 12",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -1453,9 +1453,9 @@
   "MacBookPro15,3": {
     "MarketingName": "MacBook Pro (15-inch, 2018)",
     "SupportedOS": [
-      "Monterey 12",
-      "Ventura 13",
       "Sonoma 14",
+      "Ventura 13",
+      "Monterey 12",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -1468,9 +1468,9 @@
   "MacBookPro15,4": {
     "MarketingName": "MacBook Pro (13-inch, 2019, Two Thunderbolt 3 ports)",
     "SupportedOS": [
-      "Monterey 12",
-      "Ventura 13",
       "Sonoma 14",
+      "Ventura 13",
+      "Monterey 12",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -1483,10 +1483,10 @@
   "MacBookPro16,1": {
     "MarketingName": "MacBook Pro (16-inch, 2019)",
     "SupportedOS": [
-      "Monterey 12",
-      "Ventura 13",
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
+      "Ventura 13",
+      "Monterey 12",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -1500,10 +1500,10 @@
   "MacBookPro16,2": {
     "MarketingName": "MacBook Pro (13-inch, 2020, Four Thunderbolt 3 ports)",
     "SupportedOS": [
-      "Monterey 12",
-      "Ventura 13",
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
+      "Ventura 13",
+      "Monterey 12",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -1517,9 +1517,9 @@
   "MacBookPro16,3": {
     "MarketingName": "MacBook Pro (13-inch, 2020, Two Thunderbolt 3 ports)",
     "SupportedOS": [
-      "Monterey 12",
-      "Ventura 13",
       "Sonoma 14",
+      "Ventura 13",
+      "Monterey 12",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -1532,10 +1532,10 @@
   "MacBookPro16,4": {
     "MarketingName": "MacBook Pro (16-inch, 2019)",
     "SupportedOS": [
-      "Monterey 12",
-      "Ventura 13",
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
+      "Ventura 13",
+      "Monterey 12",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -1549,10 +1549,10 @@
   "MacBookPro17,1": {
     "MarketingName": "MacBook Pro (13-inch, M1, 2020)",
     "SupportedOS": [
-      "Monterey 12",
-      "Ventura 13",
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
+      "Ventura 13",
+      "Monterey 12",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -1566,9 +1566,9 @@
   "MacBookPro18,1": {
     "MarketingName": "MacBook Pro (16-inch, 2021)",
     "SupportedOS": [
-      "Ventura 13",
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
+      "Ventura 13",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -1581,9 +1581,9 @@
   "MacBookPro18,2": {
     "MarketingName": "MacBook Pro (16-inch, 2021)",
     "SupportedOS": [
-      "Ventura 13",
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
+      "Ventura 13",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -1596,9 +1596,9 @@
   "MacBookPro18,3": {
     "MarketingName": "MacBook Pro (14-inch, 2021)",
     "SupportedOS": [
-      "Ventura 13",
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
+      "Ventura 13",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -1611,9 +1611,9 @@
   "MacBookPro18,4": {
     "MarketingName": "MacBook Pro (14-inch, 2021)",
     "SupportedOS": [
-      "Ventura 13",
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
+      "Ventura 13",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -1635,10 +1635,10 @@
   "MacPro7,1": {
     "MarketingName": "Mac Pro (2019)",
     "SupportedOS": [
-      "Monterey 12",
-      "Ventura 13",
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
+      "Ventura 13",
+      "Monterey 12",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -1661,9 +1661,9 @@
   "Macmini8,1": {
     "MarketingName": "Mac mini (2018)",
     "SupportedOS": [
-      "Monterey 12",
-      "Ventura 13",
       "Sonoma 14",
+      "Ventura 13",
+      "Monterey 12",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -1676,10 +1676,10 @@
   "Macmini9,1": {
     "MarketingName": "Mac mini (M1, 2020)",
     "SupportedOS": [
-      "Monterey 12",
-      "Ventura 13",
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
+      "Ventura 13",
+      "Monterey 12",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -2053,8 +2053,8 @@
   "iMac18,1": {
     "MarketingName": "iMac (21.5-inch, 2017)",
     "SupportedOS": [
-      "Monterey 12",
-      "Ventura 13"
+      "Ventura 13",
+      "Monterey 12"
     ],
     "OSVersions": [
       12,
@@ -2064,8 +2064,8 @@
   "iMac18,2": {
     "MarketingName": "iMac (Retina 4K, 21.5-inch, 2017)",
     "SupportedOS": [
-      "Monterey 12",
-      "Ventura 13"
+      "Ventura 13",
+      "Monterey 12"
     ],
     "OSVersions": [
       12,
@@ -2075,8 +2075,8 @@
   "iMac18,3": {
     "MarketingName": "iMac (Retina 5K, 27-inch, 2017)",
     "SupportedOS": [
-      "Monterey 12",
-      "Ventura 13"
+      "Ventura 13",
+      "Monterey 12"
     ],
     "OSVersions": [
       12,
@@ -2086,9 +2086,9 @@
   "iMac19,1": {
     "MarketingName": "iMac (Retina 5K, 27-inch, 2019)",
     "SupportedOS": [
-      "Monterey 12",
-      "Ventura 13",
       "Sonoma 14",
+      "Ventura 13",
+      "Monterey 12",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -2101,9 +2101,9 @@
   "iMac19,2": {
     "MarketingName": "iMac (Retina 4K, 21.5-inch, 2019)",
     "SupportedOS": [
-      "Monterey 12",
-      "Ventura 13",
       "Sonoma 14",
+      "Ventura 13",
+      "Monterey 12",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -2116,10 +2116,10 @@
   "iMac20,1": {
     "MarketingName": "iMac (Retina 5K, 27-inch, 2020)",
     "SupportedOS": [
-      "Monterey 12",
-      "Ventura 13",
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
+      "Ventura 13",
+      "Monterey 12",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -2133,10 +2133,10 @@
   "iMac20,2": {
     "MarketingName": "iMac (Retina 5K, 27-inch, 2020)",
     "SupportedOS": [
-      "Monterey 12",
-      "Ventura 13",
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
+      "Ventura 13",
+      "Monterey 12",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -2150,10 +2150,10 @@
   "iMac21,1": {
     "MarketingName": "iMac (24-inch, M1, 2021)",
     "SupportedOS": [
-      "Monterey 12",
-      "Ventura 13",
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
+      "Ventura 13",
+      "Monterey 12",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -2167,10 +2167,10 @@
   "iMac21,2": {
     "MarketingName": "iMac (24-inch, M1, 2021)",
     "SupportedOS": [
-      "Monterey 12",
-      "Ventura 13",
-      "Tahoe 26",
       "Sonoma 14",
+      "Tahoe 26",
+      "Ventura 13",
+      "Monterey 12",
       "Sequoia 15"
     ],
     "OSVersions": [
@@ -2184,9 +2184,9 @@
   "iMacPro1,1": {
     "MarketingName": "iMac Pro",
     "SupportedOS": [
-      "Monterey 12",
-      "Ventura 13",
       "Sonoma 14",
+      "Ventura 13",
+      "Monterey 12",
       "Sequoia 15"
     ],
     "OSVersions": [

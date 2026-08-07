@@ -1,5 +1,5 @@
 {
-  "update_hash": "sha256:83cac7b1275fdd7d98e3d42f8b76e2600716585443a529a5130df66b64d4c4a3",
+  "update_hash": "sha256:0844608a2e947bf0246ab78f4361efb5863e11970bfb8c568aba3af9d984ef94",
   "products": [
     {
       "product_key": "061-26578",
@@ -4216,12 +4216,159 @@
         }
       ],
       "server_metadata": null
+    },
+    {
+      "product_key": "140-88558",
+      "title": "macOS Sonoma",
+      "version": "14.8.9",
+      "build": "23J631",
+      "posting_date": "2026-08-06T17:19:51Z",
+      "size": 13670152950,
+      "packages": [
+        {
+          "url": "https://swcdn.apple.com/content/downloads/13/30/140-88558-A_TN3FIE7J63/p61cqj3ktmcqilz3q64ls4ekp1os9c8qbp/InstallInfo.plist",
+          "size": 181,
+          "integrity_data_url": "https://swcdn.apple.com/content/downloads/13/30/140-88558-A_TN3FIE7J63/p61cqj3ktmcqilz3q64ls4ekp1os9c8qbp/InstallInfo.plist.integrityDataV1",
+          "metadata_url": null
+        },
+        {
+          "url": "https://swcdn.apple.com/content/downloads/13/30/140-88558-A_TN3FIE7J63/p61cqj3ktmcqilz3q64ls4ekp1os9c8qbp/UpdateBrain.zip",
+          "size": 3863653,
+          "integrity_data_url": "https://swcdn.apple.com/content/downloads/13/30/140-88558-A_TN3FIE7J63/p61cqj3ktmcqilz3q64ls4ekp1os9c8qbp/UpdateBrain.zip.integrityDataV1",
+          "metadata_url": null
+        },
+        {
+          "url": "https://swcdn.apple.com/content/downloads/13/30/140-88558-A_TN3FIE7J63/p61cqj3ktmcqilz3q64ls4ekp1os9c8qbp/InstallAssistant.pkg",
+          "size": 13654790295,
+          "integrity_data_url": "https://swcdn.apple.com/content/downloads/13/30/140-88558-A_TN3FIE7J63/p61cqj3ktmcqilz3q64ls4ekp1os9c8qbp/InstallAssistant.pkg.integrityDataV1",
+          "metadata_url": "https://swdist.apple.com/content/downloads/13/30/140-88558-A_TN3FIE7J63/p61cqj3ktmcqilz3q64ls4ekp1os9c8qbp/InstallAssistant.pkm"
+        },
+        {
+          "url": "https://swcdn.apple.com/content/downloads/13/30/140-88558-A_TN3FIE7J63/p61cqj3ktmcqilz3q64ls4ekp1os9c8qbp/Info.plist",
+          "size": 5456,
+          "integrity_data_url": "https://swcdn.apple.com/content/downloads/13/30/140-88558-A_TN3FIE7J63/p61cqj3ktmcqilz3q64ls4ekp1os9c8qbp/Info.plist.integrityDataV1",
+          "metadata_url": null
+        },
+        {
+          "url": "https://swcdn.apple.com/content/downloads/13/30/140-88558-A_TN3FIE7J63/p61cqj3ktmcqilz3q64ls4ekp1os9c8qbp/BuildManifest.plist",
+          "size": 10083730,
+          "integrity_data_url": "https://swcdn.apple.com/content/downloads/13/30/140-88558-A_TN3FIE7J63/p61cqj3ktmcqilz3q64ls4ekp1os9c8qbp/BuildManifest.plist.integrityDataV1",
+          "metadata_url": null
+        },
+        {
+          "url": "https://swcdn.apple.com/content/downloads/13/30/140-88558-A_TN3FIE7J63/p61cqj3ktmcqilz3q64ls4ekp1os9c8qbp/MajorOSInfo.pkg",
+          "size": 1409635,
+          "integrity_data_url": "https://swcdn.apple.com/content/downloads/13/30/140-88558-A_TN3FIE7J63/p61cqj3ktmcqilz3q64ls4ekp1os9c8qbp/MajorOSInfo.pkg.integrityDataV1",
+          "metadata_url": "https://swdist.apple.com/content/downloads/13/30/140-88558-A_TN3FIE7J63/p61cqj3ktmcqilz3q64ls4ekp1os9c8qbp/MajorOSInfo.pkm"
+        }
+      ],
+      "distributions": [
+        {
+          "url": "https://swdist.apple.com/content/downloads/13/30/140-88558-A_TN3FIE7J63/p61cqj3ktmcqilz3q64ls4ekp1os9c8qbp/140-88558.English.dist",
+          "english_title": "English"
+        }
+      ],
+      "server_metadata": null
+    },
+    {
+      "product_key": "140-85388",
+      "title": "macOS Sequoia",
+      "version": "15.7.9",
+      "build": "24G830",
+      "posting_date": "2026-08-06T17:20:44Z",
+      "size": 15662792553,
+      "packages": [
+        {
+          "url": "https://swcdn.apple.com/content/downloads/16/08/140-85388-A_3LX3Q36I6P/zxod6nr7zkovvsml6s628z44gdbc4exa5p/com_apple_MobileAsset_MacSoftwareUpdate.plist",
+          "size": 1428236,
+          "integrity_data_url": "https://swcdn.apple.com/content/downloads/16/08/140-85388-A_3LX3Q36I6P/zxod6nr7zkovvsml6s628z44gdbc4exa5p/com_apple_MobileAsset_MacSoftwareUpdate.plist.integrityDataV1",
+          "metadata_url": null
+        },
+        {
+          "url": "https://swcdn.apple.com/content/downloads/16/08/140-85388-A_3LX3Q36I6P/zxod6nr7zkovvsml6s628z44gdbc4exa5p/InstallAssistant.pkg",
+          "size": 15655958320,
+          "integrity_data_url": "https://swcdn.apple.com/content/downloads/16/08/140-85388-A_3LX3Q36I6P/zxod6nr7zkovvsml6s628z44gdbc4exa5p/InstallAssistant.pkg.integrityDataV1",
+          "metadata_url": "https://swdist.apple.com/content/downloads/16/08/140-85388-A_3LX3Q36I6P/zxod6nr7zkovvsml6s628z44gdbc4exa5p/InstallAssistant.pkm"
+        },
+        {
+          "url": "https://swcdn.apple.com/content/downloads/16/08/140-85388-A_3LX3Q36I6P/zxod6nr7zkovvsml6s628z44gdbc4exa5p/InstallInfo.plist",
+          "size": 181,
+          "integrity_data_url": "https://swcdn.apple.com/content/downloads/16/08/140-85388-A_3LX3Q36I6P/zxod6nr7zkovvsml6s628z44gdbc4exa5p/InstallInfo.plist.integrityDataV1",
+          "metadata_url": null
+        },
+        {
+          "url": "https://swcdn.apple.com/content/downloads/16/08/140-85388-A_3LX3Q36I6P/zxod6nr7zkovvsml6s628z44gdbc4exa5p/MajorOSInfo.pkg",
+          "size": 1255162,
+          "integrity_data_url": "https://swcdn.apple.com/content/downloads/16/08/140-85388-A_3LX3Q36I6P/zxod6nr7zkovvsml6s628z44gdbc4exa5p/MajorOSInfo.pkg.integrityDataV1",
+          "metadata_url": "https://swdist.apple.com/content/downloads/16/08/140-85388-A_3LX3Q36I6P/zxod6nr7zkovvsml6s628z44gdbc4exa5p/MajorOSInfo.pkm"
+        },
+        {
+          "url": "https://swcdn.apple.com/content/downloads/16/08/140-85388-A_3LX3Q36I6P/zxod6nr7zkovvsml6s628z44gdbc4exa5p/UpdateBrain.zip",
+          "size": 4150654,
+          "integrity_data_url": "https://swcdn.apple.com/content/downloads/16/08/140-85388-A_3LX3Q36I6P/zxod6nr7zkovvsml6s628z44gdbc4exa5p/UpdateBrain.zip.integrityDataV1",
+          "metadata_url": null
+        }
+      ],
+      "distributions": [
+        {
+          "url": "https://swdist.apple.com/content/downloads/16/08/140-85388-A_3LX3Q36I6P/zxod6nr7zkovvsml6s628z44gdbc4exa5p/140-85388.English.dist",
+          "english_title": "English"
+        }
+      ],
+      "server_metadata": null
+    },
+    {
+      "product_key": "140-77964",
+      "title": "macOS Tahoe",
+      "version": "26.6.1",
+      "build": "25G76",
+      "posting_date": "2026-08-06T17:22:02Z",
+      "size": 18375851507,
+      "packages": [
+        {
+          "url": "https://swcdn.apple.com/content/downloads/10/29/140-77964-A_0UTOTNYQBE/i3xi6sdu6ix3hinx00nytw4u0tky6oyswt/UpdateBrain.zip",
+          "size": 4393279,
+          "integrity_data_url": "https://swcdn.apple.com/content/downloads/10/29/140-77964-A_0UTOTNYQBE/i3xi6sdu6ix3hinx00nytw4u0tky6oyswt/UpdateBrain.zip.integrityDataV1",
+          "metadata_url": null
+        },
+        {
+          "url": "https://swcdn.apple.com/content/downloads/10/29/140-77964-A_0UTOTNYQBE/i3xi6sdu6ix3hinx00nytw4u0tky6oyswt/MajorOSInfo.pkg",
+          "size": 1365820,
+          "integrity_data_url": "https://swcdn.apple.com/content/downloads/10/29/140-77964-A_0UTOTNYQBE/i3xi6sdu6ix3hinx00nytw4u0tky6oyswt/MajorOSInfo.pkg.integrityDataV1",
+          "metadata_url": "https://swdist.apple.com/content/downloads/10/29/140-77964-A_0UTOTNYQBE/i3xi6sdu6ix3hinx00nytw4u0tky6oyswt/MajorOSInfo.pkm"
+        },
+        {
+          "url": "https://swcdn.apple.com/content/downloads/10/29/140-77964-A_0UTOTNYQBE/i3xi6sdu6ix3hinx00nytw4u0tky6oyswt/InstallAssistant.pkg",
+          "size": 18368573458,
+          "integrity_data_url": "https://swcdn.apple.com/content/downloads/10/29/140-77964-A_0UTOTNYQBE/i3xi6sdu6ix3hinx00nytw4u0tky6oyswt/InstallAssistant.pkg.integrityDataV1",
+          "metadata_url": "https://swdist.apple.com/content/downloads/10/29/140-77964-A_0UTOTNYQBE/i3xi6sdu6ix3hinx00nytw4u0tky6oyswt/InstallAssistant.pkm"
+        },
+        {
+          "url": "https://swcdn.apple.com/content/downloads/10/29/140-77964-A_0UTOTNYQBE/i3xi6sdu6ix3hinx00nytw4u0tky6oyswt/com_apple_MobileAsset_MacSoftwareUpdate.plist",
+          "size": 1518769,
+          "integrity_data_url": "https://swcdn.apple.com/content/downloads/10/29/140-77964-A_0UTOTNYQBE/i3xi6sdu6ix3hinx00nytw4u0tky6oyswt/com_apple_MobileAsset_MacSoftwareUpdate.plist.integrityDataV1",
+          "metadata_url": null
+        },
+        {
+          "url": "https://swcdn.apple.com/content/downloads/10/29/140-77964-A_0UTOTNYQBE/i3xi6sdu6ix3hinx00nytw4u0tky6oyswt/InstallInfo.plist",
+          "size": 181,
+          "integrity_data_url": "https://swcdn.apple.com/content/downloads/10/29/140-77964-A_0UTOTNYQBE/i3xi6sdu6ix3hinx00nytw4u0tky6oyswt/InstallInfo.plist.integrityDataV1",
+          "metadata_url": null
+        }
+      ],
+      "distributions": [
+        {
+          "url": "https://swdist.apple.com/content/downloads/10/29/140-77964-A_0UTOTNYQBE/i3xi6sdu6ix3hinx00nytw4u0tky6oyswt/140-77964.English.dist",
+          "english_title": "English"
+        }
+      ],
+      "server_metadata": null
     }
   ],
   "catalog_url": "https://swscan.apple.com/content/catalogs/others/index-14-13-12-10.16-10.15-10.14-10.13-10.12-10.11-10.10-10.9-mountainlion-lion-snowleopard-leopard.merged-1.sucatalog",
-  "total_products": 40,
+  "total_products": 43,
   "categories": {
-    "macOS": 27,
-    "Other": 13
+    "Other": 13,
+    "macOS": 30
   }
 }
