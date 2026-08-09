@@ -1,7 +1,7 @@
 {
   "Version": "2.0",
-  "UpdateHash": "26d07275bca3bec4c1e381da87a7a3758a323cce3f70d9848572e495b259f1df",
-  "LastCheck": "2026-08-08T19:06:30.199685499+00:00",
+  "UpdateHash": "e7538156cd036894e9eb0ddaaeebaa86174e827ea865b8f3ec5922cc08a2fbfd",
+  "LastCheck": "2026-08-09T02:34:21.033863920+00:00",
   "OSVersions": [
     {
       "OSVersion": "26",
@@ -19,7 +19,7 @@
           "23G6071"
         ],
         "ReleaseDate": "2026-07-27T00:00:00Z",
-        "ExpirationDate": "2026-11-06",
+        "ExpirationDate": "2026-11-07",
         "ReleaseType": "OS",
         "SecurityInfo": "https://support.apple.com/en-us/128066",
         "SecurityInfoContext": "iOS has been updated to version 26.6, which was released on July 27, 2026. This update addresses 86 security issues and is the most recent approved version.",
@@ -241,7 +241,7 @@
             "23G6071"
           ],
           "ReleaseDate": "2026-07-27T00:00:00Z",
-          "ExpirationDate": "2026-11-06",
+          "ExpirationDate": "2026-11-07",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/128066",
           "SecurityInfoContext": "iOS has been updated to version 26.6, which was released on July 27, 2026. This update addresses 86 security issues and is the most recent approved version.",
@@ -1553,7 +1553,7 @@
           "22H355"
         ],
         "ReleaseDate": "2026-05-11T00:00:00Z",
-        "ExpirationDate": "2026-11-06",
+        "ExpirationDate": "2026-11-07",
         "ReleaseType": "OS",
         "SecurityInfo": "https://support.apple.com/en-us/127111",
         "SecurityInfoContext": "iOS has been updated to version 18.7.9, which was released on May 11, 2026. This update addresses 47 security issues and is the most recent approved version.",
@@ -1643,7 +1643,7 @@
             "22H355"
           ],
           "ReleaseDate": "2026-05-11T00:00:00Z",
-          "ExpirationDate": "2026-11-06",
+          "ExpirationDate": "2026-11-07",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/127111",
           "SecurityInfoContext": "iOS has been updated to version 18.7.9, which was released on May 11, 2026. This update addresses 47 security issues and is the most recent approved version.",
@@ -1732,7 +1732,7 @@
             "22H352"
           ],
           "ReleaseDate": "2026-04-22T00:00:00Z",
-          "ExpirationDate": "2026-11-06",
+          "ExpirationDate": "2026-11-07",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/127003",
           "SecurityInfoContext": "iOS 18.7.8 was released on April 22, 2026. This release addressed one security issue. Newer updates are now available, so please check to see if they apply to your devices.",
@@ -3195,7 +3195,7 @@
           "21H461"
         ],
         "ReleaseDate": "2026-05-11T00:00:00Z",
-        "ExpirationDate": "2026-11-06",
+        "ExpirationDate": "2026-11-07",
         "ReleaseType": "OS",
         "SecurityInfo": "https://support.apple.com/en-us/127112",
         "SecurityInfoContext": "iOS has been updated to version 17.7.11, which was released on May 11, 2026. This update addresses one security issue and is the most recent approved version.",
@@ -3239,7 +3239,7 @@
             "21H461"
           ],
           "ReleaseDate": "2026-05-11T00:00:00Z",
-          "ExpirationDate": "2026-11-06",
+          "ExpirationDate": "2026-11-07",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/127112",
           "SecurityInfoContext": "iOS has been updated to version 17.7.11, which was released on May 11, 2026. This update addresses one security issue and is the most recent approved version.",
