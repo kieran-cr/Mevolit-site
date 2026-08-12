@@ -1,7 +1,7 @@
 {
   "Version": "2.0",
-  "UpdateHash": "bc8fe9f0fdee31d9be98cf2080a9f055829cc28205f34bc0db56b27b86eefb5d",
-  "LastCheck": "2026-08-12T18:52:40.648760983+00:00",
+  "UpdateHash": "192a45e2c9d60134e59ebcc86e0f77319a9f89462b652ca86a2ac5c58358c7ba",
+  "LastCheck": "2026-08-12T19:33:30.776298460+00:00",
   "OSVersions": [
     {
       "OSVersion": "Tahoe 26",
@@ -17171,7 +17171,7 @@
           "AllBuilds": [],
           "ReleaseDate": "2021-09-20T00:00:00Z",
           "ReleaseType": "OS",
-          "SecurityInfo": "https://support.apple.com/en-us/128072",
+          "SecurityInfo": "https://support.apple.com/kb/HT213675",
           "SecurityInfoContext": "macOS 12.0 was released on . This update has no published CVE entries. Newer updates are now available, so please check to see if they apply to your devices.",
           "SupportedDevices": [
             "J132AP",
@@ -18519,13 +18519,13 @@
     }
   },
   "XProtectPlistConfigData": {
-    "com.apple.XProtect": "5355",
-    "ReleaseDate": "2026-08-11T17:32:19Z"
+    "ReleaseDate": "2026-08-11T17:32:19Z",
+    "com.apple.XProtect": "5355"
   },
   "XProtectPayloads": {
-    "ReleaseDate": "2026-08-11T17:32:19Z",
+    "com.apple.XProtectFramework.XProtect": "157",
     "com.apple.XprotectFramework.PluginService": "74",
-    "com.apple.XProtectFramework.XProtect": "157"
+    "ReleaseDate": "2026-08-11T17:32:19Z"
   },
   "BackgroundSecurityImprovements": {
     "26": [
