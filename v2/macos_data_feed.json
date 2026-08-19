@@ -1,7 +1,7 @@
 {
   "Version": "2.0",
-  "UpdateHash": "6a89ca0d68f4f6ebd02df7ff5c5bad32bb4bd4e0a96e0e725578d18fc68bf9da",
-  "LastCheck": "2026-08-19T00:26:50.359830639+00:00",
+  "UpdateHash": "ff01dd5c14981afc8d69169536c09f22249f71d7f4197bebce17947e1eea0253",
+  "LastCheck": "2026-08-19T01:58:07.321825239+00:00",
   "OSVersions": [
     {
       "OSVersion": "Tahoe 26",
@@ -14,7 +14,7 @@
           "25G83"
         ],
         "ReleaseDate": "2026-08-17T00:00:00Z",
-        "ExpirationDate": "2026-11-16",
+        "ExpirationDate": "2026-11-17",
         "ReleaseType": "OS",
         "SecurityInfo": "https://support.apple.com/en-us/148281",
         "SecurityInfoContext": "macOS has been updated to version 26.6.2, which was released on August 17, 2026. This update addresses 28 security issues and is the most recent approved version.",
@@ -141,7 +141,7 @@
             "25G83"
           ],
           "ReleaseDate": "2026-08-17T00:00:00Z",
-          "ExpirationDate": "2026-11-16",
+          "ExpirationDate": "2026-11-17",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/148281",
           "SecurityInfoContext": "macOS has been updated to version 26.6.2, which was released on August 17, 2026. This update addresses 28 security issues and is the most recent approved version.",
@@ -2374,7 +2374,7 @@
           "24G830"
         ],
         "ReleaseDate": "2026-08-06T00:00:00Z",
-        "ExpirationDate": "2026-11-16",
+        "ExpirationDate": "2026-11-17",
         "ReleaseType": "OS",
         "SecurityInfo": "https://support.apple.com/en-us/148171",
         "SecurityInfoContext": "macOS has been updated to version 15.7.9, which was released on August 06, 2026. This update addresses one security issue and is the most recent approved version.",
@@ -2485,7 +2485,7 @@
             "24G830"
           ],
           "ReleaseDate": "2026-08-06T00:00:00Z",
-          "ExpirationDate": "2026-11-16",
+          "ExpirationDate": "2026-11-17",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/148171",
           "SecurityInfoContext": "macOS has been updated to version 15.7.9, which was released on August 06, 2026. This update addresses one security issue and is the most recent approved version.",
@@ -5650,7 +5650,7 @@
           "23J631"
         ],
         "ReleaseDate": "2026-08-06T00:00:00Z",
-        "ExpirationDate": "2026-11-16",
+        "ExpirationDate": "2026-11-17",
         "ReleaseType": "OS",
         "SecurityInfo": "https://support.apple.com/en-us/148172",
         "SecurityInfoContext": "macOS has been updated to version 14.8.9, which was released on August 06, 2026. This update addresses one security issue and is the most recent approved version.",
@@ -5750,7 +5750,7 @@
             "23J631"
           ],
           "ReleaseDate": "2026-08-06T00:00:00Z",
-          "ExpirationDate": "2026-11-16",
+          "ExpirationDate": "2026-11-17",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/148172",
           "SecurityInfoContext": "macOS has been updated to version 14.8.9, which was released on August 06, 2026. This update addresses one security issue and is the most recent approved version.",
@@ -9901,7 +9901,7 @@
           "22H730"
         ],
         "ReleaseDate": "2025-08-20T00:00:00Z",
-        "ExpirationDate": "2026-11-16",
+        "ExpirationDate": "2026-11-17",
         "ReleaseType": "OS",
         "SecurityInfo": "https://support.apple.com/en-us/124929",
         "SecurityInfoContext": "macOS has been updated to version 13.7.8, which was released on August 20, 2025. This update addresses one security issue and is the most recent approved version.",
@@ -10000,7 +10000,7 @@
             "22H730"
           ],
           "ReleaseDate": "2025-08-20T00:00:00Z",
-          "ExpirationDate": "2026-11-16",
+          "ExpirationDate": "2026-11-17",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/124929",
           "SecurityInfoContext": "macOS has been updated to version 13.7.8, which was released on August 20, 2025. This update addresses one security issue and is the most recent approved version.",
@@ -13984,7 +13984,7 @@
           "21H1320"
         ],
         "ReleaseDate": "2024-07-29T00:00:00Z",
-        "ExpirationDate": "2026-11-16",
+        "ExpirationDate": "2026-11-17",
         "ReleaseType": "OS",
         "SecurityInfo": "https://support.apple.com/en-us/120910",
         "SecurityInfoContext": "macOS has been updated to version 12.7.6, which was released on July 29, 2024. This update addresses 42 security issues and is the most recent approved version.",
@@ -14127,7 +14127,7 @@
             "21H1320"
           ],
           "ReleaseDate": "2024-07-29T00:00:00Z",
-          "ExpirationDate": "2026-11-16",
+          "ExpirationDate": "2026-11-17",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/120910",
           "SecurityInfoContext": "macOS has been updated to version 12.7.6, which was released on July 29, 2024. This update addresses 42 security issues and is the most recent approved version.",
@@ -17359,7 +17359,7 @@
           "AllBuilds": [],
           "ReleaseDate": "2021-09-20T00:00:00Z",
           "ReleaseType": "OS",
-          "SecurityInfo": "https://support.apple.com/en-us/122373",
+          "SecurityInfo": "https://support.apple.com/kb/HT213932",
           "SecurityInfoContext": "macOS 12.0 was released on . This update has no published CVE entries. Newer updates are now available, so please check to see if they apply to your devices.",
           "SupportedDevices": [
             "J132AP",
@@ -18711,9 +18711,9 @@
     "com.apple.XProtect": "5356"
   },
   "XProtectPayloads": {
-    "com.apple.XprotectFramework.PluginService": "74",
+    "com.apple.XProtectFramework.XProtect": "157",
     "ReleaseDate": "2026-08-18T17:29:41Z",
-    "com.apple.XProtectFramework.XProtect": "157"
+    "com.apple.XprotectFramework.PluginService": "74"
   },
   "BackgroundSecurityImprovements": {
     "26": [
