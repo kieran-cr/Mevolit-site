@@ -1,5 +1,5 @@
 {
-  "UpdateHash": "aee3d11c2459b42b93b6f4da52366b8977c63b6f7c5c277741ec284c84e0f141",
+  "UpdateHash": "adc55985ae6027df4280cf97dc2192c33aeb852633206aca4bcf9aa4f3055c0b",
   "OSVersions": [
     {
       "OSVersion": "Tahoe 26",
@@ -287,9 +287,11 @@
             "VMM-x86_64"
           ],
           "CVEs": {
-            "CVE-2026-65400": false
+            "CVE-2026-65400": true
           },
-          "ActivelyExploitedCVEs": [],
+          "ActivelyExploitedCVEs": [
+            "CVE-2026-65400"
+          ],
           "UniqueCVEsCount": 1,
           "DaysSincePreviousRelease": 10
         },
@@ -2174,9 +2176,11 @@
         ],
         "SecurityInfo": "https://support.apple.com/en-us/148171",
         "CVEs": {
-          "CVE-2026-65400": false
+          "CVE-2026-65400": true
         },
-        "ActivelyExploitedCVEs": [],
+        "ActivelyExploitedCVEs": [
+          "CVE-2026-65400"
+        ],
         "UniqueCVEsCount": 1
       },
       "SecurityReleases": [
@@ -2257,9 +2261,11 @@
             "VMM-x86_64"
           ],
           "CVEs": {
-            "CVE-2026-65400": false
+            "CVE-2026-65400": true
           },
-          "ActivelyExploitedCVEs": [],
+          "ActivelyExploitedCVEs": [
+            "CVE-2026-65400"
+          ],
           "UniqueCVEsCount": 1,
           "DaysSincePreviousRelease": 10
         },
@@ -5245,9 +5251,11 @@
         ],
         "SecurityInfo": "https://support.apple.com/en-us/148172",
         "CVEs": {
-          "CVE-2026-65400": false
+          "CVE-2026-65400": true
         },
-        "ActivelyExploitedCVEs": [],
+        "ActivelyExploitedCVEs": [
+          "CVE-2026-65400"
+        ],
         "UniqueCVEsCount": 1
       },
       "SecurityReleases": [
@@ -5317,9 +5325,11 @@
             "VMM-x86_64"
           ],
           "CVEs": {
-            "CVE-2026-65400": false
+            "CVE-2026-65400": true
           },
-          "ActivelyExploitedCVEs": [],
+          "ActivelyExploitedCVEs": [
+            "CVE-2026-65400"
+          ],
           "UniqueCVEsCount": 1,
           "DaysSincePreviousRelease": 10
         },
@@ -15184,13 +15194,13 @@
     }
   ],
   "XProtectPlistConfigData": {
-    "com.apple.XProtect": "5355",
-    "ReleaseDate": "2026-08-11T17:32:19Z"
+    "com.apple.XProtect": "5356",
+    "ReleaseDate": "2026-08-18T17:29:41Z"
   },
   "XProtectPayloads": {
     "com.apple.XProtectFramework.XProtect": "157",
     "com.apple.XprotectFramework.PluginService": "74",
-    "ReleaseDate": "2026-08-11T17:32:19Z"
+    "ReleaseDate": "2026-08-18T17:29:41Z"
   },
   "Models": {
     "Mac13,1": {

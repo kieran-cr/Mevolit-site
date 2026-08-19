@@ -1,7 +1,7 @@
 {
-  "content_hash": "869e715f990350e3add89e2e8444ee7845b8e3e23df257b1bd681938cf0d9313",
+  "content_hash": "4d87c3a835fc643701d8535249f8bf1bba0fca1fe792d403db76bae32a1acffa",
   "content_changed": true,
-  "generated_at": "2026-08-17T20:19:04.211877808Z",
+  "generated_at": "2026-08-19T00:26:50.917579622Z",
   "latest_releases": {
     "macos": {
       "version": "26.6.2",
@@ -353,7 +353,7 @@
       "version": "26.6.1",
       "build": "23O780",
       "release_date": "2026-08-17",
-      "url": "https://support.apple.com/en-us/122284",
+      "url": "https://support.apple.com/en-us/126799",
       "cves_fixed": [],
       "actively_exploited_count": 0,
       "total_cve_count": 0,
@@ -361,32 +361,43 @@
       "updates_link": null
     },
     "safari": {
-      "version": "26.6",
-      "build": "26.6",
-      "release_date": "2026-07-27T00:00:00Z",
-      "url": "https://support.apple.com/en-us/128073",
+      "version": "26.6.1",
+      "build": "26.6.1",
+      "release_date": "2026-08-18T00:00:00Z",
+      "url": "https://support.apple.com/en-us/148286",
       "cves_fixed": [
-        "CVE-2026-43792",
-        "CVE-2026-43804",
-        "CVE-2026-43821",
-        "CVE-2026-64713",
-        "CVE-2026-64718",
-        "CVE-2026-64719",
-        "CVE-2026-64728",
-        "CVE-2026-64730",
-        "CVE-2026-64757",
-        "CVE-2026-64783"
+        "CVE-2026-43794",
+        "CVE-2026-43795",
+        "CVE-2026-64715",
+        "CVE-2026-64778",
+        "CVE-2026-64779",
+        "CVE-2026-64780",
+        "CVE-2026-64781",
+        "CVE-2026-64782",
+        "CVE-2026-64784",
+        "CVE-2026-64787",
+        "CVE-2026-65331",
+        "CVE-2026-65332",
+        "CVE-2026-65333",
+        "CVE-2026-65334",
+        "CVE-2026-65335",
+        "CVE-2026-65336",
+        "CVE-2026-65337",
+        "CVE-2026-65338",
+        "CVE-2026-65340",
+        "CVE-2026-65341",
+        "CVE-2026-65351"
       ],
       "actively_exploited_count": 0,
-      "total_cve_count": 10,
+      "total_cve_count": 21,
       "enterprise_link": null,
       "updates_link": null
     }
   },
   "security_summary": {
-    "unique_cves_fixed": 142,
+    "unique_cves_fixed": 140,
     "kev_matches": 0,
-    "latest_wave_date": "2026-08-17T00:00:00Z",
+    "latest_wave_date": "2026-08-18T00:00:00Z",
     "kev_cve_list": []
   },
   "beta_releases": {
@@ -423,6 +434,13 @@
     }
   },
   "recent_releases": [
+    {
+      "release_date": "2026-08-18",
+      "name": "Safari 26.6.1",
+      "platform": "safari",
+      "version": "26.6.1",
+      "url": "https://support.apple.com/en-us/148286"
+    },
     {
       "release_date": "2026-08-17",
       "name": "iOS 18.7.10 and iPadOS 18.7.10",
@@ -491,15 +509,6 @@
       "platform": "ios",
       "version": "26.6",
       "url": "https://support.apple.com/en-us/128066"
-    },
-    {
-      "release_date": "2026-07-27",
-      "name": "macOS Sequoia 15.7.8",
-      "platform": "macos",
-      "version": "15.7.8",
-      "url": "https://support.apple.com/en-us/128071",
-      "enterprise_link": "https://support.apple.com/en-ca/121011",
-      "updates_link": "https://support.apple.com/en-ca/120283"
     }
   ]
 }
