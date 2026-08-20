@@ -1,7 +1,7 @@
 {
-  "content_hash": "d57ad8d97973b023ed9ab5d28e7c4ee28996b9b8c118385abec2c5b07d71d6d1",
+  "content_hash": "7ca1c85ea447dbe6d3fb6c3bd00fb4cd866049749f99b22ae2a09f1aa5606fee",
   "content_changed": true,
-  "generated_at": "2026-08-20T07:14:32.047899391Z",
+  "generated_at": "2026-08-20T13:25:40.954868753Z",
   "latest_releases": {
     "macos": {
       "version": "26.6.2",
@@ -353,7 +353,7 @@
       "version": "26.6.1",
       "build": "23O780",
       "release_date": "2026-08-17",
-      "url": "https://support.apple.com/en-us/121249",
+      "url": "https://support.apple.com/en-us/122904",
       "cves_fixed": [],
       "actively_exploited_count": 0,
       "total_cve_count": 0,
