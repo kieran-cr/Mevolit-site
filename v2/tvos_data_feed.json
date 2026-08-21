@@ -1,8 +1,8 @@
 {
   "OSName": "tvOS",
   "Version": "2.0",
-  "UpdateHash": "af4d6ccb470f34de94415547d5cb0cb6f530af9b431bb5f5e8ea045f155d5a02",
-  "LastCheck": "2026-08-20T20:21:23.114641503+00:00",
+  "UpdateHash": "746baadf0545fca145d83eb8140e97b949f1f2a42a6fa152526725c9768e6336",
+  "LastCheck": "2026-08-21T02:04:29.495753554+00:00",
   "OSVersions": [
     {
       "OSVersion": "tvOS 26",
@@ -16,7 +16,7 @@
           "23L6773"
         ],
         "ReleaseDate": "2026-07-27",
-        "ExpirationDate": "2026-11-18",
+        "ExpirationDate": "2026-11-19",
         "ReleaseType": "OS",
         "SecurityInfo": "https://support.apple.com/en-us/128069",
         "SecurityInfoContext": "tvOS has been updated to version 26.6, which was released on July 27, 2026. This update addresses 100 security issues and is the most recent approved version.",
@@ -157,7 +157,7 @@
             "23L6773"
           ],
           "ReleaseDate": "2026-07-27",
-          "ExpirationDate": "2026-11-18",
+          "ExpirationDate": "2026-11-19",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/128069",
           "SecurityInfoContext": "tvOS has been updated to version 26.6, which was released on July 27, 2026. This update addresses 100 security issues and is the most recent approved version.",
@@ -382,7 +382,7 @@
           "ReleaseDate": "2026-03-24",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/126797",
-          "SecurityInfoContext": "tvOS 26.4 was released on March 24, 2026. This release addressed 18 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
+          "SecurityInfoContext": "tvOS 26.4 was released on March 24, 2026. This release addressed 19 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
           "SupportedDevices": [],
           "CVEs": {
             "CVE-2025-14524": {},
@@ -402,14 +402,15 @@
             "CVE-2026-28878": {},
             "CVE-2026-28879": {},
             "CVE-2026-28882": {},
-            "CVE-2026-28886": {}
+            "CVE-2026-28886": {},
+            "CVE-2026-28896": {}
           },
           "ActivelyExploitedCVEs": [],
-          "UniqueCVEsCount": 18,
+          "UniqueCVEsCount": 19,
           "DaysSincePreviousRelease": 41,
           "update_summary": {
             "priority": "high",
-            "summary": "Addresses 18 security issues",
+            "summary": "Addresses 19 security issues",
             "recommendation": "Update to stay secure - security fixes available",
             "stats": {
               "exploited": 0,
@@ -418,7 +419,7 @@
               "medium": 0,
               "low": 0,
               "remote": 0,
-              "total": 18
+              "total": 19
             }
           }
         },

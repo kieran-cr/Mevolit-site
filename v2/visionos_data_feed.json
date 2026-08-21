@@ -1,8 +1,8 @@
 {
   "OSName": "visionOS",
   "Version": "2.0",
-  "UpdateHash": "1eaf9cde6b0e75d164d6077e8a515965bb6a105725a7838ea9638a4eff27ab23",
-  "LastCheck": "2026-08-20T20:21:23.144756885+00:00",
+  "UpdateHash": "c494e345204191fd70bdd590fd386824f4b98c08cd09b904b51acb78968803be",
+  "LastCheck": "2026-08-21T02:04:29.526459700+00:00",
   "OSVersions": [
     {
       "OSVersion": "visionOS 26",
@@ -16,9 +16,9 @@
           "23O6780"
         ],
         "ReleaseDate": "2026-08-17",
-        "ExpirationDate": "2026-11-18",
+        "ExpirationDate": "2026-11-19",
         "ReleaseType": "OS",
-        "SecurityInfo": "https://support.apple.com/en-us/122284",
+        "SecurityInfo": "https://support.apple.com/en-us/120906",
         "SecurityInfoContext": "visionOS has been updated to version 26.6.1, which was released on August 17, 2026. This update has no published CVE entries and is the most recent approved version.",
         "SupportedDevices": [
           "RealityDevice14,1",
@@ -54,9 +54,9 @@
             "23O6780"
           ],
           "ReleaseDate": "2026-08-17",
-          "ExpirationDate": "2026-11-18",
+          "ExpirationDate": "2026-11-19",
           "ReleaseType": "OS",
-          "SecurityInfo": "https://support.apple.com/en-us/122284",
+          "SecurityInfo": "https://support.apple.com/en-us/120906",
           "SecurityInfoContext": "visionOS has been updated to version 26.6.1, which was released on August 17, 2026. This update has no published CVE entries and is the most recent approved version.",
           "SupportedDevices": [
             "RealityDevice14,1",
@@ -313,7 +313,7 @@
           "ReleaseDate": "2026-03-24",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/126799",
-          "SecurityInfoContext": "visionOS 26.4 was released on March 24, 2026. This release addressed 31 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
+          "SecurityInfoContext": "visionOS 26.4 was released on March 24, 2026. This release addressed 32 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
           "SupportedDevices": [],
           "CVEs": {
             "CVE-2025-14524": {},
@@ -346,14 +346,15 @@
             "CVE-2026-28879": {},
             "CVE-2026-28880": {},
             "CVE-2026-28882": {},
-            "CVE-2026-28886": {}
+            "CVE-2026-28886": {},
+            "CVE-2026-28896": {}
           },
           "ActivelyExploitedCVEs": [],
-          "UniqueCVEsCount": 31,
+          "UniqueCVEsCount": 32,
           "DaysSincePreviousRelease": 26,
           "update_summary": {
             "priority": "high",
-            "summary": "Addresses 31 security issues",
+            "summary": "Addresses 32 security issues",
             "recommendation": "Update to stay secure - security fixes available",
             "stats": {
               "exploited": 0,
@@ -362,7 +363,7 @@
               "medium": 0,
               "low": 0,
               "remote": 0,
-              "total": 31
+              "total": 32
             }
           }
         },
