@@ -1,5 +1,5 @@
 {
-  "update_hash": "sha256:9d1e3e3436b0f9c2493ee16ea2c50406b826d04bc0cb0031555da0a766e0d52d",
+  "update_hash": "sha256:19d3a6de2ccdb0fce2e0462ed9799d62f70821074def523153978a3b6caa79a0",
   "devices": [
     {
       "name": "iPhone 2G",
@@ -4394,7 +4394,7 @@
     "build": "25G83",
     "url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75212/A2A24B94-1FC1-45A3-93F7-C51B02AF1F4D/UniversalMac_26.6.2_25G83_Restore.ipsw",
     "apple_slug": "140-75212",
-    "fetch_timestamp": "2026-08-23T07:08:46.704825985Z"
+    "fetch_timestamp": "2026-08-23T13:08:09.013180928Z"
   },
   "total_devices": 277,
   "total_firmwares": 270
