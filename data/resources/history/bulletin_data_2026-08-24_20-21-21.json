@@ -1,7 +1,7 @@
 {
-  "content_hash": "4273012df3724288e674a6ced7de80fc2214c0f170007dede733529635fe8dce",
+  "content_hash": "f69119c52620810f9b8d05d8c5c3fb6c808b611369f16c675fea520075b57b88",
   "content_changed": true,
-  "generated_at": "2026-08-22T13:08:08.863733349Z",
+  "generated_at": "2026-08-24T20:21:21.875404523Z",
   "latest_releases": {
     "macos": {
       "version": "26.6.2",
@@ -353,7 +353,7 @@
       "version": "26.6.1",
       "build": "23O780",
       "release_date": "2026-08-17",
-      "url": "https://support.apple.com/en-us/121755",
+      "url": "https://support.apple.com/en-us/125115",
       "cves_fixed": [],
       "actively_exploited_count": 0,
       "total_cve_count": 0,
@@ -401,36 +401,36 @@
     "kev_cve_list": []
   },
   "beta_releases": {
-    "latest_wave": "2026-08-17",
+    "latest_wave": "2026-08-24",
     "macos": {
-      "version": "27.0 beta 6",
-      "build": "26A5416b",
-      "released": "2026-08-17"
+      "version": "27.0 beta 7",
+      "build": "26A5421a",
+      "released": "2026-08-24"
     },
     "ios": {
-      "version": "27.0 beta 6",
-      "build": "24A5418b",
-      "released": "2026-08-17"
+      "version": "27.0 beta 7",
+      "build": "24A5424a",
+      "released": "2026-08-24"
     },
     "ipados": {
-      "version": "27.0 beta 6",
-      "build": "24A5418b",
-      "released": "2026-08-17"
+      "version": "27.0 beta 7",
+      "build": "24A5424a",
+      "released": "2026-08-24"
     },
     "tvos": {
-      "version": "27.0 beta 6",
-      "build": "24J5353b",
-      "released": "2026-08-17"
+      "version": "27.0 beta 7",
+      "build": "24J5358a",
+      "released": "2026-08-24"
     },
     "watchos": {
-      "version": "27.0 beta 6",
-      "build": "24R5353a",
-      "released": "2026-08-17"
+      "version": "27.0 beta 7",
+      "build": "24R5358a",
+      "released": "2026-08-24"
     },
     "visionos": {
-      "version": "27.0 beta 6",
-      "build": "24M5355a",
-      "released": "2026-08-17"
+      "version": "27.0 beta 7",
+      "build": "24M5359a",
+      "released": "2026-08-24"
     }
   },
   "recent_releases": [
