@@ -1,5 +1,5 @@
 {
-  "UpdateHash": "da48c55c17cb232e5223856f52f979324061dbcb5a8d659c8902bce9f4183ffc",
+  "UpdateHash": "fb3e52a51c242775f880b4ba245e8b0eb29cdc0ed47c231e9efb11b9f7ef7c8f",
   "OSVersions": [
     {
       "OSVersion": "Tahoe 26",
@@ -7,7 +7,7 @@
         "ProductVersion": "26.6.2",
         "Build": "25G83",
         "ReleaseDate": "2026-08-17T00:00:00Z",
-        "ExpirationDate": "2026-11-22T00:00:00Z",
+        "ExpirationDate": "2026-11-23T00:00:00Z",
         "SupportedDevices": [
           "J152FAP",
           "J160AP",
@@ -2108,7 +2108,7 @@
         "ProductVersion": "15.7.9",
         "Build": "24G830",
         "ReleaseDate": "2026-08-06T00:00:00Z",
-        "ExpirationDate": "2026-11-22T00:00:00Z",
+        "ExpirationDate": "2026-11-23T00:00:00Z",
         "SupportedDevices": [
           "J132AP",
           "J137AP",
@@ -5209,7 +5209,7 @@
         "ProductVersion": "14.8.9",
         "Build": "23J631",
         "ReleaseDate": "2026-08-06T00:00:00Z",
-        "ExpirationDate": "2026-11-22T00:00:00Z",
+        "ExpirationDate": "2026-11-23T00:00:00Z",
         "SupportedDevices": [
           "J132AP",
           "J137AP",
@@ -8844,7 +8844,7 @@
         "ProductVersion": "13.7.8",
         "Build": "22H730",
         "ReleaseDate": "2025-08-20T00:00:00Z",
-        "ExpirationDate": "2026-11-22T00:00:00Z",
+        "ExpirationDate": "2026-11-23T00:00:00Z",
         "SupportedDevices": [
           "J132AP",
           "J137AP",
@@ -12250,7 +12250,7 @@
         "ProductVersion": "12.7.6",
         "Build": "21H1320",
         "ReleaseDate": "2024-07-29T00:00:00Z",
-        "ExpirationDate": "2026-11-22T00:00:00Z",
+        "ExpirationDate": "2026-11-23T00:00:00Z",
         "SupportedDevices": [
           "J132AP",
           "J137AP",
@@ -16405,7 +16405,7 @@
       "build": "25G83",
       "apple_slug": "140-93587",
       "url": "https://swcdn.apple.com/content/downloads/37/33/140-93587-A_GRFFH93NOL/f944yaqo1cjhh2m0kxrl0zhcpg9yb9qphv/InstallAssistant.pkg",
-      "posting_date": "2026-08-17T17:43:47Z",
+      "posting_date": "2026-08-24T22:49:27Z",
       "size": 18391902710
     },
     "AllPreviousUMA": [
@@ -16460,7 +16460,7 @@
         "build": "24G830",
         "apple_slug": "140-85388",
         "url": "https://swcdn.apple.com/content/downloads/16/08/140-85388-A_3LX3Q36I6P/zxod6nr7zkovvsml6s628z44gdbc4exa5p/InstallAssistant.pkg",
-        "posting_date": "2026-08-06T17:20:44Z",
+        "posting_date": "2026-08-24T22:50:03Z",
         "size": 15662792553
       },
       {
@@ -16487,7 +16487,7 @@
         "build": "23J631",
         "apple_slug": "140-88558",
         "url": "https://swcdn.apple.com/content/downloads/13/30/140-88558-A_TN3FIE7J63/p61cqj3ktmcqilz3q64ls4ekp1os9c8qbp/InstallAssistant.pkg",
-        "posting_date": "2026-08-06T17:19:51Z",
+        "posting_date": "2026-08-24T22:50:35Z",
         "size": 13670152950
       },
       {
