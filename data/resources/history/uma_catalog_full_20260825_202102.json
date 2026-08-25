@@ -1,5 +1,5 @@
 {
-  "update_hash": "sha256:86665a9abb0dc3de1a3e2e6193e76fe8678c5d1d543307e1bbcc0ba3e7a415cf",
+  "update_hash": "sha256:7295fc929053a77aaaf01c166b6633ba0f8d093bf6b7404b9ba8b05e5fe25fe4",
   "products": [
     {
       "product_key": "061-26578",
@@ -3733,7 +3733,7 @@
   "catalog_url": "https://swscan.apple.com/content/catalogs/others/index-14-13-12-10.16-10.15-10.14-10.13-10.12-10.11-10.10-10.9-mountainlion-lion-snowleopard-leopard.merged-1.sucatalog",
   "total_products": 30,
   "categories": {
-    "Other": 13,
-    "macOS": 17
+    "macOS": 17,
+    "Other": 13
   }
 }
