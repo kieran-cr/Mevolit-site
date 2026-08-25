@@ -1,7 +1,7 @@
 {
   "Version": "2.0",
-  "UpdateHash": "019f6e67f98c20c6029818d95335318bb98464e08529d4eab79925fc44e02015",
-  "LastCheck": "2026-08-25T17:26:02.112377210+00:00",
+  "UpdateHash": "f0e81daa6fcdf33f7399aa1cfe05b80d361b1d4dd62f859cc0bbdf666612dec2",
+  "LastCheck": "2026-08-25T18:30:21.723031213+00:00",
   "OSVersions": [
     {
       "OSVersion": "26",
@@ -773,7 +773,7 @@
           "ExpirationDate": "2026-10-25",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/127110",
-          "SecurityInfoContext": "iOS 26.5 was released on May 11, 2026. This release addressed 61 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
+          "SecurityInfoContext": "iOS 26.5 was released on May 11, 2026. This release addressed 67 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
           "SupportedDevices": [
             "iPad11,1",
             "iPad11,2",
@@ -911,6 +911,7 @@
             "CVE-2026-28974": {},
             "CVE-2026-28977": {},
             "CVE-2026-28983": {},
+            "CVE-2026-28984": {},
             "CVE-2026-28985": {},
             "CVE-2026-28986": {},
             "CVE-2026-28987": {},
@@ -923,23 +924,28 @@
             "CVE-2026-28995": {},
             "CVE-2026-28996": {},
             "CVE-2026-39869": {},
+            "CVE-2026-39877": {},
             "CVE-2026-43653": {},
             "CVE-2026-43654": {},
             "CVE-2026-43655": {},
             "CVE-2026-43656": {},
+            "CVE-2026-43657": {},
             "CVE-2026-43658": {},
             "CVE-2026-43659": {},
             "CVE-2026-43660": {},
             "CVE-2026-43661": {},
             "CVE-2026-43666": {},
-            "CVE-2026-43668": {}
+            "CVE-2026-43667": {},
+            "CVE-2026-43668": {},
+            "CVE-2026-43670": {},
+            "CVE-2026-65367": {}
           },
           "ActivelyExploitedCVEs": [],
-          "UniqueCVEsCount": 61,
+          "UniqueCVEsCount": 67,
           "DaysSincePreviousRelease": 19,
           "update_summary": {
             "priority": "high",
-            "summary": "Addresses 61 security issues",
+            "summary": "Addresses 67 security issues",
             "recommendation": "Update to stay secure - security fixes available",
             "stats": {
               "exploited": 0,
@@ -948,7 +954,7 @@
               "medium": 0,
               "low": 0,
               "remote": 0,
-              "total": 61
+              "total": 67
             }
           }
         },
@@ -1879,7 +1885,7 @@
           "ExpirationDate": "2026-11-15",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/127111",
-          "SecurityInfoContext": "iOS 18.7.9 was released on May 11, 2026. This release addressed 47 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
+          "SecurityInfoContext": "iOS 18.7.9 was released on May 11, 2026. This release addressed 49 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
           "SupportedDevices": [
             "iPad7,11",
             "iPad7,12",
@@ -1935,14 +1941,16 @@
             "CVE-2026-43659": {},
             "CVE-2026-43660": {},
             "CVE-2026-43666": {},
-            "CVE-2026-43668": {}
+            "CVE-2026-43668": {},
+            "CVE-2026-43670": {},
+            "CVE-2026-65367": {}
           },
           "ActivelyExploitedCVEs": [],
-          "UniqueCVEsCount": 47,
+          "UniqueCVEsCount": 49,
           "DaysSincePreviousRelease": 19,
           "update_summary": {
             "priority": "high",
-            "summary": "Addresses 47 security issues",
+            "summary": "Addresses 49 security issues",
             "recommendation": "Update to stay secure - security fixes available",
             "stats": {
               "exploited": 0,
@@ -1951,7 +1959,7 @@
               "medium": 0,
               "low": 0,
               "remote": 0,
-              "total": 47
+              "total": 49
             }
           }
         },

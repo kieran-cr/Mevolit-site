@@ -1,8 +1,8 @@
 {
   "OSName": "tvOS",
   "Version": "2.0",
-  "UpdateHash": "023432398b5286ff3744b78c60ae34cdcc9a238394018d082614a5cc6032d925",
-  "LastCheck": "2026-08-25T17:26:02.143073685+00:00",
+  "UpdateHash": "879f91f593c4e6e4a026f113339cc14bcb9ebefad2c6d274bc5175eea183de1e",
+  "LastCheck": "2026-08-25T18:30:21.752810602+00:00",
   "OSVersions": [
     {
       "OSVersion": "tvOS 26",
@@ -300,7 +300,7 @@
           "ExpirationDate": "2026-10-25",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/127118",
-          "SecurityInfoContext": "tvOS 26.5 was released on May 11, 2026. This release addressed 46 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
+          "SecurityInfoContext": "tvOS 26.5 was released on May 11, 2026. This release addressed 48 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
           "SupportedDevices": [
             "AppleTV11,1",
             "AppleTV14,1",
@@ -336,6 +336,7 @@
             "CVE-2026-28974": {},
             "CVE-2026-28977": {},
             "CVE-2026-28983": {},
+            "CVE-2026-28984": {},
             "CVE-2026-28985": {},
             "CVE-2026-28986": {},
             "CVE-2026-28987": {},
@@ -346,6 +347,7 @@
             "CVE-2026-28995": {},
             "CVE-2026-28996": {},
             "CVE-2026-39869": {},
+            "CVE-2026-39877": {},
             "CVE-2026-43653": {},
             "CVE-2026-43654": {},
             "CVE-2026-43655": {},
@@ -356,11 +358,11 @@
             "CVE-2026-43668": {}
           },
           "ActivelyExploitedCVEs": [],
-          "UniqueCVEsCount": 46,
+          "UniqueCVEsCount": 48,
           "DaysSincePreviousRelease": 48,
           "update_summary": {
             "priority": "high",
-            "summary": "Addresses 46 security issues",
+            "summary": "Addresses 48 security issues",
             "recommendation": "Update to stay secure - security fixes available",
             "stats": {
               "exploited": 0,
@@ -369,7 +371,7 @@
               "medium": 0,
               "low": 0,
               "remote": 0,
-              "total": 46
+              "total": 48
             }
           }
         },
