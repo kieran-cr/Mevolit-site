@@ -1,7 +1,7 @@
 {
   "Version": "2.0",
-  "UpdateHash": "b7d28eb453b84ff7dd8040503b8e33d9b2368418359ab973ab2f541aff242837",
-  "LastCheck": "2026-08-30T16:52:12.555018126+00:00",
+  "UpdateHash": "5d77db4381b0d936687b1c6a1b1d689b99395223b87445df57241e367e79b4df",
+  "LastCheck": "2026-08-30T21:17:34.532667197+00:00",
   "OSVersions": [
     {
       "OSVersion": "26",
@@ -864,12 +864,7 @@
             "iPhone17,2",
             "iPhone17,3",
             "iPhone17,4",
-            "iPhone17,5",
-            "iPhone18,1",
-            "iPhone18,2",
-            "iPhone18,3",
-            "iPhone18,4",
-            "iPhone18,5"
+            "iPhone17,5"
           ],
           "CVEs": {
             "CVE-2026-1837": {},
