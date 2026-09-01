@@ -1,0 +1,20 @@
+name: Monitor Mevolit releases
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  ingest-ios-beta:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Detect and ingest current iOS beta
+        env:
+          ADMIN_PORTAL_URL: ${{ secrets.ADMIN_PORTAL_URL }}
+          ADMIN_API_TOKEN: ${{ secrets.ADMIN_API_TOKEN }}
+        run: python3 scripts/monitor_mevolit_releases.py
