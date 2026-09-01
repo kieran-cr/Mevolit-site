@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Detect the current iOS beta from Mevolit's upstream data feed and ingest it."""
 
+import base64
 import json
 import os
 import sys
@@ -8,17 +9,25 @@ from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
 
 
-MEVOLIT_BETA_FEED_URL = "https://raw.githubusercontent.com/macadmins/sofa/main/data/resources/apple_beta_feed.json"
+MEVOLIT_BETA_FEED_URL = "https://api.github.com/repos/macadmins/sofa/contents/data/resources/apple_beta_feed.json"
 
 
-def fetch_text(url):
-  request = Request(url, headers={"User-Agent": "Mevolit-release-monitor/1.0"})
-  with urlopen(request, timeout=30) as response:
-    return response.read().decode("utf-8", errors="replace")
+def fetch_json(url, description, headers=None):
+  request_headers = {"User-Agent": "Mevolit-release-monitor/1.0", "Accept": "application/vnd.github+json"}
+  request_headers.update(headers or {})
+  request = Request(url, headers=request_headers)
+  try:
+    with urlopen(request, timeout=30) as response:
+      return json.loads(response.read().decode("utf-8"))
+  except HTTPError as error:
+    raise ValueError(f"{description} returned HTTP {error.code}") from error
 
 
 def fetch_ios_release():
-  feed = json.loads(fetch_text(MEVOLIT_BETA_FEED_URL))
+  response = fetch_json(MEVOLIT_BETA_FEED_URL, "Mevolit beta feed")
+  if response.get("encoding") != "base64" or not response.get("content"):
+    raise ValueError("Mevolit beta feed returned an unexpected GitHub response")
+  feed = json.loads(base64.b64decode(response["content"]).decode("utf-8"))
   for item in feed.get("items", []):
     if item.get("platform") == "iOS" and item.get("version") and item.get("build"):
       return item["version"], item["build"], item.get("release_notes_url", "")
@@ -39,8 +48,11 @@ def ingest_release(portal_url, api_token, version, build, notes_url):
     method="POST",
     headers={"Authorization": f"Bearer {api_token}", "Content-Type": "application/json"},
   )
-  with urlopen(request, timeout=30) as response:
-    return json.loads(response.read().decode("utf-8"))
+  try:
+    with urlopen(request, timeout=30) as response:
+      return json.loads(response.read().decode("utf-8"))
+  except HTTPError as error:
+    raise ValueError(f"Admin portal release-ingest endpoint returned HTTP {error.code}") from error
 
 
 def main():
