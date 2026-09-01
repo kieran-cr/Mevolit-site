@@ -46,7 +46,12 @@ def ingest_release(portal_url, api_token, version, build, notes_url):
     f"{portal_url.rstrip('/')}/api/release-ingest",
     data=payload,
     method="POST",
-    headers={"Authorization": f"Bearer {api_token}", "Content-Type": "application/json"},
+    headers={
+      "Authorization": f"Bearer {api_token}",
+      "Content-Type": "application/json",
+      "Accept": "application/json",
+      "User-Agent": "Mozilla/5.0 (compatible; MevolitReleaseMonitor/1.0)",
+    },
   )
   try:
     with urlopen(request, timeout=30) as response:
