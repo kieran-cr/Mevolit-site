@@ -10,7 +10,9 @@ from urllib.request import Request, urlopen
 
 
 MEVOLIT_BETA_FEED_URL = "https://api.github.com/repos/macadmins/sofa/contents/data/resources/apple_beta_feed.json"
+MEVOLIT_STABLE_FEED_URL = "https://api.github.com/repos/macadmins/sofa/contents/data/resources/bulletin_data.json"
 SUPPORTED_PLATFORMS = ("macOS", "iOS", "iPadOS", "tvOS", "watchOS", "visionOS", "Xcode")
+STABLE_PLATFORM_NAMES = {"ios": "iOS", "ipados": "iPadOS", "macos": "macOS", "safari": "Safari", "tvos": "tvOS", "visionos": "visionOS", "watchos": "watchOS"}
 
 
 def fetch_json(url, description, headers=None):
@@ -24,30 +26,49 @@ def fetch_json(url, description, headers=None):
     raise ValueError(f"{description} returned HTTP {error.code}") from error
 
 
-def fetch_releases():
-  response = fetch_json(MEVOLIT_BETA_FEED_URL, "Mevolit beta feed")
+def fetch_feed(url, description):
+  response = fetch_json(url, description)
   if response.get("encoding") != "base64" or not response.get("content"):
-    raise ValueError("Mevolit beta feed returned an unexpected GitHub response")
-  feed = json.loads(base64.b64decode(response["content"]).decode("utf-8"))
-  releases = []
+    raise ValueError(f"{description} returned an unexpected GitHub response")
+  return json.loads(base64.b64decode(response["content"]).decode("utf-8"))
+
+
+def fetch_releases():
+  feed = fetch_feed(MEVOLIT_BETA_FEED_URL, "Mevolit beta feed")
+  latest_betas = {}
   for item in feed.get("items", []):
     platform = item.get("platform")
     if platform in SUPPORTED_PLATFORMS and item.get("version") and item.get("build"):
-      releases.append({
+      release = {
         "platform": platform,
+        "channel": "Developer Beta",
         "version": item["version"],
         "build": item["build"],
         "notesUrl": item.get("release_notes_url", ""),
+      }
+      if platform not in latest_betas or item.get("released", "") > latest_betas[platform]["released"]:
+        latest_betas[platform] = {"released": item.get("released", ""), "release": release}
+  releases = [item["release"] for item in latest_betas.values()]
+  stable_feed = fetch_feed(MEVOLIT_STABLE_FEED_URL, "Mevolit stable release feed")
+  for platform_key, item in stable_feed.get("latest_releases", {}).items():
+    platform = STABLE_PLATFORM_NAMES.get(platform_key)
+    if platform and item.get("version") and item.get("build"):
+      releases.append({
+        "platform": platform,
+        "channel": "Public Release",
+        "version": item["version"],
+        "build": item["build"],
+        "notesUrl": item.get("url", ""),
       })
   if not releases:
-    raise ValueError("Could not find supported beta releases in the Mevolit data feed")
+    raise ValueError("Could not find supported releases in the Mevolit data feeds")
   return releases
 
 
 def ingest_release(portal_url, api_token, release):
   payload = json.dumps({
     "platform": release["platform"],
-    "channel": "Developer Beta",
+    "channel": release["channel"],
     "version": release["version"],
     "build": release["build"],
     "notesUrl": release["notesUrl"],
