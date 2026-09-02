@@ -1,8 +1,8 @@
 {
   "OSName": "tvOS",
   "Version": "2.0",
-  "UpdateHash": "7d03d9cedc5ef88896290a39df683c6eae8c7a357f83995c24928d7d29005091",
-  "LastCheck": "2026-09-02T04:51:18.421402256+00:00",
+  "UpdateHash": "be5568e26633898f81336f61df4085a3a40d46ba18402738efc7040d7c25ee40",
+  "LastCheck": "2026-09-02T11:32:19.386127884+00:00",
   "OSVersions": [
     {
       "OSVersion": "tvOS 26",
@@ -913,16 +913,30 @@
           "ReleaseDate": "2025-04-16",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/122401",
-          "SecurityInfoContext": "tvOS 18.4.1 was released on April 16, 2025. This update has no published CVE entries. Newer updates are now available, so please check to see if they apply to your devices.",
+          "SecurityInfoContext": "tvOS 18.4.1 was released on April 16, 2025. This release addressed 2 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
           "SupportedDevices": [],
-          "CVEs": {},
-          "ActivelyExploitedCVEs": [],
-          "UniqueCVEsCount": 0,
+          "CVEs": {
+            "CVE-2025-31200": {
+              "nist_url": "https://nvd.nist.gov/vuln/detail/CVE-2025-31200",
+              "in_kev": true,
+              "severity": "High"
+            },
+            "CVE-2025-31201": {
+              "nist_url": "https://nvd.nist.gov/vuln/detail/CVE-2025-31201",
+              "in_kev": true,
+              "severity": "High"
+            }
+          },
+          "ActivelyExploitedCVEs": [
+            "CVE-2025-31201",
+            "CVE-2025-31200"
+          ],
+          "UniqueCVEsCount": 2,
           "DaysSincePreviousRelease": 16,
           "update_summary": {
-            "priority": "low",
-            "summary": "Maintenance update with no published CVE entries",
-            "recommendation": "Update recommended - may include unpublished security improvements",
+            "priority": "medium",
+            "summary": "Addresses 2 security issues",
+            "recommendation": "Update to stay secure - security fixes available",
             "stats": {
               "exploited": 0,
               "critical": 0,
@@ -930,7 +944,7 @@
               "medium": 0,
               "low": 0,
               "remote": 0,
-              "total": 0
+              "total": 2
             }
           }
         },
