@@ -1,7 +1,7 @@
 {
   "Version": "2.0",
-  "UpdateHash": "5c5c6d765f8725bf4d79801c4ca436c249aacdae6558ea9b90d6626c368b83a7",
-  "LastCheck": "2026-09-04T20:53:37.272753302+00:00",
+  "UpdateHash": "62fc0b3f7feec771c0a21d3a87ac32e5800c5270259ca1f656e9ead10635cf06",
+  "LastCheck": "2026-09-04T21:59:43.516677082+00:00",
   "OSVersions": [
     {
       "OSVersion": "Tahoe 26",
@@ -17386,7 +17386,7 @@
           "AllBuilds": [],
           "ReleaseDate": "2021-09-20T00:00:00Z",
           "ReleaseType": "OS",
-          "SecurityInfo": "https://support.apple.com/kb/HT213914",
+          "SecurityInfo": "https://support.apple.com/en-us/127595",
           "SecurityInfoContext": "macOS 12.0 was released on . This update has no published CVE entries. Newer updates are now available, so please check to see if they apply to your devices.",
           "SupportedDevices": [
             "J132AP",
@@ -18738,8 +18738,8 @@
     "com.apple.XProtect": "5358"
   },
   "XProtectPayloads": {
-    "com.apple.XProtectFramework.XProtect": "157",
     "ReleaseDate": "2026-09-01T21:14:25Z",
+    "com.apple.XProtectFramework.XProtect": "157",
     "com.apple.XprotectFramework.PluginService": "74"
   },
   "BackgroundSecurityImprovements": {
@@ -18875,15 +18875,6 @@
         "url": "https://swcdn.apple.com/content/downloads/22/07/122-84023-A_RQPL3GX2L6/l6vt7agjz206oaiyhvc0a4wupeffjk36st/InstallAssistant.pkg",
         "posting_date": "2026-06-09T17:28:04Z",
         "size": 18308325308
-      },
-      {
-        "title": "macOS Tahoe",
-        "version": "26.5",
-        "build": "25F71",
-        "apple_slug": "122-77688",
-        "url": "https://swcdn.apple.com/content/downloads/51/26/122-77688-A_F01L27Y7Q6/7e8t8w89evbl6sgkoy9jhrmw2tqfkhjsd9/InstallAssistant.pkg",
-        "posting_date": "2026-05-18T17:09:45Z",
-        "size": 18308485578
       },
       {
         "title": "macOS Sequoia",
