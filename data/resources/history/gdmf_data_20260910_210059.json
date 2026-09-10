@@ -4,7 +4,7 @@
       {
         "ProductVersion": "17.7.11",
         "Build": "21H461",
-        "PostingDate": "2026-09-08",
+        "PostingDate": "2026-09-10",
         "ExpirationDate": "2026-12-09",
         "SupportedDevices": [
           "iPad7,1",
@@ -87,7 +87,7 @@
       {
         "ProductVersion": "17.7.11",
         "Build": "21H6461",
-        "PostingDate": "2026-09-08",
+        "PostingDate": "2026-09-10",
         "ExpirationDate": "2026-12-09",
         "SupportedDevices": [
           "iPad7,1",
@@ -151,7 +151,7 @@
       {
         "ProductVersion": "12.5.8",
         "Build": "16H88",
-        "PostingDate": "2026-09-08",
+        "PostingDate": "2026-09-10",
         "ExpirationDate": "2026-12-09",
         "SupportedDevices": [
           "iPad4,1",
@@ -210,7 +210,7 @@
       {
         "ProductVersion": "16.7.16",
         "Build": "20H6392",
-        "PostingDate": "2026-09-08",
+        "PostingDate": "2026-09-10",
         "ExpirationDate": "2026-12-09",
         "SupportedDevices": [
           "iPad6,11",
@@ -230,7 +230,7 @@
       {
         "ProductVersion": "16.7.16",
         "Build": "20H392",
-        "PostingDate": "2026-09-08",
+        "PostingDate": "2026-09-10",
         "ExpirationDate": "2026-12-09",
         "SupportedDevices": [
           "iPad6,11",
@@ -262,7 +262,7 @@
       {
         "ProductVersion": "26.6.2",
         "Build": "23G90",
-        "PostingDate": "2026-09-08",
+        "PostingDate": "2026-09-10",
         "ExpirationDate": "2026-12-09",
         "SupportedDevices": [
           "iPad11,1",
@@ -529,7 +529,7 @@
       {
         "ProductVersion": "15.8.8",
         "Build": "19H422",
-        "PostingDate": "2026-09-08",
+        "PostingDate": "2026-09-10",
         "ExpirationDate": "2026-12-09",
         "SupportedDevices": [
           "iPad5,1",
@@ -569,7 +569,7 @@
       {
         "ProductVersion": "26.6.2",
         "Build": "23G6090",
-        "PostingDate": "2026-09-08",
+        "PostingDate": "2026-09-10",
         "ExpirationDate": "2026-12-09",
         "SupportedDevices": [
           "iPad11,1",
@@ -782,7 +782,7 @@
       {
         "ProductVersion": "18.7.10",
         "Build": "22H6374",
-        "PostingDate": "2026-09-08",
+        "PostingDate": "2026-09-10",
         "ExpirationDate": "2026-12-09",
         "SupportedDevices": [
           "iPad7,11",
@@ -796,7 +796,7 @@
       {
         "ProductVersion": "15.8.8",
         "Build": "19H6422",
-        "PostingDate": "2026-09-08",
+        "PostingDate": "2026-09-10",
         "ExpirationDate": "2026-12-09",
         "SupportedDevices": [
           "iPad5,1",
@@ -816,7 +816,7 @@
       {
         "ProductVersion": "12.5.8",
         "Build": "16H6088",
-        "PostingDate": "2026-09-08",
+        "PostingDate": "2026-09-10",
         "ExpirationDate": "2026-12-09",
         "SupportedDevices": [
           "iPad4,1",
@@ -962,7 +962,7 @@
       {
         "ProductVersion": "18.7.10",
         "Build": "22H374",
-        "PostingDate": "2026-09-08",
+        "PostingDate": "2026-09-10",
         "ExpirationDate": "2026-12-09",
         "SupportedDevices": [
           "iPad7,11",
@@ -3401,6 +3401,68 @@
         ]
       }
     ],
+    "visionOS": [
+      {
+        "ProductVersion": "26.6",
+        "Build": "23O770",
+        "PostingDate": "2026-07-27",
+        "ExpirationDate": "2026-11-15",
+        "SupportedDevices": [
+          "RealityDevice14,1",
+          "RealityDevice17,1"
+        ]
+      },
+      {
+        "ProductVersion": "26.5",
+        "Build": "23O6471",
+        "PostingDate": "2026-05-18",
+        "ExpirationDate": "2026-10-25",
+        "SupportedDevices": [
+          "RealityDevice14,1",
+          "RealityDevice17,1"
+        ]
+      },
+      {
+        "ProductVersion": "26.6.1",
+        "Build": "23O780",
+        "PostingDate": "2026-08-17",
+        "ExpirationDate": "2026-12-09",
+        "SupportedDevices": [
+          "RealityDevice14,1",
+          "RealityDevice17,1"
+        ]
+      },
+      {
+        "ProductVersion": "26.6.1",
+        "Build": "23O6780",
+        "PostingDate": "2026-08-17",
+        "ExpirationDate": "2026-12-09",
+        "SupportedDevices": [
+          "RealityDevice14,1",
+          "RealityDevice17,1"
+        ]
+      },
+      {
+        "ProductVersion": "26.5",
+        "Build": "23O471",
+        "PostingDate": "2026-05-18",
+        "ExpirationDate": "2026-10-25",
+        "SupportedDevices": [
+          "RealityDevice14,1",
+          "RealityDevice17,1"
+        ]
+      },
+      {
+        "ProductVersion": "26.6",
+        "Build": "23O6770",
+        "PostingDate": "2026-07-27",
+        "ExpirationDate": "2026-11-15",
+        "SupportedDevices": [
+          "RealityDevice14,1",
+          "RealityDevice17,1"
+        ]
+      }
+    ],
     "macOS": [
       {
         "ProductVersion": "15.7.7",
@@ -4397,68 +4459,6 @@
           "Mac-EE2EBD4B90B839A8",
           "VMA2MACOSAP",
           "VMM-x86_64"
-        ]
-      }
-    ],
-    "visionOS": [
-      {
-        "ProductVersion": "26.6",
-        "Build": "23O770",
-        "PostingDate": "2026-07-27",
-        "ExpirationDate": "2026-11-15",
-        "SupportedDevices": [
-          "RealityDevice14,1",
-          "RealityDevice17,1"
-        ]
-      },
-      {
-        "ProductVersion": "26.5",
-        "Build": "23O6471",
-        "PostingDate": "2026-05-18",
-        "ExpirationDate": "2026-10-25",
-        "SupportedDevices": [
-          "RealityDevice14,1",
-          "RealityDevice17,1"
-        ]
-      },
-      {
-        "ProductVersion": "26.6.1",
-        "Build": "23O780",
-        "PostingDate": "2026-08-17",
-        "ExpirationDate": "2026-12-09",
-        "SupportedDevices": [
-          "RealityDevice14,1",
-          "RealityDevice17,1"
-        ]
-      },
-      {
-        "ProductVersion": "26.6.1",
-        "Build": "23O6780",
-        "PostingDate": "2026-08-17",
-        "ExpirationDate": "2026-12-09",
-        "SupportedDevices": [
-          "RealityDevice14,1",
-          "RealityDevice17,1"
-        ]
-      },
-      {
-        "ProductVersion": "26.5",
-        "Build": "23O471",
-        "PostingDate": "2026-05-18",
-        "ExpirationDate": "2026-10-25",
-        "SupportedDevices": [
-          "RealityDevice14,1",
-          "RealityDevice17,1"
-        ]
-      },
-      {
-        "ProductVersion": "26.6",
-        "Build": "23O6770",
-        "PostingDate": "2026-07-27",
-        "ExpirationDate": "2026-11-15",
-        "SupportedDevices": [
-          "RealityDevice14,1",
-          "RealityDevice17,1"
         ]
       }
     ]
