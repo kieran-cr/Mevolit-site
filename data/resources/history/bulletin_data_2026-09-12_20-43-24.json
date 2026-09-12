@@ -1,7 +1,7 @@
 {
-  "content_hash": "1a3b14447d5f7e4dde033f660b5cb99f1a08eb19a15621ffaabd387ba5f195b7",
+  "content_hash": "c2247063e3d3db4118282ca4db3043de27467f0268b1db91ccae3b69bb95ae4f",
   "content_changed": true,
-  "generated_at": "2026-09-09T11:36:51.090417224Z",
+  "generated_at": "2026-09-12T20:43:24.352059409Z",
   "latest_releases": {
     "macos": {
       "version": "26.6.2",
@@ -293,7 +293,7 @@
       "version": "26.6.1",
       "build": "23O780",
       "release_date": "2026-08-17",
-      "url": "https://support.apple.com/en-us/121566",
+      "url": "https://support.apple.com/en-us/125891",
       "cves_fixed": [],
       "actively_exploited_count": 0,
       "total_cve_count": 0,
@@ -341,36 +341,36 @@
     "kev_cve_list": []
   },
   "beta_releases": {
-    "latest_wave": "2026-08-31",
+    "latest_wave": "2026-09-09",
     "macos": {
-      "version": "27.0 beta 8",
-      "build": "26A5425a",
-      "released": "2026-08-31"
+      "version": "27.0 RC",
+      "build": "26A428",
+      "released": "2026-09-09"
     },
     "ios": {
-      "version": "27.0 beta 8",
-      "build": "24A5430a",
-      "released": "2026-08-31"
+      "version": "27.0 RC",
+      "build": "24A435",
+      "released": "2026-09-09"
     },
     "ipados": {
-      "version": "27.0 beta 8",
-      "build": "24A5430a",
-      "released": "2026-08-31"
+      "version": "27.0 RC",
+      "build": "24A435",
+      "released": "2026-09-09"
     },
     "tvos": {
-      "version": "27.0 beta 8",
-      "build": "24J5360a",
-      "released": "2026-08-31"
+      "version": "27.0 RC",
+      "build": "24J360",
+      "released": "2026-09-09"
     },
     "watchos": {
-      "version": "27.0 beta 8",
-      "build": "24R5360a",
-      "released": "2026-08-31"
+      "version": "27.0 RC",
+      "build": "24R363",
+      "released": "2026-09-09"
     },
     "visionos": {
-      "version": "27.0 beta 8",
-      "build": "24M5361a",
-      "released": "2026-08-31"
+      "version": "27.0 RC",
+      "build": "24M362",
+      "released": "2026-09-09"
     }
   },
   "recent_releases": [
