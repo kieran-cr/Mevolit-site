@@ -1,5 +1,5 @@
 {
-  "update_hash": "sha256:4e269dc83ac1a1b13f3373b817ed3b1b9801676cf2673a5c5a996f81f3448d78",
+  "update_hash": "sha256:a111b852c543f30b26d9d7ec5b2eb3176cbbe758abf1fcbc41cb36a7ff0b5788",
   "devices": [
     {
       "name": "iPhone 2G",
@@ -2521,6 +2521,15 @@
     ],
     "iPad13,16": [
       {
+        "version": "26.6.2",
+        "buildid": "23G90",
+        "signed": true,
+        "signing_started": null,
+        "signing_stopped": null,
+        "url": "https://updates.cdn-apple.com/2026SummerFCS/a0ec8cbf-2086-4ed1-bb67-5244412cc052/iPad_Spring_2022_26.6.2_23G90_Restore.ipsw",
+        "filesize": 10479715286
+      },
+      {
         "version": "26.6.1",
         "buildid": "23G83",
         "signed": true,
@@ -3098,6 +3107,15 @@
       }
     ],
     "iPhone14,2": [
+      {
+        "version": "26.6.2",
+        "buildid": "23G90",
+        "signed": true,
+        "signing_started": null,
+        "signing_stopped": null,
+        "url": "https://updates.cdn-apple.com/2026SummerFCS/1494f7b1-9e49-4a79-a96b-13204325f1a5/iPhone14,2_26.6.2_23G90_Restore.ipsw",
+        "filesize": 10458452641
+      },
       {
         "version": "26.6.1",
         "buildid": "23G83",
@@ -3803,6 +3821,15 @@
     ],
     "iPhone15,2": [
       {
+        "version": "26.6.2",
+        "buildid": "23G90",
+        "signed": true,
+        "signing_started": null,
+        "signing_stopped": null,
+        "url": "https://updates.cdn-apple.com/2026SummerFCS/96b34e09-471a-4b82-811a-c52be83ec341/iPhone15,2_26.6.2_23G90_Restore.ipsw",
+        "filesize": 10570776428
+      },
+      {
         "version": "26.6.1",
         "buildid": "23G83",
         "signed": true,
@@ -4394,8 +4421,8 @@
     "build": "25G83",
     "url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75212/A2A24B94-1FC1-45A3-93F7-C51B02AF1F4D/UniversalMac_26.6.2_25G83_Restore.ipsw",
     "apple_slug": "140-75212",
-    "fetch_timestamp": "2026-09-07T21:37:52.209588422Z"
+    "fetch_timestamp": "2026-09-12T10:59:51.133792621Z"
   },
   "total_devices": 277,
-  "total_firmwares": 270
+  "total_firmwares": 273
 }
