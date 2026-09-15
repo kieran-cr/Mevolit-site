@@ -1,0 +1,197 @@
+{
+  "content_hash": "e7c7880d0af31b29d957edcf089554066dae0371acccc1c071b17ebbf8aa7a5c",
+  "content_changed": true,
+  "generated_at": "2026-09-15T17:10:13.922407341Z",
+  "latest_releases": {
+    "macos": {
+      "version": "",
+      "build": "",
+      "release_date": "",
+      "url": "",
+      "cves_fixed": [],
+      "actively_exploited_count": 0,
+      "total_cve_count": 0,
+      "enterprise_link": null,
+      "updates_link": null
+    },
+    "ios": {
+      "version": "",
+      "build": "",
+      "release_date": "",
+      "url": "",
+      "cves_fixed": [],
+      "actively_exploited_count": 0,
+      "total_cve_count": 0,
+      "enterprise_link": null,
+      "updates_link": null
+    },
+    "ipados": {
+      "version": "",
+      "build": "",
+      "release_date": "",
+      "url": "",
+      "cves_fixed": [],
+      "actively_exploited_count": 0,
+      "total_cve_count": 0,
+      "enterprise_link": null,
+      "updates_link": null
+    },
+    "tvos": {
+      "version": "",
+      "build": "",
+      "release_date": "",
+      "url": "",
+      "cves_fixed": [],
+      "actively_exploited_count": 0,
+      "total_cve_count": 0,
+      "enterprise_link": null,
+      "updates_link": null
+    },
+    "watchos": {
+      "version": "",
+      "build": "",
+      "release_date": "",
+      "url": "",
+      "cves_fixed": [],
+      "actively_exploited_count": 0,
+      "total_cve_count": 0,
+      "enterprise_link": null,
+      "updates_link": null
+    },
+    "visionos": {
+      "version": "",
+      "build": "",
+      "release_date": "",
+      "url": "",
+      "cves_fixed": [],
+      "actively_exploited_count": 0,
+      "total_cve_count": 0,
+      "enterprise_link": null,
+      "updates_link": null
+    },
+    "safari": {
+      "version": "",
+      "build": "",
+      "release_date": "",
+      "url": "",
+      "cves_fixed": [],
+      "actively_exploited_count": 0,
+      "total_cve_count": 0,
+      "enterprise_link": null,
+      "updates_link": null
+    }
+  },
+  "security_summary": {
+    "unique_cves_fixed": 0,
+    "kev_matches": 0,
+    "latest_wave_date": "",
+    "kev_cve_list": []
+  },
+  "beta_releases": {
+    "latest_wave": "2026-09-14",
+    "macos": {
+      "version": "27.0 beta",
+      "build": "26A5353q",
+      "released": "2026-06-08"
+    },
+    "ios": {
+      "version": "27.0 RC",
+      "build": "24A437",
+      "released": "2026-09-11"
+    },
+    "ipados": {
+      "version": "27.0 beta",
+      "build": "24A5355q",
+      "released": "2026-06-08"
+    },
+    "tvos": {
+      "version": "27.0 beta",
+      "build": "24J5289o",
+      "released": "2026-06-08"
+    },
+    "watchos": {
+      "version": "27.0 beta",
+      "build": "24R5289n",
+      "released": "2026-06-08"
+    },
+    "visionos": {
+      "version": "27.0 beta",
+      "build": "24M5291p",
+      "released": "2026-06-08"
+    }
+  },
+  "recent_releases": [
+    {
+      "release_date": "2026-09-14",
+      "name": "Safari 27",
+      "platform": "safari",
+      "version": "",
+      "url": "https://support.apple.com/en-us/149039"
+    },
+    {
+      "release_date": "2026-09-14",
+      "name": "Xcode 27",
+      "platform": "other",
+      "version": "",
+      "url": "https://support.apple.com/en-us/149040"
+    },
+    {
+      "release_date": "2026-09-14",
+      "name": "iOS 26.7 and iPadOS 26.7",
+      "platform": "ios",
+      "version": "26.7",
+      "url": "https://support.apple.com/en-us/149041"
+    },
+    {
+      "release_date": "2026-09-14",
+      "name": "iOS 27 and iPadOS 27",
+      "platform": "ios",
+      "version": "",
+      "url": "https://support.apple.com/en-us/149034"
+    },
+    {
+      "release_date": "2026-09-14",
+      "name": "macOS Golden Gate 27",
+      "platform": "macos",
+      "version": "",
+      "url": "https://support.apple.com/en-us/149035"
+    },
+    {
+      "release_date": "2026-09-14",
+      "name": "macOS Sequoia 15.8",
+      "platform": "macos",
+      "version": "15.8",
+      "url": "https://support.apple.com/en-us/149043",
+      "enterprise_link": "https://support.apple.com/en-ca/121011",
+      "updates_link": "https://support.apple.com/en-ca/120283"
+    },
+    {
+      "release_date": "2026-09-14",
+      "name": "macOS Tahoe 26.7",
+      "platform": "macos",
+      "version": "26.7",
+      "url": "https://support.apple.com/en-us/149042"
+    },
+    {
+      "release_date": "2026-09-14",
+      "name": "tvOS 27",
+      "platform": "tvos",
+      "version": "",
+      "url": "https://support.apple.com/en-us/149036"
+    },
+    {
+      "release_date": "2026-09-14",
+      "name": "visionOS 27",
+      "platform": "visionos",
+      "version": "",
+      "url": "https://support.apple.com/en-us/149038"
+    },
+    {
+      "release_date": "2026-09-14",
+      "name": "watchOS 27",
+      "platform": "watchos",
+      "version": "",
+      "url": "https://support.apple.com/en-us/149037"
+    }
+  ]
+}
