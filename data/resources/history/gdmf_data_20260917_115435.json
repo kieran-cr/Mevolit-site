@@ -1008,6 +1008,28 @@
         ]
       }
     ],
+    "visionOS": [
+      {
+        "ProductVersion": "27.0",
+        "Build": "24M6362",
+        "PostingDate": "2026-09-14",
+        "ExpirationDate": "2026-12-16",
+        "SupportedDevices": [
+          "RealityDevice14,1",
+          "RealityDevice17,1"
+        ]
+      },
+      {
+        "ProductVersion": "27.0",
+        "Build": "24M362",
+        "PostingDate": "2026-09-14",
+        "ExpirationDate": "2026-12-16",
+        "SupportedDevices": [
+          "RealityDevice14,1",
+          "RealityDevice17,1"
+        ]
+      }
+    ],
     "macOS": [
       {
         "ProductVersion": "14.8.9",
@@ -1578,28 +1600,6 @@
           "Mac-EE2EBD4B90B839A8",
           "VMA2MACOSAP",
           "VMM-x86_64"
-        ]
-      }
-    ],
-    "visionOS": [
-      {
-        "ProductVersion": "27.0",
-        "Build": "24M6362",
-        "PostingDate": "2026-09-14",
-        "ExpirationDate": "2026-12-16",
-        "SupportedDevices": [
-          "RealityDevice14,1",
-          "RealityDevice17,1"
-        ]
-      },
-      {
-        "ProductVersion": "27.0",
-        "Build": "24M362",
-        "PostingDate": "2026-09-14",
-        "ExpirationDate": "2026-12-16",
-        "SupportedDevices": [
-          "RealityDevice14,1",
-          "RealityDevice17,1"
         ]
       }
     ]
