@@ -1,7 +1,7 @@
 {
-  "content_hash": "83127945d94b27ce5519384393c6ea11d2177e9136bc389d6e45a221b8f9b7b4",
+  "content_hash": "c92720bdb2042bde388dd168f8ed40c0e4654d89e2bea3412eae8fdc20c217a2",
   "content_changed": true,
-  "generated_at": "2026-09-16T19:49:28.180237625Z",
+  "generated_at": "2026-09-19T04:48:41.405236729Z",
   "latest_releases": {
     "macos": {
       "version": "26.7",
@@ -814,7 +814,7 @@
     ]
   },
   "beta_releases": {
-    "latest_wave": "2026-09-16",
+    "latest_wave": "2026-09-18",
     "macos": {
       "version": "27.2 beta",
       "build": "26B5086k",
