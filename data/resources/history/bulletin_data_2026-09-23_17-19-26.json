@@ -1,7 +1,7 @@
 {
-  "content_hash": "55e9206be6e0677b6eaf932bfa4af74c4e485f90c234874afe6332b930a91e56",
+  "content_hash": "ce210136dceb8725286753e092a0943fff7daf75f082cdb64b83ebe30e977199",
   "content_changed": true,
-  "generated_at": "2026-09-20T05:06:16.440309624Z",
+  "generated_at": "2026-09-23T17:19:26.041777425Z",
   "latest_releases": {
     "macos": {
       "version": "26.7",
@@ -814,36 +814,36 @@
     ]
   },
   "beta_releases": {
-    "latest_wave": "2026-09-18",
+    "latest_wave": "2026-09-21",
     "macos": {
-      "version": "27.2 beta",
-      "build": "26B5086k",
-      "released": "2026-09-16"
+      "version": "27.2 beta 2",
+      "build": "26B5091g",
+      "released": "2026-09-21"
     },
     "ios": {
-      "version": "27.2 beta",
-      "build": "24B5084k",
-      "released": "2026-09-16"
+      "version": "27.2 beta 2",
+      "build": "24B5089g",
+      "released": "2026-09-21"
     },
     "ipados": {
-      "version": "27.2 beta",
-      "build": "24B5084k",
-      "released": "2026-09-16"
+      "version": "27.2 beta 2",
+      "build": "24B5089g",
+      "released": "2026-09-21"
     },
     "tvos": {
-      "version": "27.2 beta",
-      "build": "24K5088l",
-      "released": "2026-09-16"
+      "version": "27.2 beta 2",
+      "build": "24K5093g",
+      "released": "2026-09-21"
     },
     "watchos": {
-      "version": "27.2 beta",
-      "build": "24S5086l",
-      "released": "2026-09-16"
+      "version": "27.2 beta 2",
+      "build": "24S5091f",
+      "released": "2026-09-21"
     },
     "visionos": {
-      "version": "27.2 beta",
-      "build": "24N5088l",
-      "released": "2026-09-16"
+      "version": "27.2 beta 2",
+      "build": "24N5093f",
+      "released": "2026-09-21"
     }
   },
   "recent_releases": [
