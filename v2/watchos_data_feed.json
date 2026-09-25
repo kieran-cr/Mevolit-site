@@ -1,8 +1,8 @@
 {
   "OSName": "watchOS",
   "Version": "2.0",
-  "UpdateHash": "b05a17dbcfc1d965f23887af08c3e0d00f79c9c23d19d4b079f778ff9a956f52",
-  "LastCheck": "2026-09-24T21:39:09.584557561+00:00",
+  "UpdateHash": "48f8ca0f173efb5179d4d7e8f72ed236c0e5b0483259404f87c7d7c6c85bc376",
+  "LastCheck": "2026-09-25T05:09:01.423229231+00:00",
   "OSVersions": [
     {
       "OSVersion": "watchOS 27",
@@ -15,7 +15,7 @@
           "24R365"
         ],
         "ReleaseDate": "2026-09-23",
-        "ExpirationDate": "2026-12-23",
+        "ExpirationDate": "2026-12-24",
         "ReleaseType": "OS",
         "SecurityInfo": "https://support.apple.com/en-us/100100",
         "SecurityInfoContext": "watchOS has been updated to version 27.0.1, which was released on September 23, 2026. This update has no published CVE entries and is the most recent approved version.",
@@ -55,7 +55,7 @@
             "24R365"
           ],
           "ReleaseDate": "2026-09-23",
-          "ExpirationDate": "2026-12-23",
+          "ExpirationDate": "2026-12-24",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/100100",
           "SecurityInfoContext": "watchOS has been updated to version 27.0.1, which was released on September 23, 2026. This update has no published CVE entries and is the most recent approved version.",
@@ -95,7 +95,7 @@
             "24R364"
           ],
           "ReleaseDate": "2026-09-14",
-          "ExpirationDate": "2026-12-23",
+          "ExpirationDate": "2026-12-24",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/149037",
           "SecurityInfoContext": "watchOS 27.0 was released on September 14, 2026. This release addressed 93 security issues. Newer updates are now available, so please check to see if they apply to your devices.",
@@ -251,7 +251,7 @@
           "23U6067"
         ],
         "ReleaseDate": "2026-07-27",
-        "ExpirationDate": "2026-12-23",
+        "ExpirationDate": "2026-12-24",
         "ReleaseType": "OS",
         "SecurityInfo": "https://support.apple.com/en-us/128068",
         "SecurityInfoContext": "watchOS has been updated to version 26.6, which was released on July 27, 2026. This update addresses 106 security issues and is the most recent approved version.",
@@ -429,7 +429,7 @@
             "23U6067"
           ],
           "ReleaseDate": "2026-07-27",
-          "ExpirationDate": "2026-12-23",
+          "ExpirationDate": "2026-12-24",
           "ReleaseType": "OS",
           "SecurityInfo": "https://support.apple.com/en-us/128068",
           "SecurityInfoContext": "watchOS has been updated to version 26.6, which was released on July 27, 2026. This update addresses 106 security issues and is the most recent approved version.",
