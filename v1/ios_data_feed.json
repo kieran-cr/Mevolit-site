@@ -1,5 +1,5 @@
 {
-  "UpdateHash": "3a97aa902656a3155709074756bc145c694b5bf83138acdf05d49c3ccf32d145",
+  "UpdateHash": "9783f8f785891a63edfa7532b1345ce719fc0d1951b187e16aaf17477722381d",
   "OSVersions": [
     {
       "OSVersion": "27",
@@ -178,9 +178,11 @@
         "SupportedDevices": [],
         "SecurityInfo": "https://support.apple.com/en-us/149226",
         "CVEs": {
-          "CVE-2026-86950": false
+          "CVE-2026-86950": true
         },
-        "ActivelyExploitedCVEs": [],
+        "ActivelyExploitedCVEs": [
+          "CVE-2026-86950"
+        ],
         "UniqueCVEsCount": 1
       },
       "SecurityReleases": [
@@ -193,9 +195,11 @@
           "SecurityInfo": "https://support.apple.com/en-us/149226",
           "SupportedDevices": [],
           "CVEs": {
-            "CVE-2026-86950": false
+            "CVE-2026-86950": true
           },
-          "ActivelyExploitedCVEs": [],
+          "ActivelyExploitedCVEs": [
+            "CVE-2026-86950"
+          ],
           "UniqueCVEsCount": 1,
           "DaysSincePreviousRelease": 14
         },

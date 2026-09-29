@@ -1,5 +1,5 @@
 {
-  "UpdateHash": "7868d5771e969a944ded8ff4176795b15ccba86609487861f77fdb2fd0e36946",
+  "UpdateHash": "8297dac1b592a42d31c066f63a6c29e08a7202a4665095b4d75368a852417cf9",
   "OSVersions": [
     {
       "OSVersion": "macOS 27",
@@ -514,9 +514,11 @@
         ],
         "SecurityInfo": "https://support.apple.com/en-us/149228",
         "CVEs": {
-          "CVE-2026-86950": false
+          "CVE-2026-86950": true
         },
-        "ActivelyExploitedCVEs": [],
+        "ActivelyExploitedCVEs": [
+          "CVE-2026-86950"
+        ],
         "UniqueCVEsCount": 1
       },
       "SecurityReleases": [
@@ -593,9 +595,11 @@
             "VMM-x86_64"
           ],
           "CVEs": {
-            "CVE-2026-86950": false
+            "CVE-2026-86950": true
           },
-          "ActivelyExploitedCVEs": [],
+          "ActivelyExploitedCVEs": [
+            "CVE-2026-86950"
+          ],
           "UniqueCVEsCount": 1,
           "DaysSincePreviousRelease": 14
         },
@@ -2935,9 +2939,11 @@
         ],
         "SecurityInfo": "https://support.apple.com/en-us/149229",
         "CVEs": {
-          "CVE-2026-86950": false
+          "CVE-2026-86950": true
         },
-        "ActivelyExploitedCVEs": [],
+        "ActivelyExploitedCVEs": [
+          "CVE-2026-86950"
+        ],
         "UniqueCVEsCount": 1
       },
       "SecurityReleases": [
@@ -3018,9 +3024,11 @@
             "VMM-x86_64"
           ],
           "CVEs": {
-            "CVE-2026-86950": false
+            "CVE-2026-86950": true
           },
-          "ActivelyExploitedCVEs": [],
+          "ActivelyExploitedCVEs": [
+            "CVE-2026-86950"
+          ],
           "UniqueCVEsCount": 1,
           "DaysSincePreviousRelease": 14
         },
@@ -16316,13 +16324,13 @@
     }
   ],
   "XProtectPlistConfigData": {
-    "com.apple.XProtect": "5362",
-    "ReleaseDate": "2026-09-28T21:36:50Z"
+    "com.apple.XProtect": "5363",
+    "ReleaseDate": "2026-09-29T20:40:57Z"
   },
   "XProtectPayloads": {
     "com.apple.XProtectFramework.XProtect": "163",
     "com.apple.XprotectFramework.PluginService": "74",
-    "ReleaseDate": "2026-09-28T21:36:50Z"
+    "ReleaseDate": "2026-09-29T20:40:57Z"
   },
   "Models": {
     "Mac13,1": {
