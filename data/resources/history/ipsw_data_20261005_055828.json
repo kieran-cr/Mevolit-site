@@ -1,5 +1,5 @@
 {
-  "update_hash": "sha256:d005c6cce65fe3e8d54de3b40bfc845dd84f6394915cc4a540540e2d304cb243",
+  "update_hash": "sha256:7d2df9cc32a226e1cefb003f22bf65c535c36e2b55ecc1866cf991132eaa3215",
   "devices": [
     {
       "name": "iPhone 2G",
@@ -4542,7 +4542,7 @@
     "build": "26A434",
     "url": "https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw",
     "apple_slug": "unknown",
-    "fetch_timestamp": "2026-10-03T11:51:44.080113675Z"
+    "fetch_timestamp": "2026-10-05T05:58:28.129927638Z"
   },
   "total_devices": 284,
   "total_firmwares": 281
