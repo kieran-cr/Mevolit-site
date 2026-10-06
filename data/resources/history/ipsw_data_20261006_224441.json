@@ -1,5 +1,5 @@
 {
-  "update_hash": "sha256:c4a3d1d21d1c17a92cf71ab0cfce5772f6946215f4a36608ee216e6c5df6aa43",
+  "update_hash": "sha256:d13d3e2541222313ac8afc95661c62858cfac1f38098060937d69cee82300480",
   "devices": [
     {
       "name": "iPhone 2G",
@@ -1969,7 +1969,7 @@
       "bdid": 18
     },
     {
-      "name": "iPhone 18 Pro Max (U.S.)",
+      "name": "iPhone 18 Pro Max (US)",
       "identifier": "iPhone19,3",
       "platform": "t8160",
       "cpid": 33120,
@@ -2599,7 +2599,7 @@
       {
         "version": "27.0",
         "buildid": "24A437",
-        "signed": true,
+        "signed": false,
         "signing_started": null,
         "signing_stopped": null,
         "url": "https://updates.cdn-apple.com/2026FallFCS/50d632bf-cdd1-45a6-8b5b-91c3e11e22db/iPad_Spring_2022_27.0_24A437_Restore.ipsw",
@@ -3204,7 +3204,7 @@
       {
         "version": "27.0",
         "buildid": "24A437",
-        "signed": true,
+        "signed": false,
         "signing_started": null,
         "signing_stopped": null,
         "url": "https://updates.cdn-apple.com/2026FallFCS/3337f675-bd6c-49e2-9d4a-7b59095d07e5/iPhone14,2_27.0_24A437_Restore.ipsw",
@@ -3935,7 +3935,7 @@
       {
         "version": "27.0",
         "buildid": "24A437",
-        "signed": true,
+        "signed": false,
         "signing_started": null,
         "signing_stopped": null,
         "url": "https://updates.cdn-apple.com/2026FallFCS/2d4e0804-d9ba-4b64-914b-da8ab712fdfb/iPhone15,2_27.0_24A437_Restore.ipsw",
@@ -4542,7 +4542,7 @@
     "build": "26A434",
     "url": "https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw",
     "apple_slug": "unknown",
-    "fetch_timestamp": "2026-10-04T21:42:13.284429783Z"
+    "fetch_timestamp": "2026-10-06T22:44:41.641274926Z"
   },
   "total_devices": 284,
   "total_firmwares": 281
